@@ -1,6 +1,6 @@
 {
   "summary": {
-    "checkedAt": "2026-10-15T18:11:06.574Z",
+    "checkedAt": "2026-10-15T23:07:41.808Z",
     "mode": "all",
     "catalogueReportedTotal": 4308,
     "catalogueRowsReturned": 4308,
@@ -4713,7 +4713,7 @@
       "price": {
         "title_id": 70010000107236,
         "sales_status": "preorder",
-        "is_download_ready": false,
+        "is_download_ready": true,
         "regular_price": {
           "amount": "TWD 556",
           "currency": "TWD",
