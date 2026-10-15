@@ -255,7 +255,7 @@ function comparePriceHigh(a, b) {
 function cardTemplate(game) {
   const hasSale = game.salePrice !== null;
   const image = game.image
-    ? `<img src="${escapeHtml(game.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />`
+    ? `<img src="${escapeHtml(game.image)}" alt="" loading="lazy" />`
     : "";
 
   return `
@@ -353,7 +353,7 @@ function showGame(nsuid, record = true) {
   if (record) recordView(game);
   const hasSale = game.salePrice !== null;
   elements.dialogContent.innerHTML = `
-    ${game.image ? `<img class="dialog-cover" src="${escapeHtml(game.image)}" alt="" decoding="async" referrerpolicy="no-referrer" />` : ""}
+    ${game.image ? `<img class="dialog-cover" src="${escapeHtml(game.image)}" alt="" />` : ""}
     <div class="dialog-body">
       <p class="publisher">${escapeHtml(game.publisher)}</p>
       <h3>${escapeHtml(game.title)}</h3>
