@@ -1,0 +1,75 @@
+name: 更新價格並部署網站
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # 台灣時間每天 04:15（GitHub 排程使用 UTC）
+    - cron: "15 20 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 取得程式碼
+        uses: actions/checkout@v6
+
+      - name: 安裝 Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: 更新台服價格
+        if: github.event_name != 'push'
+        run: npm run sync
+
+      - name: 每週更新媒體評分
+        if: github.event_name != 'push'
+        env:
+          IGDB_CLIENT_ID: ${{ secrets.IGDB_CLIENT_ID }}
+          IGDB_CLIENT_SECRET: ${{ secrets.IGDB_CLIENT_SECRET }}
+        run: |
+          if [[ -n "$IGDB_CLIENT_ID" && -n "$IGDB_CLIENT_SECRET" ]] && { [[ "$(date -u +%u)" == "7" ]] || [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; }; then
+            npm run sync:ratings
+          else
+            echo "今天不更新評分，或尚未設定 IGDB Secrets。"
+          fi
+
+      - name: 保存最新資料
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/tw-eshop.json data/price-history.json data/igdb-ratings.json
+          if ! git diff --cached --quiet; then
+            git commit -m "data: update eShop prices"
+            git push
+          fi
+
+      - name: 產生靜態網站
+        run: npm run build
+
+      - name: 設定 GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: 上傳網站
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+      - name: 發布 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

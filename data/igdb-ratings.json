@@ -1,0 +1,5473 @@
+{
+  "updatedAt": "2026-09-20T09:35:21.542Z",
+  "source": "IGDB",
+  "sourceUrl": "https://www.igdb.com/",
+  "localGameCount": 3731,
+  "igdbRatedGameCount": 4578,
+  "matchedGameCount": 607,
+  "ratings": {
+    "70010000102605": {
+      "score": 86.7,
+      "reviewCount": 6,
+      "userScore": 83.8,
+      "userRatingCount": 70,
+      "igdbId": 279661,
+      "igdbName": "Monster Hunter Wilds",
+      "url": "https://www.igdb.com/games/monster-hunter-wilds"
+    },
+    "70010000122705": {
+      "score": 90.3,
+      "reviewCount": 6,
+      "userScore": 85,
+      "userRatingCount": 64,
+      "igdbId": 191411,
+      "igdbName": "Xenoblade Chronicles 3",
+      "url": "https://www.igdb.com/games/xenoblade-chronicles-3"
+    },
+    "70010000105918": {
+      "score": 94.3,
+      "reviewCount": 7,
+      "userScore": 86,
+      "userRatingCount": 108,
+      "igdbId": 26602,
+      "igdbName": "Metaphor: ReFantazio",
+      "url": "https://www.igdb.com/games/metaphor-refantazio"
+    },
+    "70010000119220": {
+      "score": 81.1,
+      "reviewCount": 10,
+      "userScore": 81.4,
+      "userRatingCount": 392,
+      "igdbId": 152249,
+      "igdbName": "Marvel's Guardians of the Galaxy",
+      "url": "https://www.igdb.com/games/marvels-guardians-of-the-galaxy"
+    },
+    "70010000116134": {
+      "score": 87,
+      "reviewCount": 1,
+      "userScore": 78.9,
+      "userRatingCount": 10,
+      "igdbId": 335833,
+      "igdbName": "The Séance of Blake Manor",
+      "url": "https://www.igdb.com/games/the-seance-of-blake-manor"
+    },
+    "70010000114444": {
+      "score": 92.8,
+      "reviewCount": 12,
+      "userScore": 87.4,
+      "userRatingCount": 1426,
+      "igdbId": 19686,
+      "igdbName": "Resident Evil 2",
+      "url": "https://www.igdb.com/games/resident-evil-2--1"
+    },
+    "70010000122487": {
+      "score": 80.8,
+      "reviewCount": 10,
+      "userScore": 77.6,
+      "userRatingCount": 617,
+      "igdbId": 115115,
+      "igdbName": "Resident Evil 3",
+      "url": "https://www.igdb.com/games/resident-evil-3"
+    },
+    "70010000117239": {
+      "score": 77.8,
+      "reviewCount": 18,
+      "userScore": 71.7,
+      "userRatingCount": 44,
+      "igdbId": 14159,
+      "igdbName": "Kingdom Hearts HD 2.8 Final Chapter Prologue",
+      "url": "https://www.igdb.com/games/kingdom-hearts-hd-2-dot-8-final-chapter-prologue"
+    },
+    "70010000117245": {
+      "score": 84.6,
+      "reviewCount": 9,
+      "userScore": 90.7,
+      "userRatingCount": 60,
+      "igdbId": 27979,
+      "igdbName": "Kingdom Hearts HD 1.5 + 2.5 Remix",
+      "url": "https://www.igdb.com/games/kingdom-hearts-hd-1-dot-5-plus-2-dot-5-remix"
+    },
+    "70010000094263": {
+      "score": 84.6,
+      "reviewCount": 9,
+      "userScore": 90.7,
+      "userRatingCount": 60,
+      "igdbId": 27979,
+      "igdbName": "Kingdom Hearts HD 1.5 + 2.5 Remix",
+      "url": "https://www.igdb.com/games/kingdom-hearts-hd-1-dot-5-plus-2-dot-5-remix"
+    },
+    "70010000126388": {
+      "score": 80.3,
+      "reviewCount": 4,
+      "userScore": 69,
+      "userRatingCount": 20,
+      "igdbId": 287849,
+      "igdbName": "Epic Mickey: Rebrushed",
+      "url": "https://www.igdb.com/games/epic-mickey-rebrushed"
+    },
+    "70010000115234": {
+      "score": 86.5,
+      "reviewCount": 6,
+      "userScore": 90.7,
+      "userRatingCount": 21,
+      "igdbId": 279630,
+      "igdbName": "Shinobi: Art of Vengeance",
+      "url": "https://www.igdb.com/games/shinobi-art-of-vengeance"
+    },
+    "70010000086750": {
+      "score": 74,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 319702,
+      "igdbName": "Spirit Valor",
+      "url": "https://www.igdb.com/games/spirit-valor"
+    },
+    "70010000122687": {
+      "score": 74,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 319702,
+      "igdbName": "Spirit Valor",
+      "url": "https://www.igdb.com/games/spirit-valor"
+    },
+    "70010000046248": {
+      "score": 80,
+      "reviewCount": 4,
+      "userScore": 60,
+      "userRatingCount": 4,
+      "igdbId": 75065,
+      "igdbName": "The Colonists",
+      "url": "https://www.igdb.com/games/the-colonists"
+    },
+    "70010000121598": {
+      "score": 89,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 145078,
+      "igdbName": "Woodo",
+      "url": "https://www.igdb.com/games/woodo"
+    },
+    "70010000128639": {
+      "score": 67,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 388448,
+      "igdbName": "Another Eden Begins",
+      "url": "https://www.igdb.com/games/another-eden-begins"
+    },
+    "70010000105773": {
+      "score": 67,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 388448,
+      "igdbName": "Another Eden Begins",
+      "url": "https://www.igdb.com/games/another-eden-begins"
+    },
+    "70010000136354": {
+      "score": 89,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 145078,
+      "igdbName": "Woodo",
+      "url": "https://www.igdb.com/games/woodo"
+    },
+    "70010000135523": {
+      "score": 82,
+      "reviewCount": 1,
+      "userScore": 70.3,
+      "userRatingCount": 82,
+      "igdbId": 405028,
+      "igdbName": "Meccha Chameleon",
+      "url": "https://www.igdb.com/games/meccha-chameleon--1"
+    },
+    "70010000106987": {
+      "score": 81.5,
+      "reviewCount": 6,
+      "userScore": 72.9,
+      "userRatingCount": 70,
+      "igdbId": 205201,
+      "igdbName": "Crisis Core: Final Fantasy VII - Reunion",
+      "url": "https://www.igdb.com/games/crisis-core-final-fantasy-vii-reunion"
+    },
+    "70010000117579": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 417182,
+      "igdbName": "Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD",
+      "url": "https://www.igdb.com/games/dragon-quest-heroes-tornekos-mystery-dungeon-classic-hd"
+    },
+    "70010000117585": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 417182,
+      "igdbName": "Dragon Quest Heroes: Torneko's Mystery Dungeon Classic HD",
+      "url": "https://www.igdb.com/games/dragon-quest-heroes-tornekos-mystery-dungeon-classic-hd"
+    },
+    "70010000112823": {
+      "score": 84.5,
+      "reviewCount": 4,
+      "userScore": 88.7,
+      "userRatingCount": 5,
+      "igdbId": 325602,
+      "igdbName": "Onimusha: Way of the Sword",
+      "url": "https://www.igdb.com/games/onimusha-way-of-the-sword"
+    },
+    "70010000116956": {
+      "score": 76,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 408823,
+      "igdbName": "NBA 2K27",
+      "url": "https://www.igdb.com/games/nba-2k27"
+    },
+    "70010000107439": {
+      "score": 88,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 403744,
+      "igdbName": "Marsupilami 2: Salsa Palombia",
+      "url": "https://www.igdb.com/games/marsupilami-2-salsa-palombia"
+    },
+    "70010000103758": {
+      "score": 75.3,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 352409,
+      "igdbName": "My Hero Academia: All's Justice",
+      "url": "https://www.igdb.com/games/my-hero-academia-alls-justice"
+    },
+    "70010000129266": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 285776,
+      "igdbName": "Wo Long: Fallen Dynasty - Complete Edition",
+      "url": "https://www.igdb.com/games/wo-long-fallen-dynasty-complete-edition"
+    },
+    "70010000118646": {
+      "score": 45.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 27794,
+      "igdbName": "Aerea",
+      "url": "https://www.igdb.com/games/aerea"
+    },
+    "70010000134707": {
+      "score": 69,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 124313,
+      "igdbName": "Heirs of the Kings",
+      "url": "https://www.igdb.com/games/heirs-of-the-kings"
+    },
+    "70010000097555": {
+      "score": 89.8,
+      "reviewCount": 4,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 338079,
+      "igdbName": "Elden Ring: Tarnished Edition",
+      "url": "https://www.igdb.com/games/elden-ring-tarnished-edition"
+    },
+    "70010000131358": {
+      "score": 72,
+      "reviewCount": 1,
+      "userScore": 76,
+      "userRatingCount": 3,
+      "igdbId": 16932,
+      "igdbName": "Quest of Dungeons",
+      "url": "https://www.igdb.com/games/quest-of-dungeons"
+    },
+    "70010000131282": {
+      "score": 91.5,
+      "reviewCount": 2,
+      "userScore": 82.5,
+      "userRatingCount": 9,
+      "igdbId": 292157,
+      "igdbName": "Pipistrello and the Cursed Yoyo",
+      "url": "https://www.igdb.com/games/pipistrello-and-the-cursed-yoyo"
+    },
+    "70010000083563": {
+      "score": 91.5,
+      "reviewCount": 2,
+      "userScore": 82.5,
+      "userRatingCount": 9,
+      "igdbId": 292157,
+      "igdbName": "Pipistrello and the Cursed Yoyo",
+      "url": "https://www.igdb.com/games/pipistrello-and-the-cursed-yoyo"
+    },
+    "70010000132306": {
+      "score": 76.7,
+      "reviewCount": 3,
+      "userScore": 80.6,
+      "userRatingCount": 56,
+      "igdbId": 200903,
+      "igdbName": "Another Crab's Treasure",
+      "url": "https://www.igdb.com/games/another-crabs-treasure"
+    },
+    "70010000051250": {
+      "score": 76.7,
+      "reviewCount": 3,
+      "userScore": 80.6,
+      "userRatingCount": 56,
+      "igdbId": 200903,
+      "igdbName": "Another Crab's Treasure",
+      "url": "https://www.igdb.com/games/another-crabs-treasure"
+    },
+    "70010000104543": {
+      "score": 78,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 320972,
+      "igdbName": "Steins;Gate Re:Boot",
+      "url": "https://www.igdb.com/games/steins-gate-re-boot"
+    },
+    "70010000123858": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": 80.9,
+      "userRatingCount": 8,
+      "igdbId": 381578,
+      "igdbName": "Berry Bury Berry",
+      "url": "https://www.igdb.com/games/berry-bury-berry"
+    },
+    "70010000121520": {
+      "score": 78,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 320972,
+      "igdbName": "Steins;Gate Re:Boot",
+      "url": "https://www.igdb.com/games/steins-gate-re-boot"
+    },
+    "70010000129007": {
+      "score": 87.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 377236,
+      "igdbName": "BlazBlue: Entropy Effect X",
+      "url": "https://www.igdb.com/games/blazblue-entropy-effect-x"
+    },
+    "70010000128353": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": 99.9,
+      "userRatingCount": 6,
+      "igdbId": 310665,
+      "igdbName": "Duskfade",
+      "url": "https://www.igdb.com/games/duskfade--1"
+    },
+    "70010000098939": {
+      "score": 46,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 319802,
+      "igdbName": "Achilles: Survivor",
+      "url": "https://www.igdb.com/games/achilles-survivor"
+    },
+    "70010000105258": {
+      "score": 73.5,
+      "reviewCount": 11,
+      "userScore": 74.6,
+      "userRatingCount": 526,
+      "igdbId": 2903,
+      "igdbName": "Warframe",
+      "url": "https://www.igdb.com/games/warframe"
+    },
+    "70010000110269": {
+      "score": 73.5,
+      "reviewCount": 11,
+      "userScore": 74.6,
+      "userRatingCount": 526,
+      "igdbId": 2903,
+      "igdbName": "Warframe",
+      "url": "https://www.igdb.com/games/warframe"
+    },
+    "70010000118704": {
+      "score": 89.5,
+      "reviewCount": 2,
+      "userScore": 67.8,
+      "userRatingCount": 8,
+      "igdbId": 56026,
+      "igdbName": "Kynseed",
+      "url": "https://www.igdb.com/games/kynseed"
+    },
+    "70010000103580": {
+      "score": 90,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 405442,
+      "igdbName": "Lies of P: Complete Edition",
+      "url": "https://www.igdb.com/games/lies-of-p-complete-edition"
+    },
+    "70010000109972": {
+      "score": 90,
+      "reviewCount": 1,
+      "userScore": 80.4,
+      "userRatingCount": 15,
+      "igdbId": 279624,
+      "igdbName": "Big Walk",
+      "url": "https://www.igdb.com/games/big-walk"
+    },
+    "70010000122068": {
+      "score": 85,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 167419,
+      "igdbName": "Kusan: City of Wolves",
+      "url": "https://www.igdb.com/games/kusan-city-of-wolves"
+    },
+    "70010000113868": {
+      "score": 86.2,
+      "reviewCount": 21,
+      "userScore": 84.8,
+      "userRatingCount": 88,
+      "igdbId": 14144,
+      "igdbName": "Final Fantasy X/X-2 HD Remaster",
+      "url": "https://www.igdb.com/games/final-fantasy-x-slash-x-2-hd-remaster"
+    },
+    "70010000124325": {
+      "score": 81.3,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 373021,
+      "igdbName": "Avatar Legends: The Fighting Game",
+      "url": "https://www.igdb.com/games/avatar-legends-the-fighting-game"
+    },
+    "70010000073076": {
+      "score": 88.3,
+      "reviewCount": 4,
+      "userScore": 85.9,
+      "userRatingCount": 91,
+      "igdbId": 194821,
+      "igdbName": "Nine Sols",
+      "url": "https://www.igdb.com/games/nine-sols"
+    },
+    "70010000070062": {
+      "score": 92,
+      "reviewCount": 3,
+      "userScore": 89.8,
+      "userRatingCount": 10,
+      "igdbId": 180876,
+      "igdbName": "Astral Ascent",
+      "url": "https://www.igdb.com/games/astral-ascent--1"
+    },
+    "70010000074495": {
+      "score": 81.6,
+      "reviewCount": 8,
+      "userScore": 80,
+      "userRatingCount": 11,
+      "igdbId": 254871,
+      "igdbName": "Hello Kitty Island Adventure",
+      "url": "https://www.igdb.com/games/hello-kitty-island-adventure"
+    },
+    "70010000046501": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": 78.7,
+      "userRatingCount": 19,
+      "igdbId": 122050,
+      "igdbName": "A Juggler's Tale",
+      "url": "https://www.igdb.com/games/a-jugglers-tale"
+    },
+    "70010000095444": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 331460,
+      "igdbName": "Mobile Suit Gundam Seed: Battle Destiny Remastered",
+      "url": "https://www.igdb.com/games/mobile-suit-gundam-seed-battle-destiny-remastered"
+    },
+    "70010000027490": {
+      "score": 77.5,
+      "reviewCount": 2,
+      "userScore": 75.4,
+      "userRatingCount": 136,
+      "igdbId": 19520,
+      "igdbName": "Far: Lone Sails",
+      "url": "https://www.igdb.com/games/far-lone-sails"
+    },
+    "70010000040487": {
+      "score": 81.7,
+      "reviewCount": 3,
+      "userScore": 80,
+      "userRatingCount": 54,
+      "igdbId": 135919,
+      "igdbName": "Alba: A Wildlife Adventure",
+      "url": "https://www.igdb.com/games/alba-a-wildlife-adventure"
+    },
+    "70010000043435": {
+      "score": 82,
+      "reviewCount": 1,
+      "userScore": 70.6,
+      "userRatingCount": 17,
+      "igdbId": 116403,
+      "igdbName": "Eldest Souls",
+      "url": "https://www.igdb.com/games/eldest-souls"
+    },
+    "70010000120106": {
+      "score": 85.6,
+      "reviewCount": 19,
+      "userScore": 85.3,
+      "userRatingCount": 716,
+      "igdbId": 4754,
+      "igdbName": "Alien: Isolation",
+      "url": "https://www.igdb.com/games/alien-isolation"
+    },
+    "70010000109857": {
+      "score": 81.6,
+      "reviewCount": 8,
+      "userScore": 80,
+      "userRatingCount": 11,
+      "igdbId": 254871,
+      "igdbName": "Hello Kitty Island Adventure",
+      "url": "https://www.igdb.com/games/hello-kitty-island-adventure"
+    },
+    "70010000124632": {
+      "score": 82.9,
+      "reviewCount": 7,
+      "userScore": 89.7,
+      "userRatingCount": 9,
+      "igdbId": 254337,
+      "igdbName": "Star Ocean: The Second Story R",
+      "url": "https://www.igdb.com/games/star-ocean-the-second-story-r"
+    },
+    "70010000131285": {
+      "score": 83.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 279369,
+      "igdbName": "The Mermaid Mask",
+      "url": "https://www.igdb.com/games/the-mermaid-mask--1"
+    },
+    "70010000122456": {
+      "score": 83.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 279369,
+      "igdbName": "The Mermaid Mask",
+      "url": "https://www.igdb.com/games/the-mermaid-mask--1"
+    },
+    "70010000127434": {
+      "score": 75,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 401893,
+      "igdbName": "Moss: The Forgotten Relic",
+      "url": "https://www.igdb.com/games/moss-the-forgotten-relic"
+    },
+    "70010000122602": {
+      "score": 77,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 285987,
+      "igdbName": "Teeto",
+      "url": "https://www.igdb.com/games/teeto"
+    },
+    "70010000106498": {
+      "score": 77,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 285987,
+      "igdbName": "Teeto",
+      "url": "https://www.igdb.com/games/teeto"
+    },
+    "70010000103981": {
+      "score": 83.5,
+      "reviewCount": 4,
+      "userScore": 80.8,
+      "userRatingCount": 9,
+      "igdbId": 361826,
+      "igdbName": "Denshattack!",
+      "url": "https://www.igdb.com/games/denshattack"
+    },
+    "70010000114809": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 369840,
+      "igdbName": "D-topia",
+      "url": "https://www.igdb.com/games/d-topia"
+    },
+    "70010000060571": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 369840,
+      "igdbName": "D-topia",
+      "url": "https://www.igdb.com/games/d-topia"
+    },
+    "70010000116717": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": 69.7,
+      "userRatingCount": 50,
+      "igdbId": 197202,
+      "igdbName": "Escape the Backrooms",
+      "url": "https://www.igdb.com/games/escape-the-backrooms"
+    },
+    "70010000118067": {
+      "score": 71,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 325366,
+      "igdbName": "Hyperwired",
+      "url": "https://www.igdb.com/games/hyperwired"
+    },
+    "70010000122821": {
+      "score": 81,
+      "reviewCount": 1,
+      "userScore": 79.4,
+      "userRatingCount": 8,
+      "igdbId": 337031,
+      "igdbName": "Rhythm Heaven Groove",
+      "url": "https://www.igdb.com/games/rhythm-heaven-groove"
+    },
+    "70010000127980": {
+      "score": 81,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 405904,
+      "igdbName": "Namco Legendary Mountains",
+      "url": "https://www.igdb.com/games/namco-legendary-mountains"
+    },
+    "70010000109785": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": 70.2,
+      "userRatingCount": 6,
+      "igdbId": 202138,
+      "igdbName": "Deer & Boy",
+      "url": "https://www.igdb.com/games/deer-and-boy"
+    },
+    "70010000099152": {
+      "score": 86,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 395294,
+      "igdbName": "Dark Scrolls",
+      "url": "https://www.igdb.com/games/dark-scrolls"
+    },
+    "70010000113878": {
+      "score": 90,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 405444,
+      "igdbName": "Devil May Cry 5: Devil Hunter Edition",
+      "url": "https://www.igdb.com/games/devil-may-cry-5-devil-hunter-edition"
+    },
+    "70010000114427": {
+      "score": 86.3,
+      "reviewCount": 4,
+      "userScore": 79.9,
+      "userRatingCount": 12,
+      "igdbId": 305019,
+      "igdbName": "Wanderstop",
+      "url": "https://www.igdb.com/games/wanderstop"
+    },
+    "70010000114421": {
+      "score": 86.3,
+      "reviewCount": 4,
+      "userScore": 79.9,
+      "userRatingCount": 12,
+      "igdbId": 305019,
+      "igdbName": "Wanderstop",
+      "url": "https://www.igdb.com/games/wanderstop"
+    },
+    "70010000121909": {
+      "score": 90,
+      "reviewCount": 1,
+      "userScore": 79.9,
+      "userRatingCount": 5,
+      "igdbId": 287431,
+      "igdbName": "Parking Garage Rally Circuit",
+      "url": "https://www.igdb.com/games/parking-garage-rally-circuit"
+    },
+    "70010000077086": {
+      "score": 81,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 293869,
+      "igdbName": "Super Farming Boy",
+      "url": "https://www.igdb.com/games/super-farming-boy"
+    },
+    "70010000100979": {
+      "score": 53,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 275688,
+      "igdbName": "#Drive Rally",
+      "url": "https://www.igdb.com/games/number-drive-rally"
+    },
+    "70010000116334": {
+      "score": 88,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 346959,
+      "igdbName": "Demeo x Dungeons & Dragons: Battlemarked",
+      "url": "https://www.igdb.com/games/demeo-x-dungeons-and-dragons-battlemarked"
+    },
+    "70010000116155": {
+      "score": 81,
+      "reviewCount": 3,
+      "userScore": 74.9,
+      "userRatingCount": 77,
+      "igdbId": 107215,
+      "igdbName": "SnowRunner",
+      "url": "https://www.igdb.com/games/snowrunner"
+    },
+    "70010000125789": {
+      "score": 76,
+      "reviewCount": 3,
+      "userScore": 75.7,
+      "userRatingCount": 88,
+      "igdbId": 26776,
+      "igdbName": "Detention",
+      "url": "https://www.igdb.com/games/detention"
+    },
+    "70010000105162": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 307254,
+      "igdbName": "Arashi Gaiden",
+      "url": "https://www.igdb.com/games/arashi-gaiden"
+    },
+    "70010000115645": {
+      "score": 80.3,
+      "reviewCount": 3,
+      "userScore": 77.9,
+      "userRatingCount": 7,
+      "igdbId": 255090,
+      "igdbName": "To a T",
+      "url": "https://www.igdb.com/games/to-a-t"
+    },
+    "70010000118063": {
+      "score": 76,
+      "reviewCount": 1,
+      "userScore": 63.3,
+      "userRatingCount": 5,
+      "igdbId": 194950,
+      "igdbName": "Solarpunk",
+      "url": "https://www.igdb.com/games/solarpunk"
+    },
+    "70010000127664": {
+      "score": 82,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 402304,
+      "igdbName": "Isekai Villain",
+      "url": "https://www.igdb.com/games/isekai-villain"
+    },
+    "70010000118392": {
+      "score": 82,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 402304,
+      "igdbName": "Isekai Villain",
+      "url": "https://www.igdb.com/games/isekai-villain"
+    },
+    "70010000123107": {
+      "score": 82.2,
+      "reviewCount": 13,
+      "userScore": 81.8,
+      "userRatingCount": 332,
+      "igdbId": 121760,
+      "igdbName": "Little Nightmares II",
+      "url": "https://www.igdb.com/games/little-nightmares-ii"
+    },
+    "70010000127477": {
+      "score": 84.5,
+      "reviewCount": 2,
+      "userScore": 87.7,
+      "userRatingCount": 7,
+      "igdbId": 26589,
+      "igdbName": "RollerCoaster Tycoon Classic",
+      "url": "https://www.igdb.com/games/rollercoaster-tycoon-classic"
+    },
+    "70010000112485": {
+      "score": 88.7,
+      "reviewCount": 12,
+      "userScore": 89.7,
+      "userRatingCount": 153,
+      "igdbId": 133236,
+      "igdbName": "Final Fantasy VII Rebirth",
+      "url": "https://www.igdb.com/games/final-fantasy-vii-rebirth"
+    },
+    "70010000121858": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 325581,
+      "igdbName": "One Move Away",
+      "url": "https://www.igdb.com/games/one-move-away"
+    },
+    "70010000121672": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 325581,
+      "igdbName": "One Move Away",
+      "url": "https://www.igdb.com/games/one-move-away"
+    },
+    "70010000104262": {
+      "score": 90.8,
+      "reviewCount": 5,
+      "userScore": 82.1,
+      "userRatingCount": 28,
+      "igdbId": 189781,
+      "igdbName": "Mina the Hollower",
+      "url": "https://www.igdb.com/games/mina-the-hollower"
+    },
+    "70010000127974": {
+      "score": 90.8,
+      "reviewCount": 5,
+      "userScore": 82.1,
+      "userRatingCount": 28,
+      "igdbId": 189781,
+      "igdbName": "Mina the Hollower",
+      "url": "https://www.igdb.com/games/mina-the-hollower"
+    },
+    "70010000120806": {
+      "score": 75.3,
+      "reviewCount": 4,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 375072,
+      "igdbName": "Bluey's Quest for the Gold Pen",
+      "url": "https://www.igdb.com/games/blueys-quest-for-the-gold-pen"
+    },
+    "70010000111303": {
+      "score": 83,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 221649,
+      "igdbName": "Judero",
+      "url": "https://www.igdb.com/games/judero"
+    },
+    "70010000119348": {
+      "score": 85,
+      "reviewCount": 8,
+      "userScore": 81.4,
+      "userRatingCount": 737,
+      "igdbId": 110248,
+      "igdbName": "Stray",
+      "url": "https://www.igdb.com/games/stray"
+    },
+    "70010000115722": {
+      "score": 84,
+      "reviewCount": 2,
+      "userScore": 84.1,
+      "userRatingCount": 7,
+      "igdbId": 274368,
+      "igdbName": "Realm of Ink",
+      "url": "https://www.igdb.com/games/realm-of-ink"
+    },
+    "70010000111761": {
+      "score": 80,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 267775,
+      "igdbName": "Tales of Arise: Beyond the Dawn Edition",
+      "url": "https://www.igdb.com/games/tales-of-arise-beyond-the-dawn-edition"
+    },
+    "70010000107349": {
+      "score": 81,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 389143,
+      "igdbName": "FZ: Formation Z",
+      "url": "https://www.igdb.com/games/fz-formation-z"
+    },
+    "70010000115243": {
+      "score": 68.3,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 381109,
+      "igdbName": "R-Type Dimensions III",
+      "url": "https://www.igdb.com/games/r-type-dimensions-iii"
+    },
+    "70010000115247": {
+      "score": 68.3,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 381109,
+      "igdbName": "R-Type Dimensions III",
+      "url": "https://www.igdb.com/games/r-type-dimensions-iii"
+    },
+    "70010000114386": {
+      "score": 76,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 345982,
+      "igdbName": "Rune Dice",
+      "url": "https://www.igdb.com/games/rune-dice"
+    },
+    "70010000094580": {
+      "score": 85,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 140847,
+      "igdbName": "Söldner-X 2: Final Prototype - Definitive Edition",
+      "url": "https://www.igdb.com/games/soldner-x-2-final-prototype-definitive-edition"
+    },
+    "70010000116826": {
+      "score": 75,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 319146,
+      "igdbName": "Nitro Gen Omega",
+      "url": "https://www.igdb.com/games/nitro-gen-omega"
+    },
+    "70010000118309": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 395965,
+      "igdbName": "Akuma Rise",
+      "url": "https://www.igdb.com/games/akuma-rise"
+    },
+    "70010000113354": {
+      "score": 77,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 177278,
+      "igdbName": "Decline's Drops",
+      "url": "https://www.igdb.com/games/declines-drops"
+    },
+    "70010000113919": {
+      "score": 74,
+      "reviewCount": 1,
+      "userScore": 74.6,
+      "userRatingCount": 61,
+      "igdbId": 305157,
+      "igdbName": "Mixtape",
+      "url": "https://www.igdb.com/games/mixtape--1"
+    },
+    "70010000091019": {
+      "score": 82,
+      "reviewCount": 2,
+      "userScore": 80,
+      "userRatingCount": 23,
+      "igdbId": 306153,
+      "igdbName": "The Hundred Line: Last Defense Academy",
+      "url": "https://www.igdb.com/games/the-hundred-line-last-defense-academy"
+    },
+    "70010000123163": {
+      "score": 81.4,
+      "reviewCount": 7,
+      "userScore": 76.9,
+      "userRatingCount": 110,
+      "igdbId": 113107,
+      "igdbName": "Sayonara Wild Hearts",
+      "url": "https://www.igdb.com/games/sayonara-wild-hearts"
+    },
+    "70010000042395": {
+      "score": 68.5,
+      "reviewCount": 11,
+      "userScore": 59.8,
+      "userRatingCount": 21,
+      "igdbId": 13561,
+      "igdbName": "Digimon World: Next Order",
+      "url": "https://www.igdb.com/games/digimon-world-next-order"
+    },
+    "70010000034618": {
+      "score": 86.1,
+      "reviewCount": 14,
+      "userScore": 84.7,
+      "userRatingCount": 760,
+      "igdbId": 103298,
+      "igdbName": "Doom Eternal",
+      "url": "https://www.igdb.com/games/doom-eternal"
+    },
+    "70010000078766": {
+      "score": 54.5,
+      "reviewCount": 4,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 247567,
+      "igdbName": "Funko Fusion",
+      "url": "https://www.igdb.com/games/funko-fusion"
+    },
+    "70010000067706": {
+      "score": 92.5,
+      "reviewCount": 2,
+      "userScore": 83.5,
+      "userRatingCount": 63,
+      "igdbId": 250621,
+      "igdbName": "Neva",
+      "url": "https://www.igdb.com/games/neva"
+    },
+    "70010000034864": {
+      "score": 68.3,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 74540,
+      "igdbName": "Deemo: Reborn",
+      "url": "https://www.igdb.com/games/deemo-reborn"
+    },
+    "70010000105564": {
+      "score": 86.5,
+      "reviewCount": 22,
+      "userScore": 81.5,
+      "userRatingCount": 638,
+      "igdbId": 36952,
+      "igdbName": "Wolfenstein II: The New Colossus",
+      "url": "https://www.igdb.com/games/wolfenstein-ii-the-new-colossus"
+    },
+    "70010000028265": {
+      "score": 86.7,
+      "reviewCount": 10,
+      "userScore": 58.2,
+      "userRatingCount": 29,
+      "igdbId": 145782,
+      "igdbName": "OlliOlli World",
+      "url": "https://www.igdb.com/games/olliolli-world"
+    },
+    "70010000042189": {
+      "score": 70,
+      "reviewCount": 3,
+      "userScore": 67.4,
+      "userRatingCount": 29,
+      "igdbId": 105417,
+      "igdbName": "Digimon Survive",
+      "url": "https://www.igdb.com/games/digimon-survive"
+    },
+    "70010000079746": {
+      "score": 68.8,
+      "reviewCount": 5,
+      "userScore": 41.7,
+      "userRatingCount": 10,
+      "igdbId": 140799,
+      "igdbName": "SCHiM",
+      "url": "https://www.igdb.com/games/schim"
+    },
+    "70010000057089": {
+      "score": 90,
+      "reviewCount": 1,
+      "userScore": 70.2,
+      "userRatingCount": 12,
+      "igdbId": 195732,
+      "igdbName": "Ib",
+      "url": "https://www.igdb.com/games/ib--1"
+    },
+    "70010000062211": {
+      "score": 50,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 256464,
+      "igdbName": "Rose & Camellia Collection",
+      "url": "https://www.igdb.com/games/rose-and-camellia-collection"
+    },
+    "70010000078612": {
+      "score": 62,
+      "reviewCount": 4,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 287858,
+      "igdbName": "Reynatis",
+      "url": "https://www.igdb.com/games/reynatis"
+    },
+    "70010000105078": {
+      "score": 71.5,
+      "reviewCount": 4,
+      "userScore": 60,
+      "userRatingCount": 1,
+      "igdbId": 37032,
+      "igdbName": "Blade Strangers",
+      "url": "https://www.igdb.com/games/blade-strangers"
+    },
+    "70010000078173": {
+      "score": 90,
+      "reviewCount": 2,
+      "userScore": 81,
+      "userRatingCount": 24,
+      "igdbId": 287846,
+      "igdbName": "Ender Magnolia: Bloom in the Mist",
+      "url": "https://www.igdb.com/games/ender-magnolia-bloom-in-the-mist"
+    },
+    "70010000121746": {
+      "score": 81.4,
+      "reviewCount": 7,
+      "userScore": 76.9,
+      "userRatingCount": 110,
+      "igdbId": 113107,
+      "igdbName": "Sayonara Wild Hearts",
+      "url": "https://www.igdb.com/games/sayonara-wild-hearts"
+    },
+    "70010000115541": {
+      "score": 78,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 306417,
+      "igdbName": "Bandit Trap",
+      "url": "https://www.igdb.com/games/bandit-trap"
+    },
+    "70010000101669": {
+      "score": 87.5,
+      "reviewCount": 6,
+      "userScore": 87,
+      "userRatingCount": 137,
+      "igdbId": 134612,
+      "igdbName": "Pragmata",
+      "url": "https://www.igdb.com/games/pragmata"
+    },
+    "70010000124247": {
+      "score": 88.5,
+      "reviewCount": 4,
+      "userScore": 89.1,
+      "userRatingCount": 26,
+      "igdbId": 206806,
+      "igdbName": "Lorelei and the Laser Eyes",
+      "url": "https://www.igdb.com/games/lorelei-and-the-laser-eyes"
+    },
+    "70010000054302": {
+      "score": 88.5,
+      "reviewCount": 4,
+      "userScore": 89.1,
+      "userRatingCount": 26,
+      "igdbId": 206806,
+      "igdbName": "Lorelei and the Laser Eyes",
+      "url": "https://www.igdb.com/games/lorelei-and-the-laser-eyes"
+    },
+    "70010000103746": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 387666,
+      "igdbName": "Kazuma Kaneko's Tsukuyomi",
+      "url": "https://www.igdb.com/games/kazuma-kanekos-tsukuyomi"
+    },
+    "70010000100984": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 289444,
+      "igdbName": "Dragon Is Dead",
+      "url": "https://www.igdb.com/games/dragon-is-dead"
+    },
+    "70010000120061": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 376985,
+      "igdbName": "Saint Slayer: Spear of Sacrilege",
+      "url": "https://www.igdb.com/games/saint-slayer-spear-of-sacrilege"
+    },
+    "70010000110392": {
+      "score": 87,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 234662,
+      "igdbName": "Opus: Prism Peak",
+      "url": "https://www.igdb.com/games/opus-prism-peak"
+    },
+    "70010000101095": {
+      "score": 84,
+      "reviewCount": 4,
+      "userScore": 71.4,
+      "userRatingCount": 38,
+      "igdbId": 249324,
+      "igdbName": "Mouse: P.I. For Hire",
+      "url": "https://www.igdb.com/games/mouse-pi-for-hire--1"
+    },
+    "70010000116666": {
+      "score": 81,
+      "reviewCount": 2,
+      "userScore": 80.1,
+      "userRatingCount": 41,
+      "igdbId": 337036,
+      "igdbName": "Tomodachi Life: Living the Dream",
+      "url": "https://www.igdb.com/games/tomodachi-life-living-the-dream"
+    },
+    "70010000102974": {
+      "score": 56,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 334365,
+      "igdbName": "Under Par Golf Architect",
+      "url": "https://www.igdb.com/games/under-par-golf-architect"
+    },
+    "70010000103933": {
+      "score": 89.1,
+      "reviewCount": 24,
+      "userScore": 81.8,
+      "userRatingCount": 1174,
+      "igdbId": 8173,
+      "igdbName": "Overwatch",
+      "url": "https://www.igdb.com/games/overwatch"
+    },
+    "70010000118910": {
+      "score": 79,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 305023,
+      "igdbName": "Dosa Divas",
+      "url": "https://www.igdb.com/games/dosa-divas"
+    },
+    "70010000098844": {
+      "score": 79,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 305023,
+      "igdbName": "Dosa Divas",
+      "url": "https://www.igdb.com/games/dosa-divas"
+    },
+    "70010000111670": {
+      "score": 82.3,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 369842,
+      "igdbName": "People of Note",
+      "url": "https://www.igdb.com/games/people-of-note"
+    },
+    "70010000118239": {
+      "score": 72.5,
+      "reviewCount": 2,
+      "userScore": 61.3,
+      "userRatingCount": 5,
+      "igdbId": 348175,
+      "igdbName": "Super Meat Boy 3D",
+      "url": "https://www.igdb.com/games/super-meat-boy-3d"
+    },
+    "70010000102125": {
+      "score": 81.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 358822,
+      "igdbName": "Virtua Fighter 5 R.E.V.O. World Stage",
+      "url": "https://www.igdb.com/games/virtua-fighter-5-revo-world-stage"
+    },
+    "70010000112044": {
+      "score": 71.7,
+      "reviewCount": 3,
+      "userScore": 80,
+      "userRatingCount": 3,
+      "igdbId": 9871,
+      "igdbName": "Hyperdevotion Noire: Goddess Black Heart",
+      "url": "https://www.igdb.com/games/hyperdevotion-noire-goddess-black-heart"
+    },
+    "70010000110858": {
+      "score": 90,
+      "reviewCount": 1,
+      "userScore": 84.6,
+      "userRatingCount": 22,
+      "igdbId": 317621,
+      "igdbName": "The Midnight Walk",
+      "url": "https://www.igdb.com/games/the-midnight-walk"
+    },
+    "70010000114982": {
+      "score": 85,
+      "reviewCount": 1,
+      "userScore": 70,
+      "userRatingCount": 2,
+      "igdbId": 96119,
+      "igdbName": "Basketball Classics",
+      "url": "https://www.igdb.com/games/basketball-classics"
+    },
+    "70010000119097": {
+      "score": 61.5,
+      "reviewCount": 2,
+      "userScore": 70,
+      "userRatingCount": 9,
+      "igdbId": 159735,
+      "igdbName": "Dread Delusion",
+      "url": "https://www.igdb.com/games/dread-delusion"
+    },
+    "70010000109933": {
+      "score": 86.7,
+      "reviewCount": 3,
+      "userScore": 80.2,
+      "userRatingCount": 20,
+      "igdbId": 145060,
+      "igdbName": "Shadow Tactics: Blades of the Shogun - Aiko’s Choice",
+      "url": "https://www.igdb.com/games/shadow-tactics-blades-of-the-shogun-aikos-choice"
+    },
+    "70010000105178": {
+      "score": 78.7,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 387782,
+      "igdbName": "WWE 2K26",
+      "url": "https://www.igdb.com/games/wwe-2k26"
+    },
+    "70010000116129": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 225776,
+      "igdbName": "R-Type Tactics I & II Cosmos",
+      "url": "https://www.igdb.com/games/r-type-tactics-i-and-ii-cosmos"
+    },
+    "70010000116485": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 225776,
+      "igdbName": "R-Type Tactics I & II Cosmos",
+      "url": "https://www.igdb.com/games/r-type-tactics-i-and-ii-cosmos"
+    },
+    "70010000034182": {
+      "score": 80,
+      "reviewCount": 2,
+      "userScore": 74.4,
+      "userRatingCount": 67,
+      "igdbId": 159298,
+      "igdbName": "Yu-Gi-Oh! Master Duel",
+      "url": "https://www.igdb.com/games/yu-gi-oh-master-duel"
+    },
+    "70010000029609": {
+      "score": 65,
+      "reviewCount": 1,
+      "userScore": 57.1,
+      "userRatingCount": 10,
+      "igdbId": 103346,
+      "igdbName": "Ninjala",
+      "url": "https://www.igdb.com/games/ninjala"
+    },
+    "70010000078907": {
+      "score": 74.4,
+      "reviewCount": 8,
+      "userScore": 70,
+      "userRatingCount": 6,
+      "igdbId": 248582,
+      "igdbName": "Teenage Mutant Ninja Turtles: Splintered Fate",
+      "url": "https://www.igdb.com/games/teenage-mutant-ninja-turtles-splintered-fate"
+    },
+    "70010000099122": {
+      "score": 77.5,
+      "reviewCount": 2,
+      "userScore": 62.5,
+      "userRatingCount": 15,
+      "igdbId": 329690,
+      "igdbName": "WWE 2K25",
+      "url": "https://www.igdb.com/games/wwe-2k25"
+    },
+    "70010000111456": {
+      "score": 92.8,
+      "reviewCount": 8,
+      "userScore": 81.3,
+      "userRatingCount": 186,
+      "igdbId": 203722,
+      "igdbName": "Dave the Diver",
+      "url": "https://www.igdb.com/games/dave-the-diver"
+    },
+    "70010000119174": {
+      "score": 91.2,
+      "reviewCount": 5,
+      "userScore": 86.1,
+      "userRatingCount": 392,
+      "igdbId": 251833,
+      "igdbName": "Balatro",
+      "url": "https://www.igdb.com/games/balatro"
+    },
+    "70010000027235": {
+      "score": 83,
+      "reviewCount": 11,
+      "userScore": 70.9,
+      "userRatingCount": 148,
+      "igdbId": 36198,
+      "igdbName": "Children of Morta",
+      "url": "https://www.igdb.com/games/children-of-morta"
+    },
+    "70010000107424": {
+      "score": 90.3,
+      "reviewCount": 4,
+      "userScore": 84.2,
+      "userRatingCount": 26,
+      "igdbId": 366893,
+      "igdbName": "Pokémon Pokopia",
+      "url": "https://www.igdb.com/games/pokemon-pokopia"
+    },
+    "70010000110274": {
+      "score": 83,
+      "reviewCount": 2,
+      "userScore": 72.3,
+      "userRatingCount": 6,
+      "igdbId": 347659,
+      "igdbName": "Scott Pilgrim EX",
+      "url": "https://www.igdb.com/games/scott-pilgrim-ex"
+    },
+    "70010000060370": {
+      "score": 92.8,
+      "reviewCount": 8,
+      "userScore": 81.3,
+      "userRatingCount": 186,
+      "igdbId": 203722,
+      "igdbName": "Dave the Diver",
+      "url": "https://www.igdb.com/games/dave-the-diver"
+    },
+    "70010000093470": {
+      "score": 83,
+      "reviewCount": 2,
+      "userScore": 72.3,
+      "userRatingCount": 6,
+      "igdbId": 347659,
+      "igdbName": "Scott Pilgrim EX",
+      "url": "https://www.igdb.com/games/scott-pilgrim-ex"
+    },
+    "70010000091318": {
+      "score": 84,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 250291,
+      "igdbName": "Never Grave: The Witch and the Curse",
+      "url": "https://www.igdb.com/games/never-grave-the-witch-and-the-curse"
+    },
+    "70010000120064": {
+      "score": 84,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 250291,
+      "igdbName": "Never Grave: The Witch and the Curse",
+      "url": "https://www.igdb.com/games/never-grave-the-witch-and-the-curse"
+    },
+    "70010000110734": {
+      "score": 90,
+      "reviewCount": 4,
+      "userScore": 85.9,
+      "userRatingCount": 25,
+      "igdbId": 191761,
+      "igdbName": "Minishoot' Adventures",
+      "url": "https://www.igdb.com/games/minishoot-adventures"
+    },
+    "70010000115830": {
+      "score": 90,
+      "reviewCount": 4,
+      "userScore": 85.9,
+      "userRatingCount": 25,
+      "igdbId": 191761,
+      "igdbName": "Minishoot' Adventures",
+      "url": "https://www.igdb.com/games/minishoot-adventures"
+    },
+    "70010000109041": {
+      "score": 90.8,
+      "reviewCount": 5,
+      "userScore": 86.9,
+      "userRatingCount": 122,
+      "igdbId": 149657,
+      "igdbName": "Blue Prince",
+      "url": "https://www.igdb.com/games/blue-prince"
+    },
+    "70010000118621": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": 83.1,
+      "userRatingCount": 282,
+      "igdbId": 1516,
+      "igdbName": "Pokémon LeafGreen Version",
+      "url": "https://www.igdb.com/games/pokemon-leafgreen-version"
+    },
+    "70010000113126": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": 83.1,
+      "userRatingCount": 282,
+      "igdbId": 1516,
+      "igdbName": "Pokémon LeafGreen Version",
+      "url": "https://www.igdb.com/games/pokemon-leafgreen-version"
+    },
+    "70010000113123": {
+      "score": 100,
+      "reviewCount": 1,
+      "userScore": 83.2,
+      "userRatingCount": 559,
+      "igdbId": 1559,
+      "igdbName": "Pokémon FireRed Version",
+      "url": "https://www.igdb.com/games/pokemon-firered-version"
+    },
+    "70010000118616": {
+      "score": 100,
+      "reviewCount": 1,
+      "userScore": 83.2,
+      "userRatingCount": 559,
+      "igdbId": 1559,
+      "igdbName": "Pokémon FireRed Version",
+      "url": "https://www.igdb.com/games/pokemon-firered-version"
+    },
+    "70010000101678": {
+      "score": 90.5,
+      "reviewCount": 6,
+      "userScore": 89.4,
+      "userRatingCount": 329,
+      "igdbId": 347668,
+      "igdbName": "Resident Evil Requiem",
+      "url": "https://www.igdb.com/games/resident-evil-requiem"
+    },
+    "70010000094694": {
+      "score": 71,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 393026,
+      "igdbName": "Raiden Fighters Remix Collection",
+      "url": "https://www.igdb.com/games/raiden-fighters-remix-collection"
+    },
+    "70010000107130": {
+      "score": 74.5,
+      "reviewCount": 16,
+      "userScore": 80,
+      "userRatingCount": 3,
+      "igdbId": 27791,
+      "igdbName": "The Disney Afternoon Collection",
+      "url": "https://www.igdb.com/games/the-disney-afternoon-collection"
+    },
+    "70010000107125": {
+      "score": 74.5,
+      "reviewCount": 16,
+      "userScore": 80,
+      "userRatingCount": 3,
+      "igdbId": 27791,
+      "igdbName": "The Disney Afternoon Collection",
+      "url": "https://www.igdb.com/games/the-disney-afternoon-collection"
+    },
+    "70010000101071": {
+      "score": 80.7,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 375089,
+      "igdbName": "Fallout 4: Anniversary Edition",
+      "url": "https://www.igdb.com/games/fallout-4-anniversary-edition"
+    },
+    "70010000115818": {
+      "score": 84.3,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 151501,
+      "igdbName": "Under the Island",
+      "url": "https://www.igdb.com/games/under-the-island"
+    },
+    "70010000114301": {
+      "score": 88,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 215796,
+      "igdbName": "Seafrog",
+      "url": "https://www.igdb.com/games/seafrog"
+    },
+    "70010000109878": {
+      "score": 81.3,
+      "reviewCount": 3,
+      "userScore": 79.9,
+      "userRatingCount": 88,
+      "igdbId": 314265,
+      "igdbName": "Reanimal",
+      "url": "https://www.igdb.com/games/reanimal"
+    },
+    "70010000112842": {
+      "score": 40,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 362506,
+      "igdbName": "Axis Football 2026",
+      "url": "https://www.igdb.com/games/axis-football-2026"
+    },
+    "70010000105911": {
+      "score": 82.3,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 305224,
+      "igdbName": "ChromaGun 2: Dye Hard",
+      "url": "https://www.igdb.com/games/chromagun-2-dye-hard"
+    },
+    "70010000105580": {
+      "score": 84,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 328079,
+      "igdbName": "PGA Tour 2K25",
+      "url": "https://www.igdb.com/games/pga-tour-2k25"
+    },
+    "70010000111555": {
+      "score": 78,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 386780,
+      "igdbName": "Dragon Spira",
+      "url": "https://www.igdb.com/games/dragon-spira"
+    },
+    "70010000094371": {
+      "score": 87,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 319894,
+      "igdbName": "Lovish",
+      "url": "https://www.igdb.com/games/lovish"
+    },
+    "70010000113453": {
+      "score": 87,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 388432,
+      "igdbName": "Super Bomberman Collection",
+      "url": "https://www.igdb.com/games/super-bomberman-collection"
+    },
+    "70010000099272": {
+      "score": 87,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 388432,
+      "igdbName": "Super Bomberman Collection",
+      "url": "https://www.igdb.com/games/super-bomberman-collection"
+    },
+    "70010000112423": {
+      "score": 58,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 383884,
+      "igdbName": "Heroes Battle Awakening",
+      "url": "https://www.igdb.com/games/heroes-battle-awakening"
+    },
+    "70010000111631": {
+      "score": 75,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 336144,
+      "igdbName": "I Hate this Place",
+      "url": "https://www.igdb.com/games/i-hate-this-place"
+    },
+    "70010000105333": {
+      "score": 85,
+      "reviewCount": 2,
+      "userScore": 86.9,
+      "userRatingCount": 295,
+      "igdbId": 325609,
+      "igdbName": "Dispatch",
+      "url": "https://www.igdb.com/games/dispatch--3"
+    },
+    "70010000110215": {
+      "score": 85,
+      "reviewCount": 2,
+      "userScore": 86.9,
+      "userRatingCount": 295,
+      "igdbId": 325609,
+      "igdbName": "Dispatch",
+      "url": "https://www.igdb.com/games/dispatch--3"
+    },
+    "70010000100832": {
+      "score": 91.7,
+      "reviewCount": 13,
+      "userScore": 86,
+      "userRatingCount": 122,
+      "igdbId": 144024,
+      "igdbName": "Final Fantasy VII Remake Intergrade",
+      "url": "https://www.igdb.com/games/final-fantasy-vii-remake-intergrade"
+    },
+    "70010000111901": {
+      "score": 40,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 385097,
+      "igdbName": "Hextreme Void",
+      "url": "https://www.igdb.com/games/hextreme-void"
+    },
+    "70010000105266": {
+      "score": 77.9,
+      "reviewCount": 7,
+      "userScore": 76.9,
+      "userRatingCount": 13,
+      "igdbId": 303808,
+      "igdbName": "Dynasty Warriors: Origins",
+      "url": "https://www.igdb.com/games/dynasty-warriors-origins"
+    },
+    "70010000079192": {
+      "score": 85,
+      "reviewCount": 2,
+      "userScore": 73.6,
+      "userRatingCount": 8,
+      "igdbId": 306141,
+      "igdbName": "Mio: Memories in Orbit",
+      "url": "https://www.igdb.com/games/mio-memories-in-orbit"
+    },
+    "70010000103261": {
+      "score": 85,
+      "reviewCount": 2,
+      "userScore": 73.6,
+      "userRatingCount": 8,
+      "igdbId": 306141,
+      "igdbName": "Mio: Memories in Orbit",
+      "url": "https://www.igdb.com/games/mio-memories-in-orbit"
+    },
+    "70010000110443": {
+      "score": 90.2,
+      "reviewCount": 11,
+      "userScore": 82.1,
+      "userRatingCount": 497,
+      "igdbId": 109462,
+      "igdbName": "Animal Crossing: New Horizons",
+      "url": "https://www.igdb.com/games/animal-crossing-new-horizons"
+    },
+    "70010000111895": {
+      "score": 76,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 385117,
+      "igdbName": "Direction Quad",
+      "url": "https://www.igdb.com/games/direction-quad"
+    },
+    "70010000103504": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 378763,
+      "igdbName": "Hero Seekers",
+      "url": "https://www.igdb.com/games/hero-seekers"
+    },
+    "70010000109201": {
+      "score": 36,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 378760,
+      "igdbName": "Gridz Keeper",
+      "url": "https://www.igdb.com/games/gridz-keeper"
+    },
+    "70010000097209": {
+      "score": 85,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 299774,
+      "igdbName": "Goodnight Universe",
+      "url": "https://www.igdb.com/games/goodnight-universe--1"
+    },
+    "70010000106663": {
+      "score": 84,
+      "reviewCount": 2,
+      "userScore": 80,
+      "userRatingCount": 5,
+      "igdbId": 304740,
+      "igdbName": "Yooka-Replaylee",
+      "url": "https://www.igdb.com/games/yooka-replaylee"
+    },
+    "70010000087756": {
+      "score": 73,
+      "reviewCount": 2,
+      "userScore": 71.9,
+      "userRatingCount": 21,
+      "igdbId": 327500,
+      "igdbName": "Terminator 2D: No Fate",
+      "url": "https://www.igdb.com/games/terminator-2d-no-fate"
+    },
+    "70010000109994": {
+      "score": 85,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 362635,
+      "igdbName": "Storm Lancers",
+      "url": "https://www.igdb.com/games/storm-lancers"
+    },
+    "70010000095541": {
+      "score": 86,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 208410,
+      "igdbName": "Stars in the Trash",
+      "url": "https://www.igdb.com/games/stars-in-the-trash"
+    },
+    "70010000085473": {
+      "score": 46,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 330130,
+      "igdbName": "Montezuma's Revenge: The 40th Anniversary Edition",
+      "url": "https://www.igdb.com/games/montezumas-revenge-the-40th-anniversary-edition"
+    },
+    "70010000099072": {
+      "score": 64,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 292873,
+      "igdbName": "Death End Re;Quest Code Z",
+      "url": "https://www.igdb.com/games/death-end-re-quest-code-z"
+    },
+    "70010000095471": {
+      "score": 88,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 226734,
+      "igdbName": "Lok Digital",
+      "url": "https://www.igdb.com/games/lok-digital"
+    },
+    "70010000098353": {
+      "score": 81,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 190249,
+      "igdbName": "Dunjungle",
+      "url": "https://www.igdb.com/games/dunjungle"
+    },
+    "70010000102478": {
+      "score": 82.3,
+      "reviewCount": 3,
+      "userScore": 69.7,
+      "userRatingCount": 12,
+      "igdbId": 129964,
+      "igdbName": "Skate Story",
+      "url": "https://www.igdb.com/games/skate-story"
+    },
+    "70010000105563": {
+      "score": 84.4,
+      "reviewCount": 10,
+      "userScore": 88.5,
+      "userRatingCount": 56,
+      "igdbId": 37034,
+      "igdbName": "The Elder Scrolls V: Skyrim",
+      "url": "https://www.igdb.com/games/the-elder-scrolls-v-skyrim--1"
+    },
+    "70010000095886": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 347902,
+      "igdbName": "Milano’s Odd Job Collection",
+      "url": "https://www.igdb.com/games/milanos-odd-job-collection"
+    },
+    "70010000103196": {
+      "score": 84,
+      "reviewCount": 2,
+      "userScore": 96.9,
+      "userRatingCount": 77,
+      "igdbId": 165192,
+      "igdbName": "The Elder Scrolls V: Skyrim - Anniversary Edition",
+      "url": "https://www.igdb.com/games/the-elder-scrolls-v-skyrim-anniversary-edition"
+    },
+    "70010000027360": {
+      "score": 71.1,
+      "reviewCount": 11,
+      "userScore": 70,
+      "userRatingCount": 33,
+      "igdbId": 19525,
+      "igdbName": "Fe",
+      "url": "https://www.igdb.com/games/fe"
+    },
+    "70010000067693": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 250172,
+      "igdbName": "The Smurfs 2: The Prisoner of the Green Stone",
+      "url": "https://www.igdb.com/games/the-smurfs-2-the-prisoner-of-the-green-stone"
+    },
+    "70010000111005": {
+      "score": 80.9,
+      "reviewCount": 11,
+      "userScore": 77.8,
+      "userRatingCount": 208,
+      "igdbId": 19241,
+      "igdbName": "Unravel Two",
+      "url": "https://www.igdb.com/games/unravel-two"
+    },
+    "70010000032808": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": 76.5,
+      "userRatingCount": 53,
+      "igdbId": 110834,
+      "igdbName": "Creaks",
+      "url": "https://www.igdb.com/games/creaks"
+    },
+    "70010000035483": {
+      "score": 80.7,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 191409,
+      "igdbName": "Taiko no Tatsujin: Rhythm Festival",
+      "url": "https://www.igdb.com/games/taiko-no-tatsujin-rhythm-festival"
+    },
+    "70010000100331": {
+      "score": 88,
+      "reviewCount": 11,
+      "userScore": 75.4,
+      "userRatingCount": 663,
+      "igdbId": 114795,
+      "igdbName": "Apex Legends",
+      "url": "https://www.igdb.com/games/apex-legends"
+    },
+    "70010000049279": {
+      "score": 90.3,
+      "reviewCount": 15,
+      "userScore": 88.5,
+      "userRatingCount": 1150,
+      "igdbId": 135243,
+      "igdbName": "It Takes Two",
+      "url": "https://www.igdb.com/games/it-takes-two"
+    },
+    "70010000045914": {
+      "score": 91.8,
+      "reviewCount": 16,
+      "userScore": 85,
+      "userRatingCount": 1518,
+      "igdbId": 5503,
+      "igdbName": "Batman: Arkham Knight",
+      "url": "https://www.igdb.com/games/batman-arkham-knight"
+    },
+    "70010000045909": {
+      "score": 91.2,
+      "reviewCount": 10,
+      "userScore": 87.6,
+      "userRatingCount": 2689,
+      "igdbId": 501,
+      "igdbName": "Batman: Arkham City",
+      "url": "https://www.igdb.com/games/batman-arkham-city"
+    },
+    "70010000045902": {
+      "score": 89.4,
+      "reviewCount": 5,
+      "userScore": 85.6,
+      "userRatingCount": 2593,
+      "igdbId": 500,
+      "igdbName": "Batman: Arkham Asylum",
+      "url": "https://www.igdb.com/games/batman-arkham-asylum"
+    },
+    "70010000110749": {
+      "score": 60,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 107233,
+      "igdbName": "The Settlers: New Allies",
+      "url": "https://www.igdb.com/games/the-settlers-new-allies"
+    },
+    "70010000056565": {
+      "score": 87.7,
+      "reviewCount": 3,
+      "userScore": 78.8,
+      "userRatingCount": 71,
+      "igdbId": 158980,
+      "igdbName": "Final Fantasy",
+      "url": "https://www.igdb.com/games/final-fantasy--3"
+    },
+    "70010000056570": {
+      "score": 75,
+      "reviewCount": 1,
+      "userScore": 66.3,
+      "userRatingCount": 33,
+      "igdbId": 158981,
+      "igdbName": "Final Fantasy II",
+      "url": "https://www.igdb.com/games/final-fantasy-ii--3"
+    },
+    "70010000056575": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": 88.9,
+      "userRatingCount": 30,
+      "igdbId": 158982,
+      "igdbName": "Final Fantasy III",
+      "url": "https://www.igdb.com/games/final-fantasy-iii--3"
+    },
+    "70010000034687": {
+      "score": 73.7,
+      "reviewCount": 10,
+      "userScore": 73.9,
+      "userRatingCount": 145,
+      "igdbId": 119357,
+      "igdbName": "Immortals Fenyx Rising",
+      "url": "https://www.igdb.com/games/immortals-fenyx-rising"
+    },
+    "70010000102084": {
+      "score": 75,
+      "reviewCount": 1,
+      "userScore": 65.9,
+      "userRatingCount": 289,
+      "igdbId": 10233,
+      "igdbName": "Brawlhalla",
+      "url": "https://www.igdb.com/games/brawlhalla"
+    },
+    "70010000052513": {
+      "score": 75.3,
+      "reviewCount": 4,
+      "userScore": 80.1,
+      "userRatingCount": 8,
+      "igdbId": 206818,
+      "igdbName": "Harvestella",
+      "url": "https://www.igdb.com/games/harvestella"
+    },
+    "70010000110842": {
+      "score": 57.5,
+      "reviewCount": 2,
+      "userScore": 67.3,
+      "userRatingCount": 12,
+      "igdbId": 109461,
+      "igdbName": "World of Final Fantasy: Maxima",
+      "url": "https://www.igdb.com/games/world-of-final-fantasy-maxima"
+    },
+    "70010000026896": {
+      "score": 86,
+      "reviewCount": 2,
+      "userScore": 83.8,
+      "userRatingCount": 119,
+      "igdbId": 104971,
+      "igdbName": "AI: The Somnium Files",
+      "url": "https://www.igdb.com/games/ai-the-somnium-files"
+    },
+    "70010000077613": {
+      "score": 65,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 21270,
+      "igdbName": "Söldner-X: Himmelsstürmer",
+      "url": "https://www.igdb.com/games/soldner-x-himmelssturmer"
+    },
+    "70010000109642": {
+      "score": 87.5,
+      "reviewCount": 2,
+      "userScore": 82,
+      "userRatingCount": 444,
+      "igdbId": 2990,
+      "igdbName": "Machinarium",
+      "url": "https://www.igdb.com/games/machinarium"
+    },
+    "70010000107206": {
+      "score": 85,
+      "reviewCount": 1,
+      "userScore": 55.9,
+      "userRatingCount": 6,
+      "igdbId": 104660,
+      "igdbName": "Scribblenauts Mega Pack",
+      "url": "https://www.igdb.com/games/scribblenauts-mega-pack"
+    },
+    "70010000033408": {
+      "score": 80.2,
+      "reviewCount": 10,
+      "userScore": 80.9,
+      "userRatingCount": 44,
+      "igdbId": 10949,
+      "igdbName": "Ys Origin",
+      "url": "https://www.igdb.com/games/ys-origin"
+    },
+    "70010000072344": {
+      "score": 65,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 250419,
+      "igdbName": "Knight vs Giant: The Broken Excalibur",
+      "url": "https://www.igdb.com/games/knight-vs-giant-the-broken-excalibur"
+    },
+    "70010000069251": {
+      "score": 77,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 317082,
+      "igdbName": "Space Adventure Cobra: The Awakening",
+      "url": "https://www.igdb.com/games/space-adventure-cobra-the-awakening"
+    },
+    "70010000073501": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": 78.1,
+      "userRatingCount": 14,
+      "igdbId": 228521,
+      "igdbName": "Valiant Hearts: Coming Home",
+      "url": "https://www.igdb.com/games/valiant-hearts-coming-home"
+    },
+    "70010000110726": {
+      "score": 62,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 110057,
+      "igdbName": "Sports Party",
+      "url": "https://www.igdb.com/games/sports-party--1"
+    },
+    "70010000082015": {
+      "score": 90,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 348638,
+      "igdbName": "Adventure of Samsara",
+      "url": "https://www.igdb.com/games/adventure-of-samsara"
+    },
+    "70010000029277": {
+      "score": 79.8,
+      "reviewCount": 6,
+      "userScore": 77.2,
+      "userRatingCount": 73,
+      "igdbId": 139346,
+      "igdbName": "Need for Speed: Hot Pursuit - Remastered",
+      "url": "https://www.igdb.com/games/need-for-speed-hot-pursuit-remastered"
+    },
+    "70010000091374": {
+      "score": 82,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 309256,
+      "igdbName": "Snow Bros. Wonderland",
+      "url": "https://www.igdb.com/games/snow-bros-wonderland"
+    },
+    "70010000043393": {
+      "score": 77.3,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 120302,
+      "igdbName": "Death End Re;Quest 2",
+      "url": "https://www.igdb.com/games/death-end-re-quest-2"
+    },
+    "70010000110730": {
+      "score": 75,
+      "reviewCount": 3,
+      "userScore": 72.4,
+      "userRatingCount": 30,
+      "igdbId": 27239,
+      "igdbName": "Rayman Legends: Definitive Edition",
+      "url": "https://www.igdb.com/games/rayman-legends-definitive-edition"
+    },
+    "70010000110639": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": 72.7,
+      "userRatingCount": 12,
+      "igdbId": 99781,
+      "igdbName": "Child of Light: Ultimate Edition",
+      "url": "https://www.igdb.com/games/child-of-light-ultimate-edition"
+    },
+    "70010000051129": {
+      "score": 60,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 122319,
+      "igdbName": "Various Daylife",
+      "url": "https://www.igdb.com/games/various-daylife"
+    },
+    "70010000045803": {
+      "score": 83,
+      "reviewCount": 1,
+      "userScore": 71.7,
+      "userRatingCount": 24,
+      "igdbId": 200899,
+      "igdbName": "Wildfrost",
+      "url": "https://www.igdb.com/games/wildfrost"
+    },
+    "70010000099522": {
+      "score": 80,
+      "reviewCount": 2,
+      "userScore": 72.1,
+      "userRatingCount": 16,
+      "igdbId": 216718,
+      "igdbName": "Tiny Bookshop",
+      "url": "https://www.igdb.com/games/tiny-bookshop"
+    },
+    "70010000064326": {
+      "score": 90,
+      "reviewCount": 1,
+      "userScore": 79,
+      "userRatingCount": 14,
+      "igdbId": 214492,
+      "igdbName": "Rift of the NecroDancer",
+      "url": "https://www.igdb.com/games/rift-of-the-necrodancer"
+    },
+    "70010000038451": {
+      "score": 83,
+      "reviewCount": 2,
+      "userScore": 70.1,
+      "userRatingCount": 6,
+      "igdbId": 117422,
+      "igdbName": "KeyWe",
+      "url": "https://www.igdb.com/games/keywe"
+    },
+    "70010000059821": {
+      "score": 95,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 117675,
+      "igdbName": "Jack Jeanne",
+      "url": "https://www.igdb.com/games/jack-jeanne"
+    },
+    "70010000104533": {
+      "score": 81.9,
+      "reviewCount": 14,
+      "userScore": 70.6,
+      "userRatingCount": 158,
+      "igdbId": 27771,
+      "igdbName": "Moonlighter",
+      "url": "https://www.igdb.com/games/moonlighter"
+    },
+    "70010000104140": {
+      "score": 87.1,
+      "reviewCount": 7,
+      "userScore": 71.8,
+      "userRatingCount": 33,
+      "igdbId": 325608,
+      "igdbName": "Sonic Racing: CrossWorlds",
+      "url": "https://www.igdb.com/games/sonic-racing-crossworlds"
+    },
+    "70010000085815": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 310694,
+      "igdbName": "Forestrike",
+      "url": "https://www.igdb.com/games/forestrike"
+    },
+    "70010000113108": {
+      "score": 81,
+      "reviewCount": 4,
+      "userScore": 84.7,
+      "userRatingCount": 58,
+      "igdbId": 260735,
+      "igdbName": "Red Dead Redemption",
+      "url": "https://www.igdb.com/games/red-dead-redemption--1"
+    },
+    "70010000097527": {
+      "score": 72,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 317862,
+      "igdbName": "Cladun X3",
+      "url": "https://www.igdb.com/games/cladun-x3"
+    },
+    "70010000102473": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 322701,
+      "igdbName": "Neon Inferno",
+      "url": "https://www.igdb.com/games/neon-inferno"
+    },
+    "70010000101692": {
+      "score": 82,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 360913,
+      "igdbName": "R-Type Delta: HD Boosted",
+      "url": "https://www.igdb.com/games/r-type-delta-hd-boosted"
+    },
+    "70010000095863": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 256722,
+      "igdbName": "As I Began to Dream",
+      "url": "https://www.igdb.com/games/as-i-began-to-dream"
+    },
+    "70010000103778": {
+      "score": 87.5,
+      "reviewCount": 4,
+      "userScore": 89.9,
+      "userRatingCount": 11,
+      "igdbId": 338105,
+      "igdbName": "Kirby Air Riders",
+      "url": "https://www.igdb.com/games/kirby-air-riders"
+    },
+    "70010000101930": {
+      "score": 82,
+      "reviewCount": 2,
+      "userScore": 60.3,
+      "userRatingCount": 10,
+      "igdbId": 358751,
+      "igdbName": "SpongeBob SquarePants: Titans of the Tide",
+      "url": "https://www.igdb.com/games/spongebob-squarepants-titans-of-the-tide"
+    },
+    "70010000100652": {
+      "score": 84.8,
+      "reviewCount": 4,
+      "userScore": 77.2,
+      "userRatingCount": 87,
+      "igdbId": 166824,
+      "igdbName": "Indika",
+      "url": "https://www.igdb.com/games/indika"
+    },
+    "70010000102647": {
+      "score": 83.1,
+      "reviewCount": 7,
+      "userScore": 90.1,
+      "userRatingCount": 79,
+      "igdbId": 279634,
+      "igdbName": "Dragon Ball: Sparking! Zero",
+      "url": "https://www.igdb.com/games/dragon-ball-sparking-zero"
+    },
+    "70010000100324": {
+      "score": 85.2,
+      "reviewCount": 13,
+      "userScore": 84.1,
+      "userRatingCount": 167,
+      "igdbId": 55090,
+      "igdbName": "Yakuza Kiwami 2",
+      "url": "https://www.igdb.com/games/yakuza-kiwami-2"
+    },
+    "70010000092463": {
+      "score": 83.1,
+      "reviewCount": 7,
+      "userScore": 90.1,
+      "userRatingCount": 79,
+      "igdbId": 279634,
+      "igdbName": "Dragon Ball: Sparking! Zero",
+      "url": "https://www.igdb.com/games/dragon-ball-sparking-zero"
+    },
+    "70010000101263": {
+      "score": 83,
+      "reviewCount": 1,
+      "userScore": 70.2,
+      "userRatingCount": 17,
+      "igdbId": 72812,
+      "igdbName": "Inazuma Eleven: Victory Road",
+      "url": "https://www.igdb.com/games/inazuma-eleven-victory-road"
+    },
+    "70010000101262": {
+      "score": 83,
+      "reviewCount": 1,
+      "userScore": 70.2,
+      "userRatingCount": 17,
+      "igdbId": 72812,
+      "igdbName": "Inazuma Eleven: Victory Road",
+      "url": "https://www.igdb.com/games/inazuma-eleven-victory-road"
+    },
+    "70010000098181": {
+      "score": 85,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 299774,
+      "igdbName": "Goodnight Universe",
+      "url": "https://www.igdb.com/games/goodnight-universe--1"
+    },
+    "70010000097807": {
+      "score": 79,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 298613,
+      "igdbName": "Biped 2",
+      "url": "https://www.igdb.com/games/biped-2"
+    },
+    "70010000094237": {
+      "score": 80,
+      "reviewCount": 2,
+      "userScore": 72,
+      "userRatingCount": 70,
+      "igdbId": 288327,
+      "igdbName": "Pokémon Legends: Z-A",
+      "url": "https://www.igdb.com/games/pokemon-legends-z-a"
+    },
+    "70010000081175": {
+      "score": 86,
+      "reviewCount": 5,
+      "userScore": 83.7,
+      "userRatingCount": 6,
+      "igdbId": 306144,
+      "igdbName": "Dragon Quest I & II HD-2D Remake",
+      "url": "https://www.igdb.com/games/dragon-quest-i-and-ii-hd-2d-remake"
+    },
+    "70010000109633": {
+      "score": 78,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 292150,
+      "igdbName": "The Smurfs: Village Party",
+      "url": "https://www.igdb.com/games/the-smurfs-village-party"
+    },
+    "70010000100030": {
+      "score": 86,
+      "reviewCount": 5,
+      "userScore": 83.7,
+      "userRatingCount": 6,
+      "igdbId": 306144,
+      "igdbName": "Dragon Quest I & II HD-2D Remake",
+      "url": "https://www.igdb.com/games/dragon-quest-i-and-ii-hd-2d-remake"
+    },
+    "70010000104116": {
+      "score": 90.2,
+      "reviewCount": 6,
+      "userScore": 79.4,
+      "userRatingCount": 11,
+      "igdbId": 313595,
+      "igdbName": "Two Point Museum",
+      "url": "https://www.igdb.com/games/two-point-museum"
+    },
+    "70010000109286": {
+      "score": 82.8,
+      "reviewCount": 5,
+      "userScore": 74.6,
+      "userRatingCount": 54,
+      "igdbId": 346035,
+      "igdbName": "Ball x Pit",
+      "url": "https://www.igdb.com/games/ball-x-pit"
+    },
+    "70010000100153": {
+      "score": 88.6,
+      "reviewCount": 8,
+      "userScore": 88.3,
+      "userRatingCount": 128,
+      "igdbId": 252647,
+      "igdbName": "Persona 3 Reload",
+      "url": "https://www.igdb.com/games/persona-3-reload"
+    },
+    "70010000091588": {
+      "score": 83.8,
+      "reviewCount": 5,
+      "userScore": 75,
+      "userRatingCount": 7,
+      "igdbId": 358526,
+      "igdbName": "Once Upon a Katamari",
+      "url": "https://www.igdb.com/games/once-upon-a-katamari--1"
+    },
+    "70010000100757": {
+      "score": 89.8,
+      "reviewCount": 4,
+      "userScore": 78.8,
+      "userRatingCount": 9,
+      "igdbId": 347121,
+      "igdbName": "Final Fantasy Tactics: The Ivalice Chronicles",
+      "url": "https://www.igdb.com/games/final-fantasy-tactics-the-ivalice-chronicles"
+    },
+    "70010000098328": {
+      "score": 79,
+      "reviewCount": 2,
+      "userScore": 75.1,
+      "userRatingCount": 20,
+      "igdbId": 335439,
+      "igdbName": "PowerWash Simulator 2",
+      "url": "https://www.igdb.com/games/powerwash-simulator-2"
+    },
+    "70010000099368": {
+      "score": 80,
+      "reviewCount": 2,
+      "userScore": 72,
+      "userRatingCount": 70,
+      "igdbId": 288327,
+      "igdbName": "Pokémon Legends: Z-A",
+      "url": "https://www.igdb.com/games/pokemon-legends-z-a"
+    },
+    "70010000106360": {
+      "score": 87.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 360141,
+      "igdbName": "Heretic + Hexen",
+      "url": "https://www.igdb.com/games/heretic-plus-hexen"
+    },
+    "70010000093193": {
+      "score": 82.8,
+      "reviewCount": 5,
+      "userScore": 74.6,
+      "userRatingCount": 54,
+      "igdbId": 346035,
+      "igdbName": "Ball x Pit",
+      "url": "https://www.igdb.com/games/ball-x-pit"
+    },
+    "70010000098640": {
+      "score": 78.3,
+      "reviewCount": 4,
+      "userScore": 66.8,
+      "userRatingCount": 63,
+      "igdbId": 262529,
+      "igdbName": "Little Nightmares III",
+      "url": "https://www.igdb.com/games/little-nightmares-iii--1"
+    },
+    "70010000062723": {
+      "score": 78.3,
+      "reviewCount": 4,
+      "userScore": 66.8,
+      "userRatingCount": 63,
+      "igdbId": 262529,
+      "igdbName": "Little Nightmares III",
+      "url": "https://www.igdb.com/games/little-nightmares-iii--1"
+    },
+    "70010000098128": {
+      "score": 84.3,
+      "reviewCount": 4,
+      "userScore": 83.1,
+      "userRatingCount": 17,
+      "igdbId": 314936,
+      "igdbName": "Trails in the Sky 1st Chapter",
+      "url": "https://www.igdb.com/games/trails-in-the-sky-1st-chapter"
+    },
+    "70010000080741": {
+      "score": 81,
+      "reviewCount": 3,
+      "userScore": 70,
+      "userRatingCount": 7,
+      "igdbId": 210515,
+      "igdbName": "WitchSpring R",
+      "url": "https://www.igdb.com/games/witchspring-r"
+    },
+    "70010000106565": {
+      "score": 63,
+      "reviewCount": 3,
+      "userScore": 69.9,
+      "userRatingCount": 6,
+      "igdbId": 122248,
+      "igdbName": "Fairy Tail",
+      "url": "https://www.igdb.com/games/fairy-tail"
+    },
+    "70010000070271": {
+      "score": 80,
+      "reviewCount": 2,
+      "userScore": 89,
+      "userRatingCount": 5,
+      "igdbId": 143882,
+      "igdbName": "Bang-On Balls: Chronicles",
+      "url": "https://www.igdb.com/games/bang-on-balls-chronicles"
+    },
+    "70010000084002": {
+      "score": 73.7,
+      "reviewCount": 3,
+      "userScore": 69.1,
+      "userRatingCount": 5,
+      "igdbId": 330283,
+      "igdbName": "Onimusha 2: Samurai's Destiny",
+      "url": "https://www.igdb.com/games/onimusha-2-samurais-destiny--1"
+    },
+    "70010000106640": {
+      "score": 75.1,
+      "reviewCount": 8,
+      "userScore": 81.2,
+      "userRatingCount": 33,
+      "igdbId": 107292,
+      "igdbName": "Onimusha: Warlords",
+      "url": "https://www.igdb.com/games/onimusha-warlords--1"
+    },
+    "70010000106717": {
+      "score": 74.5,
+      "reviewCount": 4,
+      "userScore": 81,
+      "userRatingCount": 6,
+      "igdbId": 122236,
+      "igdbName": "Assassin's Creed: The Rebel Collection",
+      "url": "https://www.igdb.com/games/assassins-creed-the-rebel-collection"
+    },
+    "70010000106762": {
+      "score": 86.2,
+      "reviewCount": 21,
+      "userScore": 84.8,
+      "userRatingCount": 88,
+      "igdbId": 14144,
+      "igdbName": "Final Fantasy X/X-2 HD Remaster",
+      "url": "https://www.igdb.com/games/final-fantasy-x-slash-x-2-hd-remaster"
+    },
+    "70010000047456": {
+      "score": 69.5,
+      "reviewCount": 4,
+      "userScore": 75.6,
+      "userRatingCount": 13,
+      "igdbId": 56914,
+      "igdbName": "Beautiful Desolation",
+      "url": "https://www.igdb.com/games/beautiful-desolation"
+    },
+    "70010000069086": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": 51.8,
+      "userRatingCount": 6,
+      "igdbId": 172672,
+      "igdbName": "Aspire: Ina's Tale",
+      "url": "https://www.igdb.com/games/aspire-inas-tale"
+    },
+    "70010000045580": {
+      "score": 53,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 135342,
+      "igdbName": "Fallen Legion Revenants",
+      "url": "https://www.igdb.com/games/fallen-legion-revenants"
+    },
+    "70010000056630": {
+      "score": 74,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 173096,
+      "igdbName": "The Last Worker",
+      "url": "https://www.igdb.com/games/the-last-worker"
+    },
+    "70010000047453": {
+      "score": 55,
+      "reviewCount": 4,
+      "userScore": 66.1,
+      "userRatingCount": 22,
+      "igdbId": 27069,
+      "igdbName": "The Hong Kong Massacre",
+      "url": "https://www.igdb.com/games/the-hong-kong-massacre"
+    },
+    "70010000055108": {
+      "score": 60,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 193531,
+      "igdbName": "Blazing Strike",
+      "url": "https://www.igdb.com/games/blazing-strike"
+    },
+    "70010000072947": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": 73.3,
+      "userRatingCount": 46,
+      "igdbId": 152424,
+      "igdbName": "Terra Nil",
+      "url": "https://www.igdb.com/games/terra-nil--1"
+    },
+    "70010000057919": {
+      "score": 87.4,
+      "reviewCount": 7,
+      "userScore": 83.6,
+      "userRatingCount": 128,
+      "igdbId": 252476,
+      "igdbName": "Prince of Persia: The Lost Crown",
+      "url": "https://www.igdb.com/games/prince-of-persia-the-lost-crown"
+    },
+    "70010000038689": {
+      "score": 70.7,
+      "reviewCount": 9,
+      "userScore": 89.1,
+      "userRatingCount": 52,
+      "igdbId": 23954,
+      "igdbName": "Assassin's Creed: The Ezio Collection",
+      "url": "https://www.igdb.com/games/assassins-creed-the-ezio-collection"
+    },
+    "70010000106646": {
+      "score": 82.7,
+      "reviewCount": 6,
+      "userScore": 89.2,
+      "userRatingCount": 10,
+      "igdbId": 122048,
+      "igdbName": "Mega Man Zero/ZX: Legacy Collection",
+      "url": "https://www.igdb.com/games/mega-man-zero-slash-zx-legacy-collection"
+    },
+    "70010000106645": {
+      "score": 79.8,
+      "reviewCount": 12,
+      "userScore": 77.3,
+      "userRatingCount": 69,
+      "igdbId": 76723,
+      "igdbName": "Mega Man 11",
+      "url": "https://www.igdb.com/games/mega-man-11"
+    },
+    "70010000106644": {
+      "score": 80.3,
+      "reviewCount": 7,
+      "userScore": 72.3,
+      "userRatingCount": 24,
+      "igdbId": 77175,
+      "igdbName": "Street Fighter 30th Anniversary Collection",
+      "url": "https://www.igdb.com/games/street-fighter-30th-anniversary-collection"
+    },
+    "70010000053639": {
+      "score": 86.3,
+      "reviewCount": 6,
+      "userScore": 94.6,
+      "userRatingCount": 20,
+      "igdbId": 236660,
+      "igdbName": "Ghost Trick: Phantom Detective",
+      "url": "https://www.igdb.com/games/ghost-trick-phantom-detective--1"
+    },
+    "70010000070538": {
+      "score": 85.7,
+      "reviewCount": 6,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 314942,
+      "igdbName": "Capcom Fighting Collection 2",
+      "url": "https://www.igdb.com/games/capcom-fighting-collection-2"
+    },
+    "70010000047564": {
+      "score": 77.7,
+      "reviewCount": 6,
+      "userScore": 89.8,
+      "userRatingCount": 8,
+      "igdbId": 191745,
+      "igdbName": "Capcom Fighting Collection",
+      "url": "https://www.igdb.com/games/capcom-fighting-collection"
+    },
+    "70010000077390": {
+      "score": 89.4,
+      "reviewCount": 5,
+      "userScore": 84.1,
+      "userRatingCount": 6,
+      "igdbId": 306147,
+      "igdbName": "Marvel vs. Capcom Fighting Collection: Arcade Classics",
+      "url": "https://www.igdb.com/games/marvel-vs-capcom-fighting-collection-arcade-classics"
+    },
+    "70010000035513": {
+      "score": 65,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 151813,
+      "igdbName": "RPGolf Legends",
+      "url": "https://www.igdb.com/games/rpgolf-legends"
+    },
+    "70010000028996": {
+      "score": 76,
+      "reviewCount": 1,
+      "userScore": 50,
+      "userRatingCount": 4,
+      "igdbId": 78754,
+      "igdbName": "Scribblenauts Showdown",
+      "url": "https://www.igdb.com/games/scribblenauts-showdown"
+    },
+    "70010000050977": {
+      "score": 70.7,
+      "reviewCount": 6,
+      "userScore": 70.4,
+      "userRatingCount": 58,
+      "igdbId": 10910,
+      "igdbName": "LEGO Worlds",
+      "url": "https://www.igdb.com/games/lego-worlds"
+    },
+    "70010000050352": {
+      "score": 66,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 198126,
+      "igdbName": "Snow Bros.: Nick & Tom Special",
+      "url": "https://www.igdb.com/games/snow-bros-dot-nick-and-tom-special"
+    },
+    "70010000030248": {
+      "score": 87.8,
+      "reviewCount": 11,
+      "userScore": 85.1,
+      "userRatingCount": 580,
+      "igdbId": 6707,
+      "igdbName": "Tales from the Borderlands",
+      "url": "https://www.igdb.com/games/tales-from-the-borderlands"
+    },
+    "70010000049559": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": 60.7,
+      "userRatingCount": 5,
+      "igdbId": 143621,
+      "igdbName": "Shin-chan: Me and the Professor on Summer Vacation - The Endless Seven-Day Journey",
+      "url": "https://www.igdb.com/games/shin-chan-me-and-the-professor-on-summer-vacation-the-endless-seven-day-journey"
+    },
+    "70010000036093": {
+      "score": 50.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 141201,
+      "igdbName": "Drawn to Life: Two Realms",
+      "url": "https://www.igdb.com/games/drawn-to-life-two-realms"
+    },
+    "70010000054005": {
+      "score": 88.5,
+      "reviewCount": 6,
+      "userScore": 80.6,
+      "userRatingCount": 24,
+      "igdbId": 152201,
+      "igdbName": "Mario + Rabbids Sparks of Hope",
+      "url": "https://www.igdb.com/games/mario-plus-rabbids-sparks-of-hope"
+    },
+    "70010000028739": {
+      "score": 80.9,
+      "reviewCount": 27,
+      "userScore": 77,
+      "userRatingCount": 475,
+      "igdbId": 7352,
+      "igdbName": "Abzu",
+      "url": "https://www.igdb.com/games/abzu"
+    },
+    "70010000046509": {
+      "score": 81,
+      "reviewCount": 3,
+      "userScore": 79.1,
+      "userRatingCount": 10,
+      "igdbId": 151673,
+      "igdbName": "Grow: Song of the Evertree",
+      "url": "https://www.igdb.com/games/grow-song-of-the-evertree"
+    },
+    "70010000035464": {
+      "score": 82,
+      "reviewCount": 10,
+      "userScore": 78.2,
+      "userRatingCount": 226,
+      "igdbId": 121752,
+      "igdbName": "Ghostrunner",
+      "url": "https://www.igdb.com/games/ghostrunner"
+    },
+    "70010000103404": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": 69.9,
+      "userRatingCount": 10,
+      "igdbId": 56347,
+      "igdbName": "PixArk",
+      "url": "https://www.igdb.com/games/pixark"
+    },
+    "70010000088659": {
+      "score": 75.7,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 316681,
+      "igdbName": "Carmen Sandiego",
+      "url": "https://www.igdb.com/games/carmen-sandiego"
+    },
+    "70010000095400": {
+      "score": 87,
+      "reviewCount": 3,
+      "userScore": 73.2,
+      "userRatingCount": 15,
+      "igdbId": 353901,
+      "igdbName": "NBA 2K26",
+      "url": "https://www.igdb.com/games/nba-2k26"
+    },
+    "70010000049421": {
+      "score": 73.8,
+      "reviewCount": 4,
+      "userScore": 70.8,
+      "userRatingCount": 33,
+      "igdbId": 152245,
+      "igdbName": "Eiyuden Chronicle: Rising",
+      "url": "https://www.igdb.com/games/eiyuden-chronicle-rising"
+    },
+    "70010000034731": {
+      "score": 79,
+      "reviewCount": 6,
+      "userScore": 76,
+      "userRatingCount": 9,
+      "igdbId": 141546,
+      "igdbName": "Capcom Arcade Stadium",
+      "url": "https://www.igdb.com/games/capcom-arcade-stadium"
+    },
+    "70010000046671": {
+      "score": 78.7,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 204386,
+      "igdbName": "Capcom Arcade 2nd Stadium",
+      "url": "https://www.igdb.com/games/capcom-arcade-2nd-stadium"
+    },
+    "70010000058659": {
+      "score": 81,
+      "reviewCount": 4,
+      "userScore": 84.7,
+      "userRatingCount": 58,
+      "igdbId": 260735,
+      "igdbName": "Red Dead Redemption",
+      "url": "https://www.igdb.com/games/red-dead-redemption--1"
+    },
+    "70010000023876": {
+      "score": 81,
+      "reviewCount": 13,
+      "userScore": 82.3,
+      "userRatingCount": 1056,
+      "igdbId": 1879,
+      "igdbName": "Terraria",
+      "url": "https://www.igdb.com/games/terraria"
+    },
+    "70010000077713": {
+      "score": 86,
+      "reviewCount": 5,
+      "userScore": 83.7,
+      "userRatingCount": 6,
+      "igdbId": 306144,
+      "igdbName": "Dragon Quest I & II HD-2D Remake",
+      "url": "https://www.igdb.com/games/dragon-quest-i-and-ii-hd-2d-remake"
+    },
+    "70010000048003": {
+      "score": 81.5,
+      "reviewCount": 6,
+      "userScore": 72.9,
+      "userRatingCount": 70,
+      "igdbId": 205201,
+      "igdbName": "Crisis Core: Final Fantasy VII - Reunion",
+      "url": "https://www.igdb.com/games/crisis-core-final-fantasy-vii-reunion"
+    },
+    "70010000064268": {
+      "score": 80,
+      "reviewCount": 5,
+      "userScore": 80,
+      "userRatingCount": 9,
+      "igdbId": 229919,
+      "igdbName": "Fate/Samurai Remnant",
+      "url": "https://www.igdb.com/games/fate-slash-samurai-remnant"
+    },
+    "70010000101230": {
+      "score": 87,
+      "reviewCount": 3,
+      "userScore": 73.2,
+      "userRatingCount": 15,
+      "igdbId": 353901,
+      "igdbName": "NBA 2K26",
+      "url": "https://www.igdb.com/games/nba-2k26"
+    },
+    "70010000106471": {
+      "score": 84.3,
+      "reviewCount": 4,
+      "userScore": 83.1,
+      "userRatingCount": 17,
+      "igdbId": 314936,
+      "igdbName": "Trails in the Sky 1st Chapter",
+      "url": "https://www.igdb.com/games/trails-in-the-sky-1st-chapter"
+    },
+    "70010000106811": {
+      "score": 69,
+      "reviewCount": 2,
+      "userScore": 50,
+      "userRatingCount": 4,
+      "igdbId": 96254,
+      "igdbName": "Mega Man X Legacy Collection 2",
+      "url": "https://www.igdb.com/games/mega-man-x-legacy-collection-2"
+    },
+    "70010000106812": {
+      "score": 87.3,
+      "reviewCount": 3,
+      "userScore": 87.2,
+      "userRatingCount": 17,
+      "igdbId": 96252,
+      "igdbName": "Mega Man X: Legacy Collection",
+      "url": "https://www.igdb.com/games/mega-man-x-legacy-collection"
+    },
+    "70010000099191": {
+      "score": 89.8,
+      "reviewCount": 4,
+      "userScore": 78.8,
+      "userRatingCount": 9,
+      "igdbId": 347121,
+      "igdbName": "Final Fantasy Tactics: The Ivalice Chronicles",
+      "url": "https://www.igdb.com/games/final-fantasy-tactics-the-ivalice-chronicles"
+    },
+    "70010000031020": {
+      "score": 68.8,
+      "reviewCount": 8,
+      "userScore": 63.7,
+      "userRatingCount": 10,
+      "igdbId": 122232,
+      "igdbName": "Deadly Premonition 2: A Blessing in Disguise",
+      "url": "https://www.igdb.com/games/deadly-premonition-2-a-blessing-in-disguise"
+    },
+    "70010000109846": {
+      "score": 74.1,
+      "reviewCount": 7,
+      "userScore": 54.9,
+      "userRatingCount": 20,
+      "igdbId": 55195,
+      "igdbName": "Travis Strikes Again: No More Heroes",
+      "url": "https://www.igdb.com/games/travis-strikes-again-no-more-heroes"
+    },
+    "70010000105996": {
+      "score": 93,
+      "reviewCount": 4,
+      "userScore": 88.8,
+      "userRatingCount": 165,
+      "igdbId": 228525,
+      "igdbName": "Hades II",
+      "url": "https://www.igdb.com/games/hades-ii"
+    },
+    "70010000103276": {
+      "score": 93,
+      "reviewCount": 4,
+      "userScore": 88.8,
+      "userRatingCount": 165,
+      "igdbId": 228525,
+      "igdbName": "Hades II",
+      "url": "https://www.igdb.com/games/hades-ii"
+    },
+    "70010000088189": {
+      "score": 82,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 318001,
+      "igdbName": "Atelier Resleriana: The Red Alchemist & The White Guardian",
+      "url": "https://www.igdb.com/games/atelier-resleriana-the-red-alchemist-and-the-white-guardian"
+    },
+    "70010000105404": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": 73,
+      "userRatingCount": 6,
+      "igdbId": 260087,
+      "igdbName": "Under Night In-Birth II Sys:Celes",
+      "url": "https://www.igdb.com/games/under-night-in-birth-ii-sys-celes"
+    },
+    "70010000053193": {
+      "score": 87.1,
+      "reviewCount": 7,
+      "userScore": 71.8,
+      "userRatingCount": 33,
+      "igdbId": 325608,
+      "igdbName": "Sonic Racing: CrossWorlds",
+      "url": "https://www.igdb.com/games/sonic-racing-crossworlds"
+    },
+    "70010000100045": {
+      "score": 77.5,
+      "reviewCount": 2,
+      "userScore": 75.5,
+      "userRatingCount": 11,
+      "igdbId": 358530,
+      "igdbName": "Pac-Man World 2 Re-Pac",
+      "url": "https://www.igdb.com/games/pac-man-world-2-re-pac"
+    },
+    "70010000072521": {
+      "score": 77.5,
+      "reviewCount": 2,
+      "userScore": 75.5,
+      "userRatingCount": 11,
+      "igdbId": 358530,
+      "igdbName": "Pac-Man World 2 Re-Pac",
+      "url": "https://www.igdb.com/games/pac-man-world-2-re-pac"
+    },
+    "70010000091313": {
+      "score": 81.3,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 347657,
+      "igdbName": "Towa and the Guardians of the Sacred Tree",
+      "url": "https://www.igdb.com/games/towa-and-the-guardians-of-the-sacred-tree"
+    },
+    "70010000091774": {
+      "score": 85,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 362635,
+      "igdbName": "Storm Lancers",
+      "url": "https://www.igdb.com/games/storm-lancers"
+    },
+    "70010000087875": {
+      "score": 75.3,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 337034,
+      "igdbName": "Everybody’s Golf: Hot Shots",
+      "url": "https://www.igdb.com/games/everybodys-golf-hot-shots"
+    },
+    "70010000097154": {
+      "score": 81,
+      "reviewCount": 4,
+      "userScore": 79.9,
+      "userRatingCount": 8,
+      "igdbId": 250922,
+      "igdbName": "Rune Factory: Guardians of Azuma",
+      "url": "https://www.igdb.com/games/rune-factory-guardians-of-azuma--1"
+    },
+    "70010000095998": {
+      "score": 60,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 338087,
+      "igdbName": "Survival Kids",
+      "url": "https://www.igdb.com/games/survival-kids--1"
+    },
+    "70010000023458": {
+      "score": 89.1,
+      "reviewCount": 24,
+      "userScore": 81.8,
+      "userRatingCount": 1174,
+      "igdbId": 8173,
+      "igdbName": "Overwatch",
+      "url": "https://www.igdb.com/games/overwatch"
+    },
+    "70010000097422": {
+      "score": 90,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 338090,
+      "igdbName": "Wild Hearts S",
+      "url": "https://www.igdb.com/games/wild-hearts-s"
+    },
+    "70010000095328": {
+      "score": 85.4,
+      "reviewCount": 10,
+      "userScore": 74.4,
+      "userRatingCount": 16,
+      "igdbId": 252835,
+      "igdbName": "Kunitsu-Gami: Path of the Goddess",
+      "url": "https://www.igdb.com/games/kunitsu-gami-path-of-the-goddess"
+    },
+    "70010000095837": {
+      "score": 83.1,
+      "reviewCount": 10,
+      "userScore": 80,
+      "userRatingCount": 26,
+      "igdbId": 284716,
+      "igdbName": "Sonic X Shadow Generations",
+      "url": "https://www.igdb.com/games/sonic-x-shadow-generations"
+    },
+    "70010000026950": {
+      "score": 50,
+      "reviewCount": 1,
+      "userScore": 55.3,
+      "userRatingCount": 35,
+      "igdbId": 114058,
+      "igdbName": "Totally Reliable Delivery Service",
+      "url": "https://www.igdb.com/games/totally-reliable-delivery-service"
+    },
+    "70010000103857": {
+      "score": 82.5,
+      "reviewCount": 11,
+      "userScore": 82.5,
+      "userRatingCount": 212,
+      "igdbId": 10760,
+      "igdbName": "Bloodstained: Ritual of the Night",
+      "url": "https://www.igdb.com/games/bloodstained-ritual-of-the-night"
+    },
+    "70010000056214": {
+      "score": 78,
+      "reviewCount": 3,
+      "userScore": 78.4,
+      "userRatingCount": 5,
+      "igdbId": 213741,
+      "igdbName": "Vengeful Guardian: Moonrider",
+      "url": "https://www.igdb.com/games/vengeful-guardian-moonrider"
+    },
+    "70010000069400": {
+      "score": 45,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 256001,
+      "igdbName": "RollerCoaster Tycoon Adventures Deluxe",
+      "url": "https://www.igdb.com/games/rollercoaster-tycoon-adventures-deluxe"
+    },
+    "70010000103614": {
+      "score": 85,
+      "reviewCount": 1,
+      "userScore": 79.4,
+      "userRatingCount": 25,
+      "igdbId": 114905,
+      "igdbName": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
+      "url": "https://www.igdb.com/games/yu-gi-oh-legacy-of-the-duelist-link-evolution"
+    },
+    "70010000103724": {
+      "score": 71.3,
+      "reviewCount": 9,
+      "userScore": 69.9,
+      "userRatingCount": 46,
+      "igdbId": 103018,
+      "igdbName": "Team Sonic Racing",
+      "url": "https://www.igdb.com/games/team-sonic-racing"
+    },
+    "70010000040654": {
+      "score": 81,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 146821,
+      "igdbName": "Kasiori",
+      "url": "https://www.igdb.com/games/kasiori"
+    },
+    "70010000103490": {
+      "score": 20,
+      "reviewCount": 1,
+      "userScore": 78.4,
+      "userRatingCount": 6,
+      "igdbId": 87673,
+      "igdbName": "Nippon Marathon",
+      "url": "https://www.igdb.com/games/nippon-marathon"
+    },
+    "70010000063213": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 154856,
+      "igdbName": "RWBY: Arrowfell",
+      "url": "https://www.igdb.com/games/rwby-arrowfell"
+    },
+    "70010000063532": {
+      "score": 78.7,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 263923,
+      "igdbName": "Qomp2",
+      "url": "https://www.igdb.com/games/qomp2--1"
+    },
+    "70010000059130": {
+      "score": 77,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 242038,
+      "igdbName": "Touhou: New World",
+      "url": "https://www.igdb.com/games/touhou-new-world"
+    },
+    "70010000068492": {
+      "score": 75,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 258160,
+      "igdbName": "Haunted House",
+      "url": "https://www.igdb.com/games/haunted-house--6"
+    },
+    "70010000057173": {
+      "score": 65,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 137195,
+      "igdbName": "River City Girls Zero",
+      "url": "https://www.igdb.com/games/river-city-girls-zero"
+    },
+    "70010000029214": {
+      "score": 77.4,
+      "reviewCount": 7,
+      "userScore": 89.7,
+      "userRatingCount": 14,
+      "igdbId": 36595,
+      "igdbName": "Sakuna: Of Rice and Ruin",
+      "url": "https://www.igdb.com/games/sakuna-of-rice-and-ruin"
+    },
+    "70010000049920": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 194249,
+      "igdbName": "Kombinera",
+      "url": "https://www.igdb.com/games/kombinera"
+    },
+    "70010000103495": {
+      "score": 0,
+      "reviewCount": 0,
+      "userScore": 89.7,
+      "userRatingCount": 37,
+      "igdbId": 9146,
+      "igdbName": "Guilty Gear XX Accent Core Plus R",
+      "url": "https://www.igdb.com/games/guilty-gear-xx-accent-core-plus-r"
+    },
+    "70010000069708": {
+      "score": 64,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 268421,
+      "igdbName": "The Legend of Legacy: HD Remastered",
+      "url": "https://www.igdb.com/games/the-legend-of-legacy-hd-remastered"
+    },
+    "70010000080406": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 221115,
+      "igdbName": "The Land Beneath Us",
+      "url": "https://www.igdb.com/games/the-land-beneath-us"
+    },
+    "70010000103822": {
+      "score": 81,
+      "reviewCount": 5,
+      "userScore": 79.7,
+      "userRatingCount": 130,
+      "igdbId": 2272,
+      "igdbName": "No More Heroes",
+      "url": "https://www.igdb.com/games/no-more-heroes"
+    },
+    "70010000104343": {
+      "score": 87.5,
+      "reviewCount": 2,
+      "userScore": 80.4,
+      "userRatingCount": 13,
+      "igdbId": 27397,
+      "igdbName": "Voez",
+      "url": "https://www.igdb.com/games/voez"
+    },
+    "70010000054803": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 173959,
+      "igdbName": "Super Toy Cars Offroad",
+      "url": "https://www.igdb.com/games/super-toy-cars-offroad"
+    },
+    "70010000104276": {
+      "score": 64,
+      "reviewCount": 1,
+      "userScore": 84,
+      "userRatingCount": 2,
+      "igdbId": 39861,
+      "igdbName": "Gunbarich",
+      "url": "https://www.igdb.com/games/gunbarich"
+    },
+    "70010000061776": {
+      "score": 78.3,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 249540,
+      "igdbName": "Mr. Run and Jump",
+      "url": "https://www.igdb.com/games/mr-run-and-jump"
+    },
+    "70010000060203": {
+      "score": 45,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 189828,
+      "igdbName": "Goodbye World",
+      "url": "https://www.igdb.com/games/goodbye-world"
+    },
+    "70010000058161": {
+      "score": 81,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 237527,
+      "igdbName": "Akka Arrh",
+      "url": "https://www.igdb.com/games/akka-arrh--1"
+    },
+    "70010000052242": {
+      "score": 72.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 205172,
+      "igdbName": "Atari Mania",
+      "url": "https://www.igdb.com/games/atari-mania"
+    },
+    "70010000071399": {
+      "score": 79,
+      "reviewCount": 1,
+      "userScore": 70,
+      "userRatingCount": 12,
+      "igdbId": 250890,
+      "igdbName": "Agatha Christie: Murder on the Orient Express",
+      "url": "https://www.igdb.com/games/agatha-christie-murder-on-the-orient-express--1"
+    },
+    "70010000089062": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 106332,
+      "igdbName": "Vagrus: The Riven Realms",
+      "url": "https://www.igdb.com/games/vagrus-the-riven-realms"
+    },
+    "70010000095776": {
+      "score": 83,
+      "reviewCount": 3,
+      "userScore": 87.4,
+      "userRatingCount": 5,
+      "igdbId": 337024,
+      "igdbName": "Raidou Remastered: The Mystery of the Soulless Army",
+      "url": "https://www.igdb.com/games/raidou-remastered-the-mystery-of-the-soulless-army"
+    },
+    "70010000095218": {
+      "score": 88.3,
+      "reviewCount": 4,
+      "userScore": 90.1,
+      "userRatingCount": 6,
+      "igdbId": 338084,
+      "igdbName": "Yakuza 0: Director's Cut",
+      "url": "https://www.igdb.com/games/yakuza-0-directors-cut"
+    },
+    "70010000084379": {
+      "score": 70,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 256465,
+      "igdbName": "Clock Tower: Rewind",
+      "url": "https://www.igdb.com/games/clock-tower-rewind"
+    },
+    "70010000102620": {
+      "score": 81.7,
+      "reviewCount": 6,
+      "userScore": 71.8,
+      "userRatingCount": 6,
+      "igdbId": 115281,
+      "igdbName": "Box Boy! + Box Girl!",
+      "url": "https://www.igdb.com/games/box-boy-plus-box-girl"
+    },
+    "70010000029724": {
+      "score": 85,
+      "reviewCount": 2,
+      "userScore": 79.9,
+      "userRatingCount": 6,
+      "igdbId": 131962,
+      "igdbName": "Good Job!",
+      "url": "https://www.igdb.com/games/good-job"
+    },
+    "70010000084030": {
+      "score": 68,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 281740,
+      "igdbName": "Hunter x Hunter: Nen x Impact",
+      "url": "https://www.igdb.com/games/hunter-x-hunter-nen-x-impact"
+    },
+    "70010000047272": {
+      "score": 60,
+      "reviewCount": 1,
+      "userScore": 64.7,
+      "userRatingCount": 7,
+      "igdbId": 107196,
+      "igdbName": "Gear.Club Unlimited 2",
+      "url": "https://www.igdb.com/games/gear-dot-club-unlimited-2"
+    },
+    "70010000066781": {
+      "score": 86.5,
+      "reviewCount": 6,
+      "userScore": 90.7,
+      "userRatingCount": 21,
+      "igdbId": 279630,
+      "igdbName": "Shinobi: Art of Vengeance",
+      "url": "https://www.igdb.com/games/shinobi-art-of-vengeance"
+    },
+    "70010000103492": {
+      "score": 76.9,
+      "reviewCount": 7,
+      "userScore": 82.5,
+      "userRatingCount": 33,
+      "igdbId": 51448,
+      "igdbName": "BlazBlue: Cross Tag Battle",
+      "url": "https://www.igdb.com/games/blazblue-cross-tag-battle"
+    },
+    "70010000052146": {
+      "score": 85.4,
+      "reviewCount": 8,
+      "userScore": 78.1,
+      "userRatingCount": 176,
+      "igdbId": 144465,
+      "igdbName": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+      "url": "https://www.igdb.com/games/teenage-mutant-ninja-turtles-shredders-revenge"
+    },
+    "70010000029013": {
+      "score": 88.1,
+      "reviewCount": 17,
+      "userScore": 80.4,
+      "userRatingCount": 121,
+      "igdbId": 138950,
+      "igdbName": "Monster Hunter Rise",
+      "url": "https://www.igdb.com/games/monster-hunter-rise"
+    },
+    "70010000062587": {
+      "score": 77.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 319268,
+      "igdbName": "Phantom Breaker: Battle Grounds Ultimate",
+      "url": "https://www.igdb.com/games/phantom-breaker-battle-grounds-ultimate"
+    },
+    "70010000026875": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 126484,
+      "igdbName": "Railway Empire: Nintendo Switch Edition",
+      "url": "https://www.igdb.com/games/railway-empire-nintendo-switch-edition"
+    },
+    "70010000072352": {
+      "score": 76.3,
+      "reviewCount": 4,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 287853,
+      "igdbName": "Gundam Breaker 4",
+      "url": "https://www.igdb.com/games/gundam-breaker-4"
+    },
+    "70010000065203": {
+      "score": 83,
+      "reviewCount": 3,
+      "userScore": 87.4,
+      "userRatingCount": 5,
+      "igdbId": 337024,
+      "igdbName": "Raidou Remastered: The Mystery of the Soulless Army",
+      "url": "https://www.igdb.com/games/raidou-remastered-the-mystery-of-the-soulless-army"
+    },
+    "70010000103859": {
+      "score": 57.5,
+      "reviewCount": 2,
+      "userScore": 77.4,
+      "userRatingCount": 6,
+      "igdbId": 94084,
+      "igdbName": "Toki",
+      "url": "https://www.igdb.com/games/toki--1"
+    },
+    "70010000028293": {
+      "score": 82.6,
+      "reviewCount": 12,
+      "userScore": 80.2,
+      "userRatingCount": 201,
+      "igdbId": 107262,
+      "igdbName": "Streets of Rage 4",
+      "url": "https://www.igdb.com/games/streets-of-rage-4"
+    },
+    "70010000048353": {
+      "score": 84,
+      "reviewCount": 1,
+      "userScore": 93,
+      "userRatingCount": 3,
+      "igdbId": 120200,
+      "igdbName": "Mighty Switch Force! Collection",
+      "url": "https://www.igdb.com/games/mighty-switch-force-collection"
+    },
+    "70010000100594": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 337040,
+      "igdbName": "Super Robot Wars Y",
+      "url": "https://www.igdb.com/games/super-robot-wars-y"
+    },
+    "70010000032568": {
+      "score": 73.6,
+      "reviewCount": 12,
+      "userScore": 68.2,
+      "userRatingCount": 149,
+      "igdbId": 110474,
+      "igdbName": "Minecraft Dungeons",
+      "url": "https://www.igdb.com/games/minecraft-dungeons"
+    },
+    "70010000037994": {
+      "score": 87,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 131974,
+      "igdbName": "Mary Skelter Finale",
+      "url": "https://www.igdb.com/games/mary-skelter-finale"
+    },
+    "70010000031908": {
+      "score": 72.7,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 119258,
+      "igdbName": "Immortal Realms: Vampire Wars",
+      "url": "https://www.igdb.com/games/immortal-realms-vampire-wars"
+    },
+    "70010000029098": {
+      "score": 80.4,
+      "reviewCount": 11,
+      "userScore": 72.6,
+      "userRatingCount": 71,
+      "igdbId": 113108,
+      "igdbName": "Journey to the Savage Planet",
+      "url": "https://www.igdb.com/games/journey-to-the-savage-planet"
+    },
+    "70010000024291": {
+      "score": 85.6,
+      "reviewCount": 8,
+      "userScore": 87.4,
+      "userRatingCount": 36,
+      "igdbId": 146075,
+      "igdbName": "The Great Ace Attorney Chronicles",
+      "url": "https://www.igdb.com/games/the-great-ace-attorney-chronicles"
+    },
+    "70010000029382": {
+      "score": 78,
+      "reviewCount": 1,
+      "userScore": 80,
+      "userRatingCount": 0,
+      "igdbId": 20394,
+      "igdbName": "Air Missions: Hind",
+      "url": "https://www.igdb.com/games/air-missions-hind"
+    },
+    "70010000029271": {
+      "score": 75.8,
+      "reviewCount": 4,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 121960,
+      "igdbName": "Brigandine: The Legend of Runersia",
+      "url": "https://www.igdb.com/games/brigandine-the-legend-of-runersia"
+    },
+    "70010000033694": {
+      "score": 71,
+      "reviewCount": 5,
+      "userScore": 60,
+      "userRatingCount": 22,
+      "igdbId": 204621,
+      "igdbName": "Minecraft: Legends",
+      "url": "https://www.igdb.com/games/minecraft-legends"
+    },
+    "70010000104016": {
+      "score": 90.1,
+      "reviewCount": 12,
+      "userScore": 82.9,
+      "userRatingCount": 641,
+      "igdbId": 26855,
+      "igdbName": "Dead Cells",
+      "url": "https://www.igdb.com/games/dead-cells"
+    },
+    "70010000028907": {
+      "score": 74,
+      "reviewCount": 4,
+      "userScore": 72.7,
+      "userRatingCount": 9,
+      "igdbId": 150005,
+      "igdbName": "Sonic Colors: Ultimate",
+      "url": "https://www.igdb.com/games/sonic-colors-ultimate"
+    },
+    "70010000047203": {
+      "score": 70.5,
+      "reviewCount": 2,
+      "userScore": 79.8,
+      "userRatingCount": 5,
+      "igdbId": 116781,
+      "igdbName": "Little Witch Nobeta",
+      "url": "https://www.igdb.com/games/little-witch-nobeta"
+    },
+    "70010000035507": {
+      "score": 70,
+      "reviewCount": 3,
+      "userScore": 76.3,
+      "userRatingCount": 39,
+      "igdbId": 107141,
+      "igdbName": "Spirit of the North",
+      "url": "https://www.igdb.com/games/spirit-of-the-north"
+    },
+    "70010000040405": {
+      "score": 71.8,
+      "reviewCount": 8,
+      "userScore": 73,
+      "userRatingCount": 84,
+      "igdbId": 150010,
+      "igdbName": "Sonic Frontiers",
+      "url": "https://www.igdb.com/games/sonic-frontiers"
+    },
+    "70010000061766": {
+      "score": 68.9,
+      "reviewCount": 8,
+      "userScore": 67.7,
+      "userRatingCount": 263,
+      "igdbId": 10239,
+      "igdbName": "Ark: Survival Evolved",
+      "url": "https://www.igdb.com/games/ark-survival-evolved"
+    },
+    "70010000045572": {
+      "score": 60,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 171860,
+      "igdbName": "Dusk Diver 2",
+      "url": "https://www.igdb.com/games/dusk-diver-2"
+    },
+    "70010000035521": {
+      "score": 75.7,
+      "reviewCount": 7,
+      "userScore": 71.2,
+      "userRatingCount": 65,
+      "igdbId": 111837,
+      "igdbName": "Cloudpunk",
+      "url": "https://www.igdb.com/games/cloudpunk"
+    },
+    "70010000046997": {
+      "score": 90,
+      "reviewCount": 1,
+      "userScore": 93,
+      "userRatingCount": 25,
+      "igdbId": 119801,
+      "igdbName": "Figment 2: Creed Valley",
+      "url": "https://www.igdb.com/games/figment-2-creed-valley"
+    },
+    "70010000061319": {
+      "score": 74,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 254330,
+      "igdbName": "Silent Hope",
+      "url": "https://www.igdb.com/games/silent-hope"
+    },
+    "70010000052213": {
+      "score": 87,
+      "reviewCount": 4,
+      "userScore": 85,
+      "userRatingCount": 48,
+      "igdbId": 153808,
+      "igdbName": "AI: The Somnium Files - Nirvana Initiative",
+      "url": "https://www.igdb.com/games/ai-the-somnium-files-nirvana-initiative"
+    },
+    "70010000044685": {
+      "score": 82,
+      "reviewCount": 4,
+      "userScore": 81.2,
+      "userRatingCount": 9,
+      "igdbId": 12634,
+      "igdbName": "Collar x Malice",
+      "url": "https://www.igdb.com/games/collar-x-malice"
+    },
+    "70010000053299": {
+      "score": 66,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 199178,
+      "igdbName": "Deadcraft",
+      "url": "https://www.igdb.com/games/deadcraft"
+    },
+    "70010000044473": {
+      "score": 90,
+      "reviewCount": 1,
+      "userScore": 69.7,
+      "userRatingCount": 22,
+      "igdbId": 145319,
+      "igdbName": "Arcade Paradise",
+      "url": "https://www.igdb.com/games/arcade-paradise"
+    },
+    "70010000084286": {
+      "score": 85,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 145691,
+      "igdbName": "Radiant Tale",
+      "url": "https://www.igdb.com/games/radiant-tale"
+    },
+    "70010000092938": {
+      "score": 66,
+      "reviewCount": 1,
+      "userScore": 76.9,
+      "userRatingCount": 7,
+      "igdbId": 133344,
+      "igdbName": "Wobbly Life",
+      "url": "https://www.igdb.com/games/wobbly-life"
+    },
+    "70010000071499": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 254354,
+      "igdbName": "Umamusume: Pretty Derby - Party Dash",
+      "url": "https://www.igdb.com/games/umamusume-pretty-derby-party-dash"
+    },
+    "70010000086955": {
+      "score": 81.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 337907,
+      "igdbName": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2",
+      "url": "https://www.igdb.com/games/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2"
+    },
+    "70010000081820": {
+      "score": 90,
+      "reviewCount": 1,
+      "userScore": 56.4,
+      "userRatingCount": 5,
+      "igdbId": 151593,
+      "igdbName": "Universe for Sale",
+      "url": "https://www.igdb.com/games/universe-for-sale"
+    },
+    "70010000085842": {
+      "score": 90,
+      "reviewCount": 2,
+      "userScore": 79.6,
+      "userRatingCount": 15,
+      "igdbId": 208533,
+      "igdbName": "Shogun Showdown",
+      "url": "https://www.igdb.com/games/shogun-showdown"
+    },
+    "70010000086118": {
+      "score": 90,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 307648,
+      "igdbName": "Fuga: Melodies of Steel 3",
+      "url": "https://www.igdb.com/games/fuga-melodies-of-steel-3"
+    },
+    "70010000104015": {
+      "score": 79,
+      "reviewCount": 19,
+      "userScore": 78.3,
+      "userRatingCount": 195,
+      "igdbId": 17026,
+      "igdbName": "Furi",
+      "url": "https://www.igdb.com/games/furi"
+    },
+    "70010000081908": {
+      "score": 83.1,
+      "reviewCount": 10,
+      "userScore": 80,
+      "userRatingCount": 26,
+      "igdbId": 284716,
+      "igdbName": "Sonic X Shadow Generations",
+      "url": "https://www.igdb.com/games/sonic-x-shadow-generations"
+    },
+    "70010000081932": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 118622,
+      "igdbName": "Selfloss",
+      "url": "https://www.igdb.com/games/selfloss"
+    },
+    "70010000103858": {
+      "score": 80,
+      "reviewCount": 10,
+      "userScore": 80.8,
+      "userRatingCount": 31,
+      "igdbId": 13555,
+      "igdbName": "Indivisible",
+      "url": "https://www.igdb.com/games/indivisible"
+    },
+    "70010000091544": {
+      "score": 81.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 143829,
+      "igdbName": "Ruffy and the Riverside",
+      "url": "https://www.igdb.com/games/ruffy-and-the-riverside"
+    },
+    "70010000103487": {
+      "score": 57,
+      "reviewCount": 3,
+      "userScore": 69.4,
+      "userRatingCount": 32,
+      "igdbId": 103369,
+      "igdbName": "Kill la Kill: If",
+      "url": "https://www.igdb.com/games/kill-la-kill-if"
+    },
+    "70010000086694": {
+      "score": 80.8,
+      "reviewCount": 4,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 299572,
+      "igdbName": "The Smurfs: Dreams",
+      "url": "https://www.igdb.com/games/the-smurfs-dreams"
+    },
+    "70010000091788": {
+      "score": 76,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 314935,
+      "igdbName": "Star Overdrive",
+      "url": "https://www.igdb.com/games/star-overdrive"
+    },
+    "70010000040009": {
+      "score": 73.6,
+      "reviewCount": 8,
+      "userScore": 63.3,
+      "userRatingCount": 25,
+      "igdbId": 131868,
+      "igdbName": "Blue Fire",
+      "url": "https://www.igdb.com/games/blue-fire"
+    },
+    "70010000103823": {
+      "score": 58,
+      "reviewCount": 1,
+      "userScore": 70,
+      "userRatingCount": 0,
+      "igdbId": 87854,
+      "igdbName": "Assault Gunners HD Edition",
+      "url": "https://www.igdb.com/games/assault-gunners-hd-edition"
+    },
+    "70010000041344": {
+      "score": 76.3,
+      "reviewCount": 4,
+      "userScore": 59.8,
+      "userRatingCount": 10,
+      "igdbId": 117312,
+      "igdbName": "Embr",
+      "url": "https://www.igdb.com/games/embr"
+    },
+    "70010000104011": {
+      "score": 60,
+      "reviewCount": 2,
+      "userScore": 50,
+      "userRatingCount": 1,
+      "igdbId": 20395,
+      "igdbName": "Dungeon Rushers",
+      "url": "https://www.igdb.com/games/dungeon-rushers"
+    },
+    "70010000103500": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": 70.5,
+      "userRatingCount": 6,
+      "igdbId": 121369,
+      "igdbName": "Under Night In-Birth Exe:Late[cl-r]",
+      "url": "https://www.igdb.com/games/under-night-in-birth-exe-late-cl-r"
+    },
+    "70010000041040": {
+      "score": 76.7,
+      "reviewCount": 7,
+      "userScore": 78.2,
+      "userRatingCount": 5,
+      "igdbId": 143619,
+      "igdbName": "Ninja Gaiden: Master Collection",
+      "url": "https://www.igdb.com/games/ninja-gaiden-master-collection"
+    },
+    "70010000103856": {
+      "score": 77.3,
+      "reviewCount": 8,
+      "userScore": 79.3,
+      "userRatingCount": 45,
+      "igdbId": 55042,
+      "igdbName": "Blazing Chrome",
+      "url": "https://www.igdb.com/games/blazing-chrome"
+    },
+    "70010000041138": {
+      "score": 92,
+      "reviewCount": 1,
+      "userScore": 71.9,
+      "userRatingCount": 12,
+      "igdbId": 114910,
+      "igdbName": "Evoland Legendary Edition",
+      "url": "https://www.igdb.com/games/evoland-legendary-edition"
+    },
+    "70010000103853": {
+      "score": 65,
+      "reviewCount": 1,
+      "userScore": 59,
+      "userRatingCount": 7,
+      "igdbId": 3830,
+      "igdbName": "Air Conflicts: Secret Wars",
+      "url": "https://www.igdb.com/games/air-conflicts-secret-wars"
+    },
+    "70010000045422": {
+      "score": 85,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 106857,
+      "igdbName": "Young Souls",
+      "url": "https://www.igdb.com/games/young-souls"
+    },
+    "70010000043916": {
+      "score": 72,
+      "reviewCount": 4,
+      "userScore": 69,
+      "userRatingCount": 17,
+      "igdbId": 58479,
+      "igdbName": "Out of Line",
+      "url": "https://www.igdb.com/games/out-of-line"
+    },
+    "70010000044469": {
+      "score": 90,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 148040,
+      "igdbName": "The Falconeer: Warrior Edition",
+      "url": "https://www.igdb.com/games/the-falconeer-warrior-edition"
+    },
+    "70010000049894": {
+      "score": 72.9,
+      "reviewCount": 12,
+      "userScore": 72.1,
+      "userRatingCount": 242,
+      "igdbId": 7725,
+      "igdbName": "Resident Evil: Revelations 2",
+      "url": "https://www.igdb.com/games/resident-evil-revelations-2"
+    },
+    "70010000048818": {
+      "score": 84.6,
+      "reviewCount": 5,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 217909,
+      "igdbName": "Suikoden I & II HD Remaster: Gate Rune and Dunan Unification Wars",
+      "url": "https://www.igdb.com/games/suikoden-i-and-ii-hd-remaster-gate-rune-and-dunan-unification-wars"
+    },
+    "70010000041132": {
+      "score": 65,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 134579,
+      "igdbName": "Foreclosed",
+      "url": "https://www.igdb.com/games/foreclosed"
+    },
+    "70010000103862": {
+      "score": 70.6,
+      "reviewCount": 5,
+      "userScore": 50,
+      "userRatingCount": 4,
+      "igdbId": 26611,
+      "igdbName": "Birthdays the Beginning",
+      "url": "https://www.igdb.com/games/birthdays-the-beginning"
+    },
+    "70010000066454": {
+      "score": 85,
+      "reviewCount": 1,
+      "userScore": 69.5,
+      "userRatingCount": 18,
+      "igdbId": 234740,
+      "igdbName": "Nocturnal",
+      "url": "https://www.igdb.com/games/nocturnal"
+    },
+    "70010000065719": {
+      "score": 90,
+      "reviewCount": 1,
+      "userScore": 89.5,
+      "userRatingCount": 15,
+      "igdbId": 106534,
+      "igdbName": "Gravity Circuit",
+      "url": "https://www.igdb.com/games/gravity-circuit"
+    },
+    "70010000061606": {
+      "score": 50,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 59598,
+      "igdbName": "Clive 'N' Wrench",
+      "url": "https://www.igdb.com/games/clive-n-wrench"
+    },
+    "70010000086559": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 322554,
+      "igdbName": "Riki 8Bit Game Collection",
+      "url": "https://www.igdb.com/games/riki-8bit-game-collection"
+    },
+    "70010000076092": {
+      "score": 50,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 263782,
+      "igdbName": "Matchmaker Agency",
+      "url": "https://www.igdb.com/games/matchmaker-agency"
+    },
+    "70010000058992": {
+      "score": 72,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 218212,
+      "igdbName": "Garfield: Lasagna Party",
+      "url": "https://www.igdb.com/games/garfield-lasagna-party"
+    },
+    "70010000059607": {
+      "score": 74,
+      "reviewCount": 3,
+      "userScore": 60,
+      "userRatingCount": 26,
+      "igdbId": 138031,
+      "igdbName": "Aragami 2",
+      "url": "https://www.igdb.com/games/aragami-2"
+    },
+    "70010000052000": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": 79.8,
+      "userRatingCount": 5,
+      "igdbId": 191756,
+      "igdbName": "Final Vendetta",
+      "url": "https://www.igdb.com/games/final-vendetta"
+    },
+    "70010000078127": {
+      "score": 69,
+      "reviewCount": 4,
+      "userScore": 70,
+      "userRatingCount": 13,
+      "igdbId": 118357,
+      "igdbName": "Tools Up!",
+      "url": "https://www.igdb.com/games/tools-up"
+    },
+    "70010000057362": {
+      "score": 78,
+      "reviewCount": 3,
+      "userScore": 79.9,
+      "userRatingCount": 7,
+      "igdbId": 144028,
+      "igdbName": "Grapple Dog",
+      "url": "https://www.igdb.com/games/grapple-dog"
+    },
+    "70010000044474": {
+      "score": 80.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 173097,
+      "igdbName": "Lumote: The Mastermote Chronicles",
+      "url": "https://www.igdb.com/games/lumote-the-mastermote-chronicles"
+    },
+    "70010000041158": {
+      "score": 76.7,
+      "reviewCount": 3,
+      "userScore": 68.7,
+      "userRatingCount": 73,
+      "igdbId": 128097,
+      "igdbName": "Turnip Boy Commits Tax Evasion",
+      "url": "https://www.igdb.com/games/turnip-boy-commits-tax-evasion"
+    },
+    "70010000062066": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 151780,
+      "igdbName": "Zoeti",
+      "url": "https://www.igdb.com/games/zoeti"
+    },
+    "70010000049376": {
+      "score": 76.7,
+      "reviewCount": 3,
+      "userScore": 79.7,
+      "userRatingCount": 21,
+      "igdbId": 122386,
+      "igdbName": "Infernax",
+      "url": "https://www.igdb.com/games/infernax"
+    },
+    "70010000063692": {
+      "score": 68,
+      "reviewCount": 1,
+      "userScore": 83.2,
+      "userRatingCount": 83,
+      "igdbId": 152124,
+      "igdbName": "Bramble: The Mountain King",
+      "url": "https://www.igdb.com/games/bramble-the-mountain-king"
+    },
+    "70010000067440": {
+      "score": 72,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 279485,
+      "igdbName": "NanoApostle",
+      "url": "https://www.igdb.com/games/nanoapostle"
+    },
+    "70010000057365": {
+      "score": 85,
+      "reviewCount": 1,
+      "userScore": 84.7,
+      "userRatingCount": 28,
+      "igdbId": 133149,
+      "igdbName": "Post Void",
+      "url": "https://www.igdb.com/games/post-void"
+    },
+    "70010000084299": {
+      "score": 82,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 321604,
+      "igdbName": "Under Defeat",
+      "url": "https://www.igdb.com/games/under-defeat--1"
+    },
+    "70010000057359": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 204013,
+      "igdbName": "Lone Ruin",
+      "url": "https://www.igdb.com/games/lone-ruin"
+    },
+    "70010000027493": {
+      "score": 65,
+      "reviewCount": 1,
+      "userScore": 70,
+      "userRatingCount": 1,
+      "igdbId": 105058,
+      "igdbName": "Dead or School",
+      "url": "https://www.igdb.com/games/dead-or-school"
+    },
+    "70010000082611": {
+      "score": 76,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 319646,
+      "igdbName": "Taito Milestones 3",
+      "url": "https://www.igdb.com/games/taito-milestones-3"
+    },
+    "70010000044855": {
+      "score": 76.2,
+      "reviewCount": 5,
+      "userScore": 69.1,
+      "userRatingCount": 27,
+      "igdbId": 116634,
+      "igdbName": "Beyond a Steel Sky",
+      "url": "https://www.igdb.com/games/beyond-a-steel-sky"
+    },
+    "70010000048069": {
+      "score": 71,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 153212,
+      "igdbName": "Taito Milestones",
+      "url": "https://www.igdb.com/games/taito-milestones"
+    },
+    "70010000103761": {
+      "score": 94.5,
+      "reviewCount": 6,
+      "userScore": 90.4,
+      "userRatingCount": 685,
+      "igdbId": 132181,
+      "igdbName": "Resident Evil 4",
+      "url": "https://www.igdb.com/games/resident-evil-4--1"
+    },
+    "70010000103647": {
+      "score": 87.8,
+      "reviewCount": 19,
+      "userScore": 83.8,
+      "userRatingCount": 88,
+      "igdbId": 19455,
+      "igdbName": "Final Fantasy XII: The Zodiac Age",
+      "url": "https://www.igdb.com/games/final-fantasy-xii-the-zodiac-age"
+    },
+    "70010000066498": {
+      "score": 74.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 249737,
+      "igdbName": "Taito Milestones 2",
+      "url": "https://www.igdb.com/games/taito-milestones-2"
+    },
+    "70010000104196": {
+      "score": 70.3,
+      "reviewCount": 18,
+      "userScore": 73.2,
+      "userRatingCount": 218,
+      "igdbId": 15108,
+      "igdbName": "Resident Evil 0",
+      "url": "https://www.igdb.com/games/resident-evil-0"
+    },
+    "70010000055245": {
+      "score": 85,
+      "reviewCount": 2,
+      "userScore": 69,
+      "userRatingCount": 27,
+      "igdbId": 152172,
+      "igdbName": "Severed Steel",
+      "url": "https://www.igdb.com/games/severed-steel"
+    },
+    "70010000027938": {
+      "score": 82.4,
+      "reviewCount": 7,
+      "userScore": 77.7,
+      "userRatingCount": 47,
+      "igdbId": 7116,
+      "igdbName": "Freedom Planet",
+      "url": "https://www.igdb.com/games/freedom-planet"
+    },
+    "70010000104197": {
+      "score": 82.3,
+      "reviewCount": 16,
+      "userScore": 85.2,
+      "userRatingCount": 481,
+      "igdbId": 8254,
+      "igdbName": "Resident Evil",
+      "url": "https://www.igdb.com/games/resident-evil--3"
+    },
+    "70010000059273": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": 61.8,
+      "userRatingCount": 10,
+      "igdbId": 114809,
+      "igdbName": "Terror of Hemasaurus",
+      "url": "https://www.igdb.com/games/terror-of-hemasaurus"
+    },
+    "70010000041126": {
+      "score": 70,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 138138,
+      "igdbName": "Monster Harvest",
+      "url": "https://www.igdb.com/games/monster-harvest"
+    },
+    "70010000060022": {
+      "score": 86,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 207918,
+      "igdbName": "Ray'z Arcade Chronology",
+      "url": "https://www.igdb.com/games/rayz-arcade-chronology"
+    },
+    "70010000027085": {
+      "score": 81.2,
+      "reviewCount": 13,
+      "userScore": 79.5,
+      "userRatingCount": 81,
+      "igdbId": 117731,
+      "igdbName": "Persona 5 Strikers",
+      "url": "https://www.igdb.com/games/persona-5-strikers"
+    },
+    "70010000103730": {
+      "score": 78.6,
+      "reviewCount": 7,
+      "userScore": 79.6,
+      "userRatingCount": 74,
+      "igdbId": 2273,
+      "igdbName": "No More Heroes 2: Desperate Struggle",
+      "url": "https://www.igdb.com/games/no-more-heroes-2-desperate-struggle"
+    },
+    "70010000083875": {
+      "score": 55,
+      "reviewCount": 2,
+      "userScore": 64.9,
+      "userRatingCount": 13,
+      "igdbId": 160293,
+      "igdbName": "Achilles: Legends Untold",
+      "url": "https://www.igdb.com/games/achilles-legends-untold"
+    },
+    "70010000050944": {
+      "score": 78.8,
+      "reviewCount": 6,
+      "userScore": 84.2,
+      "userRatingCount": 23,
+      "igdbId": 191407,
+      "igdbName": "Live A Live",
+      "url": "https://www.igdb.com/games/live-a-live--1"
+    },
+    "70010000048606": {
+      "score": 89,
+      "reviewCount": 2,
+      "userScore": 78.7,
+      "userRatingCount": 13,
+      "igdbId": 206805,
+      "igdbName": "Nier: Automata - The End of Yorha Edition",
+      "url": "https://www.igdb.com/games/nier-automata-the-end-of-yorha-edition"
+    },
+    "70010000025169": {
+      "score": 77.9,
+      "reviewCount": 10,
+      "userScore": 76,
+      "userRatingCount": 42,
+      "igdbId": 119391,
+      "igdbName": "Trials of Mana",
+      "url": "https://www.igdb.com/games/trials-of-mana"
+    },
+    "70010000076823": {
+      "score": 59.8,
+      "reviewCount": 4,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 298314,
+      "igdbName": "Yars Rising",
+      "url": "https://www.igdb.com/games/yars-rising"
+    },
+    "70010000092377": {
+      "score": 76.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 330257,
+      "igdbName": "Breakout Beyond",
+      "url": "https://www.igdb.com/games/breakout-beyond"
+    },
+    "70010000057430": {
+      "score": 77.6,
+      "reviewCount": 5,
+      "userScore": 73.9,
+      "userRatingCount": 8,
+      "igdbId": 287854,
+      "igdbName": "Super Monkey Ball: Banana Rumble",
+      "url": "https://www.igdb.com/games/super-monkey-ball-banana-rumble"
+    },
+    "70010000037868": {
+      "score": 84.7,
+      "reviewCount": 11,
+      "userScore": 87.7,
+      "userRatingCount": 35,
+      "igdbId": 143610,
+      "igdbName": "Triangle Strategy",
+      "url": "https://www.igdb.com/games/triangle-strategy"
+    },
+    "70010000104310": {
+      "score": 78.4,
+      "reviewCount": 21,
+      "userScore": 80.4,
+      "userRatingCount": 172,
+      "igdbId": 16300,
+      "igdbName": "Dragon's Dogma: Dark Arisen",
+      "url": "https://www.igdb.com/games/dragons-dogma-dark-arisen"
+    },
+    "70010000088767": {
+      "score": 84.5,
+      "reviewCount": 2,
+      "userScore": 87.7,
+      "userRatingCount": 7,
+      "igdbId": 26589,
+      "igdbName": "RollerCoaster Tycoon Classic",
+      "url": "https://www.igdb.com/games/rollercoaster-tycoon-classic"
+    },
+    "70010000034165": {
+      "score": 60,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 117015,
+      "igdbName": "Metal Max Xeno Reborn",
+      "url": "https://www.igdb.com/games/metal-max-xeno-reborn"
+    },
+    "70010000049707": {
+      "score": 78.2,
+      "reviewCount": 5,
+      "userScore": 69.8,
+      "userRatingCount": 31,
+      "igdbId": 150512,
+      "igdbName": "Two Point Campus",
+      "url": "https://www.igdb.com/games/two-point-campus"
+    },
+    "70010000062082": {
+      "score": 82.9,
+      "reviewCount": 7,
+      "userScore": 89.7,
+      "userRatingCount": 9,
+      "igdbId": 254337,
+      "igdbName": "Star Ocean: The Second Story R",
+      "url": "https://www.igdb.com/games/star-ocean-the-second-story-r"
+    },
+    "70010000037145": {
+      "score": 70.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 145785,
+      "igdbName": "GetsuFumaDen: Undying Moon",
+      "url": "https://www.igdb.com/games/getsufumaden-undying-moon"
+    },
+    "70010000037815": {
+      "score": 81,
+      "reviewCount": 3,
+      "userScore": 69.8,
+      "userRatingCount": 11,
+      "igdbId": 115279,
+      "igdbName": "Rune Factory 5",
+      "url": "https://www.igdb.com/games/rune-factory-5"
+    },
+    "70010000028193": {
+      "score": 50,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 127307,
+      "igdbName": "SuperMash",
+      "url": "https://www.igdb.com/games/supermash"
+    },
+    "70010000038559": {
+      "score": 76.3,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 119365,
+      "igdbName": "Trigger Witch",
+      "url": "https://www.igdb.com/games/trigger-witch"
+    },
+    "70010000060576": {
+      "score": 70,
+      "reviewCount": 1,
+      "userScore": 50,
+      "userRatingCount": 0,
+      "igdbId": 11501,
+      "igdbName": "Mugen Souls",
+      "url": "https://www.igdb.com/games/mugen-souls"
+    },
+    "70010000086636": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 306562,
+      "igdbName": "Gimmick! 2",
+      "url": "https://www.igdb.com/games/gimmick-2"
+    },
+    "70010000074079": {
+      "score": 80,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 274086,
+      "igdbName": "Ufouria: The Saga 2",
+      "url": "https://www.igdb.com/games/ufouria-the-saga-2"
+    },
+    "70010000065579": {
+      "score": 44.2,
+      "reviewCount": 5,
+      "userScore": 60,
+      "userRatingCount": 1,
+      "igdbId": 11503,
+      "igdbName": "Mugen Souls Z",
+      "url": "https://www.igdb.com/games/mugen-souls-z"
+    },
+    "70010000071639": {
+      "score": 79.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 294870,
+      "igdbName": "SaGa Frontier 2 Remastered",
+      "url": "https://www.igdb.com/games/saga-frontier-2-remastered"
+    },
+    "70010000036800": {
+      "score": 85.2,
+      "reviewCount": 5,
+      "userScore": 70.5,
+      "userRatingCount": 23,
+      "igdbId": 212584,
+      "igdbName": "Tactics Ogre: Reborn",
+      "url": "https://www.igdb.com/games/tactics-ogre-reborn"
+    },
+    "70010000068164": {
+      "score": 65,
+      "reviewCount": 1,
+      "userScore": 72.2,
+      "userRatingCount": 9,
+      "igdbId": 132675,
+      "igdbName": "Xuan-Yuan Sword VII",
+      "url": "https://www.igdb.com/games/xuan-yuan-sword-vii"
+    },
+    "70010000046056": {
+      "score": 68.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 27070,
+      "igdbName": "Omen of Sorrow",
+      "url": "https://www.igdb.com/games/omen-of-sorrow"
+    },
+    "70010000074361": {
+      "score": 88,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 337028,
+      "igdbName": "Gradius Origins",
+      "url": "https://www.igdb.com/games/gradius-origins"
+    },
+    "70010000099061": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 345545,
+      "igdbName": "Toaplan Arcade Collection Vol. 2",
+      "url": "https://www.igdb.com/games/toaplan-arcade-collection-vol-2"
+    },
+    "70010000042349": {
+      "score": 79.3,
+      "reviewCount": 3,
+      "userScore": 74.5,
+      "userRatingCount": 18,
+      "igdbId": 194206,
+      "igdbName": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+      "url": "https://www.igdb.com/games/teenage-mutant-ninja-turtles-the-cowabunga-collection"
+    },
+    "70010000060826": {
+      "score": 85,
+      "reviewCount": 3,
+      "userScore": 82.7,
+      "userRatingCount": 21,
+      "igdbId": 236694,
+      "igdbName": "Paranormasight: The Seven Mysteries of Honjo",
+      "url": "https://www.igdb.com/games/paranormasight-the-seven-mysteries-of-honjo"
+    },
+    "70010000063985": {
+      "score": 71,
+      "reviewCount": 5,
+      "userScore": 70.3,
+      "userRatingCount": 9,
+      "igdbId": 266684,
+      "igdbName": "Contra: Operation Galuga",
+      "url": "https://www.igdb.com/games/contra-operation-galuga"
+    },
+    "70010000051700": {
+      "score": 72.7,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 206807,
+      "igdbName": "Super Bomberman R 2",
+      "url": "https://www.igdb.com/games/super-bomberman-r-2"
+    },
+    "70010000048150": {
+      "score": 84,
+      "reviewCount": 1,
+      "userScore": 81.4,
+      "userRatingCount": 7,
+      "igdbId": 150008,
+      "igdbName": "Marsupilami: Hoobadventure",
+      "url": "https://www.igdb.com/games/marsupilami-hoobadventure"
+    },
+    "70010000084473": {
+      "score": 82.7,
+      "reviewCount": 22,
+      "userScore": 80.2,
+      "userRatingCount": 273,
+      "igdbId": 12595,
+      "igdbName": "Yakuza Kiwami",
+      "url": "https://www.igdb.com/games/yakuza-kiwami"
+    },
+    "70010000098421": {
+      "score": 75,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 350460,
+      "igdbName": "Golden Tee Arcade Classics",
+      "url": "https://www.igdb.com/games/golden-tee-arcade-classics"
+    },
+    "70010000101992": {
+      "score": 60,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 215537,
+      "igdbName": "Day of the Shell",
+      "url": "https://www.igdb.com/games/day-of-the-shell"
+    },
+    "70010000099058": {
+      "score": 81,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 345544,
+      "igdbName": "Toaplan Arcade Collection Vol. 1",
+      "url": "https://www.igdb.com/games/toaplan-arcade-collection-vol-1"
+    },
+    "70010000087617": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 238948,
+      "igdbName": "Magical Delicacy",
+      "url": "https://www.igdb.com/games/magical-delicacy"
+    },
+    "70010000092322": {
+      "score": 84.7,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 317623,
+      "igdbName": "Lunar Remastered Collection",
+      "url": "https://www.igdb.com/games/lunar-remastered-collection"
+    },
+    "70010000084535": {
+      "score": 55,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 309038,
+      "igdbName": "Yu-Gi-Oh! Early Days Collection",
+      "url": "https://www.igdb.com/games/yu-gi-oh-early-days-collection"
+    },
+    "70010000099251": {
+      "score": 76,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 343316,
+      "igdbName": "Operation Night Strikers",
+      "url": "https://www.igdb.com/games/operation-night-strikers"
+    },
+    "70010000036221": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 137659,
+      "igdbName": "Urban Flow",
+      "url": "https://www.igdb.com/games/urban-flow"
+    },
+    "70010000069619": {
+      "score": 77.5,
+      "reviewCount": 2,
+      "userScore": 80,
+      "userRatingCount": 6,
+      "igdbId": 229176,
+      "igdbName": "Ys X: Nordics",
+      "url": "https://www.igdb.com/games/ys-x-nordics"
+    },
+    "70010000035981": {
+      "score": 82.7,
+      "reviewCount": 3,
+      "userScore": 89.7,
+      "userRatingCount": 29,
+      "igdbId": 23322,
+      "igdbName": "The Legend of Heroes: Trails from Zero",
+      "url": "https://www.igdb.com/games/the-legend-of-heroes-trails-from-zero"
+    },
+    "70010000071850": {
+      "score": 81,
+      "reviewCount": 4,
+      "userScore": 79.9,
+      "userRatingCount": 8,
+      "igdbId": 250922,
+      "igdbName": "Rune Factory: Guardians of Azuma",
+      "url": "https://www.igdb.com/games/rune-factory-guardians-of-azuma--1"
+    },
+    "70010000088371": {
+      "score": 53,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 238559,
+      "igdbName": "Sky Oceans: Wings for Hire",
+      "url": "https://www.igdb.com/games/sky-oceans-wings-for-hire"
+    },
+    "70010000097793": {
+      "score": 63,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 356974,
+      "igdbName": "Astral Takers",
+      "url": "https://www.igdb.com/games/astral-takers"
+    },
+    "70010000036007": {
+      "score": 82,
+      "reviewCount": 3,
+      "userScore": 90.3,
+      "userRatingCount": 21,
+      "igdbId": 23323,
+      "igdbName": "The Legend of Heroes: Trails to Azure",
+      "url": "https://www.igdb.com/games/the-legend-of-heroes-trails-to-azure"
+    },
+    "70010000037510": {
+      "score": 69,
+      "reviewCount": 7,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 121761,
+      "igdbName": "Spacebase Startopia",
+      "url": "https://www.igdb.com/games/spacebase-startopia"
+    },
+    "70010000103484": {
+      "score": 76,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 21706,
+      "igdbName": "Damascus Gear: Operation Tokyo",
+      "url": "https://www.igdb.com/games/damascus-gear-operation-tokyo"
+    },
+    "70010000037871": {
+      "score": 66,
+      "reviewCount": 2,
+      "userScore": 57.2,
+      "userRatingCount": 16,
+      "igdbId": 134817,
+      "igdbName": "Morbid: The Seven Acolytes",
+      "url": "https://www.igdb.com/games/morbid-the-seven-acolytes"
+    },
+    "70010000056559": {
+      "score": 80,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 151787,
+      "igdbName": "Elderand",
+      "url": "https://www.igdb.com/games/elderand"
+    },
+    "70010000043098": {
+      "score": 94,
+      "reviewCount": 10,
+      "userScore": 94.4,
+      "userRatingCount": 679,
+      "igdbId": 114283,
+      "igdbName": "Persona 5 Royal",
+      "url": "https://www.igdb.com/games/persona-5-royal"
+    },
+    "70010000078956": {
+      "score": 81,
+      "reviewCount": 3,
+      "userScore": 79.5,
+      "userRatingCount": 19,
+      "igdbId": 116138,
+      "igdbName": "Castlevania Anniversary Collection",
+      "url": "https://www.igdb.com/games/castlevania-anniversary-collection"
+    },
+    "70010000061497": {
+      "score": 75,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 233624,
+      "igdbName": "Caverns of Mars: Recharged",
+      "url": "https://www.igdb.com/games/caverns-of-mars-recharged"
+    },
+    "70010000058348": {
+      "score": 62.3,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 132154,
+      "igdbName": "Missile Command: Recharged",
+      "url": "https://www.igdb.com/games/missile-command-recharged"
+    },
+    "70010000104591": {
+      "score": 71.7,
+      "reviewCount": 3,
+      "userScore": 56.7,
+      "userRatingCount": 5,
+      "igdbId": 55137,
+      "igdbName": "Fate/Extella Link",
+      "url": "https://www.igdb.com/games/fate-slash-extella-link"
+    },
+    "70010000064456": {
+      "score": 90,
+      "reviewCount": 5,
+      "userScore": 89.8,
+      "userRatingCount": 16,
+      "igdbId": 287850,
+      "igdbName": "Shin Megami Tensei V: Vengeance",
+      "url": "https://www.igdb.com/games/shin-megami-tensei-v-vengeance"
+    },
+    "70010000103544": {
+      "score": 85.8,
+      "reviewCount": 4,
+      "userScore": 84,
+      "userRatingCount": 75,
+      "igdbId": 90628,
+      "igdbName": "Diablo III: Eternal Collection",
+      "url": "https://www.igdb.com/games/diablo-iii-eternal-collection"
+    },
+    "70010000035366": {
+      "score": 70,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 145313,
+      "igdbName": "Dariusburst: Another Chronicle EX+",
+      "url": "https://www.igdb.com/games/dariusburst-another-chronicle-ex-plus"
+    },
+    "70010000043345": {
+      "score": 76,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 166683,
+      "igdbName": "Centipede: Recharged",
+      "url": "https://www.igdb.com/games/centipede-recharged"
+    },
+    "70010000078954": {
+      "score": 78,
+      "reviewCount": 2,
+      "userScore": 71.3,
+      "userRatingCount": 7,
+      "igdbId": 116389,
+      "igdbName": "Contra Anniversary Collection",
+      "url": "https://www.igdb.com/games/contra-anniversary-collection"
+    },
+    "70010000044377": {
+      "score": 94,
+      "reviewCount": 1,
+      "userScore": 91.2,
+      "userRatingCount": 21,
+      "igdbId": 152765,
+      "igdbName": "Castlevania Advance Collection",
+      "url": "https://www.igdb.com/games/castlevania-advance-collection"
+    },
+    "70010000055067": {
+      "score": 68,
+      "reviewCount": 2,
+      "userScore": 62.4,
+      "userRatingCount": 9,
+      "igdbId": 186059,
+      "igdbName": "Redout 2",
+      "url": "https://www.igdb.com/games/redout-2"
+    },
+    "70010000047186": {
+      "score": 78,
+      "reviewCount": 9,
+      "userScore": 78.7,
+      "userRatingCount": 41,
+      "igdbId": 11445,
+      "igdbName": "Persona 4 Arena Ultimax",
+      "url": "https://www.igdb.com/games/persona-4-arena-ultimax"
+    },
+    "70010000072590": {
+      "score": 49.7,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 270485,
+      "igdbName": "Berzerk: Recharged",
+      "url": "https://www.igdb.com/games/berzerk-recharged"
+    },
+    "70010000069140": {
+      "score": 83,
+      "reviewCount": 8,
+      "userScore": 79.1,
+      "userRatingCount": 20,
+      "igdbId": 252729,
+      "igdbName": "Persona 5 Tactica",
+      "url": "https://www.igdb.com/games/persona-5-tactica"
+    },
+    "70010000055232": {
+      "score": 84,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 211321,
+      "igdbName": "Yars: Recharged",
+      "url": "https://www.igdb.com/games/yars-recharged"
+    },
+    "70010000069133": {
+      "score": 79.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 257945,
+      "igdbName": "Quantum: Recharged",
+      "url": "https://www.igdb.com/games/quantum-recharged"
+    },
+    "70010000082888": {
+      "score": 77.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 306138,
+      "igdbName": "Fairy Tail 2",
+      "url": "https://www.igdb.com/games/fairy-tail-2"
+    },
+    "70010000037403": {
+      "score": 50,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 121764,
+      "igdbName": "Port Royale 4",
+      "url": "https://www.igdb.com/games/port-royale-4"
+    },
+    "70010000041135": {
+      "score": 81,
+      "reviewCount": 4,
+      "userScore": 71.7,
+      "userRatingCount": 112,
+      "igdbId": 18918,
+      "igdbName": "Northgard",
+      "url": "https://www.igdb.com/games/northgard"
+    },
+    "70010000059380": {
+      "score": 75.3,
+      "reviewCount": 4,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 236698,
+      "igdbName": "Atelier Marie Remake: The Alchemist of Salburg",
+      "url": "https://www.igdb.com/games/atelier-marie-remake-the-alchemist-of-salburg"
+    },
+    "70010000038378": {
+      "score": 88.6,
+      "reviewCount": 10,
+      "userScore": 90.5,
+      "userRatingCount": 81,
+      "igdbId": 135999,
+      "igdbName": "Tetris Effect: Connected",
+      "url": "https://www.igdb.com/games/tetris-effect-connected"
+    },
+    "70010000065727": {
+      "score": 90,
+      "reviewCount": 4,
+      "userScore": 89.6,
+      "userRatingCount": 12,
+      "igdbId": 314944,
+      "igdbName": "Castlevania Dominus Collection",
+      "url": "https://www.igdb.com/games/castlevania-dominus-collection"
+    },
+    "70010000066752": {
+      "score": 75.7,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 260301,
+      "igdbName": "Lunar Lander Beyond",
+      "url": "https://www.igdb.com/games/lunar-lander-beyond"
+    },
+    "70010000056879": {
+      "score": 79,
+      "reviewCount": 1,
+      "userScore": 68.1,
+      "userRatingCount": 17,
+      "igdbId": 239385,
+      "igdbName": "Naruto x Boruto: Ultimate Ninja Storm Connections",
+      "url": "https://www.igdb.com/games/naruto-x-boruto-ultimate-ninja-storm-connections"
+    },
+    "70010000052490": {
+      "score": 74.5,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 199520,
+      "igdbName": "Gravitar: Recharged",
+      "url": "https://www.igdb.com/games/gravitar-recharged"
+    },
+    "70010000022872": {
+      "score": 60,
+      "reviewCount": 4,
+      "userScore": 79.1,
+      "userRatingCount": 25,
+      "igdbId": 119170,
+      "igdbName": "Ghostbusters: The Video Game Remastered",
+      "url": "https://www.igdb.com/games/ghostbusters-the-video-game-remastered"
+    },
+    "70010000104604": {
+      "score": 60.7,
+      "reviewCount": 9,
+      "userScore": 67,
+      "userRatingCount": 2,
+      "igdbId": 88887,
+      "igdbName": "Little Dragons Café",
+      "url": "https://www.igdb.com/games/little-dragons-cafe"
+    },
+    "70010000103482": {
+      "score": 84,
+      "reviewCount": 1,
+      "userScore": 59.8,
+      "userRatingCount": 5,
+      "igdbId": 27274,
+      "igdbName": "Slice, Dice & Rice",
+      "url": "https://www.igdb.com/games/slice-dice-and-rice"
+    },
+    "70010000033047": {
+      "score": 73.3,
+      "reviewCount": 3,
+      "userScore": 73.3,
+      "userRatingCount": 12,
+      "igdbId": 23372,
+      "igdbName": "Pang Adventures",
+      "url": "https://www.igdb.com/games/pang-adventures"
+    },
+    "70010000104274": {
+      "score": 78.3,
+      "reviewCount": 4,
+      "userScore": 79.6,
+      "userRatingCount": 5,
+      "igdbId": 25675,
+      "igdbName": "Wild Guns Reloaded",
+      "url": "https://www.igdb.com/games/wild-guns-reloaded"
+    },
+    "70010000104481": {
+      "score": 82,
+      "reviewCount": 1,
+      "userScore": 70.7,
+      "userRatingCount": 5,
+      "igdbId": 26703,
+      "igdbName": "Caladrius Blaze",
+      "url": "https://www.igdb.com/games/caladrius-blaze"
+    },
+    "70010000066338": {
+      "score": 83.3,
+      "reviewCount": 4,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 287848,
+      "igdbName": "Monster Hunter Stories",
+      "url": "https://www.igdb.com/games/monster-hunter-stories--1"
+    },
+    "70010000044139": {
+      "score": 75,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 196819,
+      "igdbName": "Super Bullet Break",
+      "url": "https://www.igdb.com/games/super-bullet-break"
+    },
+    "70010000056299": {
+      "score": 60,
+      "reviewCount": 1,
+      "userScore": 59.5,
+      "userRatingCount": 5,
+      "igdbId": 157916,
+      "igdbName": "From Space",
+      "url": "https://www.igdb.com/games/from-space"
+    },
+    "70010000096812": {
+      "score": 90.3,
+      "reviewCount": 3,
+      "userScore": 92.4,
+      "userRatingCount": 82,
+      "igdbId": 338106,
+      "igdbName": "Donkey Kong Bananza",
+      "url": "https://www.igdb.com/games/donkey-kong-bananza"
+    },
+    "70010000096808": {
+      "score": 91.5,
+      "reviewCount": 4,
+      "userScore": 78.9,
+      "userRatingCount": 130,
+      "igdbId": 338067,
+      "igdbName": "Mario Kart World",
+      "url": "https://www.igdb.com/games/mario-kart-world"
+    },
+    "70010000096824": {
+      "score": 95.3,
+      "reviewCount": 6,
+      "userScore": 92.9,
+      "userRatingCount": 920,
+      "igdbId": 119388,
+      "igdbName": "The Legend of Zelda: Tears of the Kingdom",
+      "url": "https://www.igdb.com/games/the-legend-of-zelda-tears-of-the-kingdom"
+    },
+    "70010000102756": {
+      "score": 97.6,
+      "reviewCount": 27,
+      "userScore": 92.5,
+      "userRatingCount": 2976,
+      "igdbId": 7346,
+      "igdbName": "The Legend of Zelda: Breath of the Wild",
+      "url": "https://www.igdb.com/games/the-legend-of-zelda-breath-of-the-wild"
+    },
+    "70010000089517": {
+      "score": 80,
+      "reviewCount": 2,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 314941,
+      "igdbName": "Fitness Boxing 3: Your Personal Trainer",
+      "url": "https://www.igdb.com/games/fitness-boxing-3-your-personal-trainer"
+    },
+    "70010000065198": {
+      "score": 86.3,
+      "reviewCount": 4,
+      "userScore": 83.7,
+      "userRatingCount": 35,
+      "igdbId": 68353,
+      "igdbName": "Unicorn Overlord",
+      "url": "https://www.igdb.com/games/unicorn-overlord--1"
+    },
+    "70010000068686": {
+      "score": 85.2,
+      "reviewCount": 6,
+      "userScore": 76.8,
+      "userRatingCount": 68,
+      "igdbId": 254327,
+      "igdbName": "Super Mario RPG",
+      "url": "https://www.igdb.com/games/super-mario-rpg"
+    },
+    "70010000059972": {
+      "score": 85,
+      "reviewCount": 1,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 236659,
+      "igdbName": "Fashion Dreamer",
+      "url": "https://www.igdb.com/games/fashion-dreamer"
+    },
+    "70010000068696": {
+      "score": 66.3,
+      "reviewCount": 4,
+      "userScore": 59.8,
+      "userRatingCount": 8,
+      "igdbId": 128307,
+      "igdbName": "Detective Pikachu Returns",
+      "url": "https://www.igdb.com/games/detective-pikachu-returns"
+    },
+    "70010000063719": {
+      "score": 87.5,
+      "reviewCount": 4,
+      "userScore": 85.3,
+      "userRatingCount": 40,
+      "igdbId": 59843,
+      "igdbName": "Pikmin 4",
+      "url": "https://www.igdb.com/games/pikmin-4"
+    },
+    "70010000063717": {
+      "score": 95.3,
+      "reviewCount": 6,
+      "userScore": 92.9,
+      "userRatingCount": 920,
+      "igdbId": 119388,
+      "igdbName": "The Legend of Zelda: Tears of the Kingdom",
+      "url": "https://www.igdb.com/games/the-legend-of-zelda-tears-of-the-kingdom"
+    },
+    "70010000053339": {
+      "score": 90.3,
+      "reviewCount": 6,
+      "userScore": 85,
+      "userRatingCount": 64,
+      "igdbId": 191411,
+      "igdbName": "Xenoblade Chronicles 3",
+      "url": "https://www.igdb.com/games/xenoblade-chronicles-3"
+    },
+    "70010000046408": {
+      "score": 87.9,
+      "reviewCount": 8,
+      "userScore": 82.5,
+      "userRatingCount": 99,
+      "igdbId": 172427,
+      "igdbName": "Kirby and the Forgotten Land",
+      "url": "https://www.igdb.com/games/kirby-and-the-forgotten-land"
+    },
+    "70010000038615": {
+      "score": 83.4,
+      "reviewCount": 7,
+      "userScore": 77.4,
+      "userRatingCount": 70,
+      "igdbId": 143614,
+      "igdbName": "The Legend of Zelda: Skyward Sword HD",
+      "url": "https://www.igdb.com/games/the-legend-of-zelda-skyward-sword-hd"
+    },
+    "70010000035240": {
+      "score": 61.7,
+      "reviewCount": 3,
+      "userScore": null,
+      "userRatingCount": 0,
+      "igdbId": 138952,
+      "igdbName": "Fitness Boxing 2: Rhythm & Exercise",
+      "url": "https://www.igdb.com/games/fitness-boxing-2-rhythm-and-exercise"
+    },
+    "70010000034768": {
+      "score": 80.4,
+      "reviewCount": 9,
+      "userScore": 80.2,
+      "userRatingCount": 63,
+      "igdbId": 138343,
+      "igdbName": "Hyrule Warriors: Age of Calamity",
+      "url": "https://www.igdb.com/games/hyrule-warriors-age-of-calamity"
+    },
+    "70010000027622": {
+      "score": 90.2,
+      "reviewCount": 11,
+      "userScore": 82.1,
+      "userRatingCount": 497,
+      "igdbId": 109462,
+      "igdbName": "Animal Crossing: New Horizons",
+      "url": "https://www.igdb.com/games/animal-crossing-new-horizons"
+    },
+    "70010000102637": {
+      "score": 65,
+      "reviewCount": 4,
+      "userScore": 78.2,
+      "userRatingCount": 32,
+      "igdbId": 128069,
+      "igdbName": "Pokémon Mystery Dungeon: Rescue Team DX",
+      "url": "https://www.igdb.com/games/pokemon-mystery-dungeon-rescue-team-dx"
+    },
+    "70010000026111": {
+      "score": 67.5,
+      "reviewCount": 2,
+      "userScore": 65.5,
+      "userRatingCount": 235,
+      "igdbId": 115653,
+      "igdbName": "Pokémon Shield",
+      "url": "https://www.igdb.com/games/pokemon-shield"
+    },
+    "70010000026110": {
+      "score": 82.4,
+      "reviewCount": 11,
+      "userScore": 72.2,
+      "userRatingCount": 309,
+      "igdbId": 37382,
+      "igdbName": "Pokémon Sword",
+      "url": "https://www.igdb.com/games/pokemon-sword"
+    },
+    "70010000027272": {
+      "score": 84.4,
+      "reviewCount": 5,
+      "userScore": 80.8,
+      "userRatingCount": 52,
+      "igdbId": 122338,
+      "igdbName": "Ring Fit Adventure",
+      "url": "https://www.igdb.com/games/ring-fit-adventure"
+    },
+    "70010000102695": {
+      "score": 84,
+      "reviewCount": 4,
+      "userScore": 82.8,
+      "userRatingCount": 105,
+      "igdbId": 115282,
+      "igdbName": "Tetris 99",
+      "url": "https://www.igdb.com/games/tetris-99"
+    },
+    "70010000102634": {
+      "score": 73.8,
+      "reviewCount": 11,
+      "userScore": 66.6,
+      "userRatingCount": 39,
+      "igdbId": 113109,
+      "igdbName": "Marvel Ultimate Alliance 3: The Black Order",
+      "url": "https://www.igdb.com/games/marvel-ultimate-alliance-3-the-black-order"
+    },
+    "70010000102705": {
+      "score": 80,
+      "reviewCount": 2,
+      "userScore": 69.9,
+      "userRatingCount": 153,
+      "igdbId": 102873,
+      "igdbName": "Pokémon: Let's Go, Eevee!",
+      "url": "https://www.igdb.com/games/pokemon-lets-go-eevee"
+    },
+    "70010000102696": {
+      "score": 76.7,
+      "reviewCount": 13,
+      "userScore": 75,
+      "userRatingCount": 154,
+      "igdbId": 25877,
+      "igdbName": "Pokémon: Let's Go, Pikachu!",
+      "url": "https://www.igdb.com/games/pokemon-lets-go-pikachu"
+    },
+    "70010000102640": {
+      "score": 72.3,
+      "reviewCount": 7,
+      "userScore": 59.5,
+      "userRatingCount": 17,
+      "igdbId": 81143,
+      "igdbName": "The World Ends with You: Final Remix",
+      "url": "https://www.igdb.com/games/the-world-ends-with-you-final-remix"
+    },
+    "70010000102624": {
+      "score": 72.9,
+      "reviewCount": 11,
+      "userScore": 67.4,
+      "userRatingCount": 161,
+      "igdbId": 103339,
+      "igdbName": "Super Mario Party",
+      "url": "https://www.igdb.com/games/super-mario-party"
+    },
+    "70010000102641": {
+      "score": 84.2,
+      "reviewCount": 9,
+      "userScore": 67.7,
+      "userRatingCount": 31,
+      "igdbId": 243900,
+      "igdbName": "Captain Toad: Treasure Tracker",
+      "url": "https://www.igdb.com/games/captain-toad-treasure-tracker--3"
+    },
+    "70010000102638": {
+      "score": 73.8,
+      "reviewCount": 5,
+      "userScore": 55,
+      "userRatingCount": 5,
+      "igdbId": 37179,
+      "igdbName": "Sushi Striker: The Way of Sushido",
+      "url": "https://www.igdb.com/games/sushi-striker-the-way-of-sushido"
+    },
+    "70010000102302": {
+      "score": 77.7,
+      "reviewCount": 15,
+      "userScore": 69.7,
+      "userRatingCount": 68,
+      "igdbId": 26759,
+      "igdbName": "Arms",
+      "url": "https://www.igdb.com/games/arms"
+    },
+    "70010000102139": {
+      "score": 53.7,
+      "reviewCount": 9,
+      "userScore": 49.7,
+      "userRatingCount": 33,
+      "igdbId": 26762,
+      "igdbName": "1-2-Switch",
+      "url": "https://www.igdb.com/games/1-2-switch"
+    },
+    "70010000102734": {
+      "score": 97.6,
+      "reviewCount": 27,
+      "userScore": 92.5,
+      "userRatingCount": 2976,
+      "igdbId": 7346,
+      "igdbName": "The Legend of Zelda: Breath of the Wild",
+      "url": "https://www.igdb.com/games/the-legend-of-zelda-breath-of-the-wild"
+    }
+  }
+}

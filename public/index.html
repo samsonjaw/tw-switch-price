@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="搜尋 Nintendo Switch 台灣區遊戲價格、特價與媒體評分。"
+    />
+    <title>台服價格觀測站</title>
+    <script>
+      (() => {
+        try {
+          const saved = localStorage.getItem("tw-eshop-theme");
+          const theme = saved ?? (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+          document.documentElement.dataset.theme = theme;
+        } catch {}
+      })();
+    </script>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="回到首頁">
+        <span class="brand-mark" aria-hidden="true">
+          <i></i><i></i>
+        </span>
+        <span>
+          <strong>台服價格觀測站</strong>
+          <small>Nintendo Switch 台灣區</small>
+        </span>
+      </a>
+      <div class="header-actions">
+        <span id="deployment-badge" class="local-badge"><i></i> 本機資料</span>
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-pressed="false">
+          <span id="theme-icon" aria-hidden="true">◐</span>
+          <span id="theme-label">深色</span>
+        </button>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-copy">
+          <h1>台灣 eShop 遊戲價格</h1>
+          <p class="hero-description">
+            搜尋價格、特價與媒體評分，收藏保存在你的瀏覽器。
+          </p>
+        </div>
+
+        <div class="stats" aria-label="資料摘要">
+          <article>
+            <span id="game-count">—</span>
+            <small>收錄商品</small>
+          </article>
+          <article>
+            <span id="sale-count">—</span>
+            <small>目前特價</small>
+          </article>
+          <article>
+            <span id="best-discount">—</span>
+            <small>最高折扣</small>
+          </article>
+        </div>
+      </section>
+
+      <section class="explorer" aria-labelledby="explorer-title">
+        <div class="section-heading">
+          <div>
+            <h2 id="explorer-title">所有遊戲</h2>
+          </div>
+          <div class="update-tools">
+            <p id="updated-at" class="updated-at">正在讀取價格資料…</p>
+            <button id="sync-button" class="sync-button" type="button">
+              更新價格
+            </button>
+          </div>
+        </div>
+
+        <div id="freshness-alert" class="freshness-alert" hidden>
+          <span id="freshness-message"></span>
+          <span id="sync-status"></span>
+        </div>
+
+        <div class="toolbar">
+          <label class="search-box">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="m21 21-4.6-4.6m2.6-5.9a8.5 8.5 0 1 1-17 0 8.5 8.5 0 0 1 17 0Z" />
+            </svg>
+            <input
+              id="search-input"
+              type="search"
+              placeholder="搜尋中英文名稱、發行商…"
+              autocomplete="off"
+            />
+            <kbd>⌘ K</kbd>
+          </label>
+
+          <label class="sort-control">
+            <span>排序</span>
+            <select id="sort-select">
+              <option value="rating">媒體評分最高</option>
+              <option value="discount">折扣最高</option>
+              <option value="popular">我最常查看</option>
+              <option value="price-low">價格最低</option>
+              <option value="price-high">價格最高</option>
+              <option value="newest">最新發售</option>
+              <option value="title">名稱</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="filter-row" role="group" aria-label="遊戲篩選">
+          <button class="filter-chip active" data-filter="all" aria-pressed="true">全部</button>
+          <button class="filter-chip" data-filter="favorite" aria-pressed="false">★ 我的收藏</button>
+          <button class="filter-chip" data-filter="sale" aria-pressed="false">特價中</button>
+          <button class="filter-chip" data-filter="switch" aria-pressed="false">Switch</button>
+          <button class="filter-chip" data-filter="switch2" aria-pressed="false">Switch 2</button>
+          <button class="filter-chip" data-filter="under300" aria-pressed="false">NT$300 以下</button>
+          <button class="filter-chip" data-filter="score80" aria-pressed="false">媒體評分 80+</button>
+        </div>
+
+        <div class="result-line">
+          <strong id="result-count">—</strong>
+          <span>筆符合結果</span>
+          <span id="sort-note" class="popularity-note" hidden></span>
+        </div>
+
+        <div id="status" class="status-card">
+          <span class="loader" aria-hidden="true"></span>
+          正在載入遊戲資料…
+        </div>
+        <div id="game-grid" class="game-grid" hidden></div>
+        <button id="load-more" class="load-more" type="button" hidden>
+          顯示更多遊戲
+        </button>
+      </section>
+    </main>
+
+    <dialog id="game-dialog">
+      <button class="dialog-close" type="button" aria-label="關閉">×</button>
+      <div id="dialog-content"></div>
+    </dialog>
+
+    <footer>
+      <p>非任天堂官方服務。價格以 Nintendo eShop 結帳畫面為準。</p>
+    </footer>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
