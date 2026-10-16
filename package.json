@@ -7,7 +7,7 @@
     "build": "node scripts/build-static.mjs",
     "sync": "node scripts/validate-tw-eshop.mjs --all --output=data/tw-eshop.json",
     "sync:ratings": "node scripts/sync-igdb-ratings.mjs",
-    "start": "node server.mjs",
+    "start": "npm run build && node server.mjs",
     "validate": "node scripts/validate-tw-eshop.mjs"
   },
   "engines": {

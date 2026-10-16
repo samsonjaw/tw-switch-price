@@ -370,6 +370,7 @@ function showGame(nsuid, record = true) {
       ${game.criticScore !== null ? `<div class="dialog-price"><strong>${Math.round(game.criticScore)}／100</strong><p class="sale-end">IGDB 專業媒體綜合評分 · ${game.criticReviewCount} 篇評論</p></div>` : ""}
       <div class="dialog-actions">
         <button type="button" data-dialog-favorite="${escapeHtml(game.nsuid)}">${isFavorite(game) ? "★ 已收藏" : "☆ 加入收藏"}</button>
+        <a class="detail-link" href="./games/${encodeURIComponent(game.nsuid)}/">查看完整頁面</a>
       </div>
       ${historyTemplate(game)}
       <p class="nsuid">NSUID ${escapeHtml(game.nsuid)}</p>

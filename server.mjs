@@ -20,6 +20,8 @@ const publicFiles = new Map([
   ["/index.html", "index.html"],
   ["/styles.css", "styles.css"],
   ["/app.js", "app.js"],
+  ["/game.css", "game.css"],
+  ["/game.js", "game.js"],
 ]);
 
 const contentTypes = {
@@ -147,6 +149,19 @@ const server = createServer(async (request, response) => {
       const body = await readFile(filePath);
       response.writeHead(200, {
         "content-type": contentTypes[extname(filePath)],
+        "cache-control": "no-cache",
+      });
+      response.end(body);
+      return;
+    }
+
+    const gamePageMatch = url.pathname.match(/^\/games\/(\d+)\/?$/);
+    if (gamePageMatch) {
+      const body = await readFile(
+        join(root, "dist", "games", gamePageMatch[1], "index.html"),
+      );
+      response.writeHead(200, {
+        "content-type": "text/html; charset=utf-8",
         "cache-control": "no-cache",
       });
       response.end(body);

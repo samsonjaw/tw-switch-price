@@ -723,12 +723,15 @@ dialog::backdrop {
   margin-top: 16px;
 }
 
-.dialog-actions button {
+.dialog-actions button,
+.dialog-actions .detail-link {
   padding: 9px 12px;
   border: 1px solid var(--line-strong);
   border-radius: 8px;
   color: var(--text);
   background: var(--surface);
+  font-size: 0.76rem;
+  text-decoration: none;
 }
 
 .price-history {
