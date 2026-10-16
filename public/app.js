@@ -223,13 +223,17 @@ function formatDate(value) {
 }
 
 function historyTemplate(game) {
-  const points = (game.priceHistory ?? []).slice(-8).reverse();
+  const validPoints = (game.priceHistory ?? []).filter(
+    (point) => Number.isFinite(point.effectivePrice) && point.at,
+  );
+  const points = validPoints.slice(-8).reverse();
+  const trackingStarted = validPoints[0]?.at ?? null;
   const low = Number.isFinite(game.historicalLow)
     ? formatPrice(game.historicalLow)
     : "尚無資料";
   return `
     <section class="price-history">
-      <h4>價格歷史 · 紀錄最低 ${low}</h4>
+      <h4>本站價格紀錄 · 史低 ${low}</h4>
       ${points.length
         ? `<ul class="history-list">${points
             .map(
@@ -237,6 +241,9 @@ function historyTemplate(game) {
             )
             .join("")}</ul>`
         : '<p class="sale-end">下次更新價格後，就會開始累積歷史紀錄。</p>'}
+      <p class="sale-end">${trackingStarted
+        ? `只統計 ${formatDate(trackingStarted)}起由本站保存的資料，不代表遊戲發售至今。`
+        : "目前尚未有有效價格紀錄，不代表遊戲發售至今。"}</p>
     </section>`;
 }
 
@@ -462,6 +469,16 @@ async function initialize() {
     elements.saleCount.textContent = sales.length.toLocaleString("zh-TW");
     elements.bestDiscount.textContent = `${bestDiscount}%`;
     elements.updatedAt.textContent = `資料更新：${formatDate(data.updatedAt)}`;
+    const firstHistoryDate = state.games
+      .flatMap((game) => game.priceHistory ?? [])
+      .filter((point) => Number.isFinite(point.effectivePrice) && point.at)
+      .map((point) => new Date(point.at).getTime())
+      .filter(Number.isFinite)
+      .reduce((earliest, value) => Math.min(earliest, value), Number.POSITIVE_INFINITY);
+    const historyCoverage = document.querySelector("#history-coverage");
+    if (historyCoverage && Number.isFinite(firstHistoryDate)) {
+      historyCoverage.textContent = `價格歷史自 ${formatDate(new Date(firstHistoryDate).toISOString())}起由本站累積，不代表各遊戲發售至今。`;
+    }
     state.stale =
       !data.updatedAt ||
       Date.now() - new Date(data.updatedAt).getTime() > 36 * 60 * 60 * 1000;
