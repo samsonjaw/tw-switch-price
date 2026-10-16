@@ -33,11 +33,17 @@ function gameUrl(game) {
   return `${siteUrl}/games/${encodeURIComponent(game.nsuid)}/`;
 }
 
-function priceChart(game) {
+function priceChart(game, updatedAt) {
   const points = (game.priceHistory ?? [])
     .filter((point) => Number.isFinite(point.effectivePrice) && point.at)
     .sort((a, b) => new Date(a.at) - new Date(b.at));
   if (!points.length) return '<div class="chart-empty">目前尚無有效價格紀錄，網站每日更新後會在這裡累積。</div>';
+  const latestPrice = currentPrice(game);
+  const latestRecordedAt = new Date(points.at(-1).at).getTime();
+  const updatedAtMs = new Date(updatedAt).getTime();
+  if (Number.isFinite(latestPrice) && updatedAtMs > latestRecordedAt) {
+    points.push({ at: updatedAt, effectivePrice: latestPrice });
+  }
 
   const width = 760, height = 250, left = 62, right = 18, top = 22, bottom = 42;
   const plotWidth = width - left - right, plotHeight = height - top - bottom;
@@ -119,7 +125,7 @@ function gamePage(game, related, updatedAt) {
       <div class="summary-cards"><div><small>本站史低${trackingStarted ? `（自 ${html(shortDay.format(new Date(trackingStarted)))}）` : ""}</small><strong>${html(formatPrice(game.historicalLow))}</strong></div><div><small>媒體評分</small><strong>${game.criticScore === null ? "—" : `${Math.round(game.criticScore)}／100`}</strong></div></div>
       <div class="detail-actions"><button id="favorite-button" type="button">☆ 加入收藏</button><a href="../../">搜尋其他遊戲</a></div>
     </div></article>
-    <section class="detail-section" aria-labelledby="history-title"><div class="detail-heading"><div><p>PRICE HISTORY</p><h2 id="history-title">價格變化與本站史低</h2></div><strong>${html(formatPrice(game.historicalLow))}</strong></div>${priceChart(game)}${priceHistoryTable(game)}
+    <section class="detail-section" aria-labelledby="history-title"><div class="detail-heading"><div><p>PRICE HISTORY</p><h2 id="history-title">價格變化與本站史低</h2></div><strong>${html(formatPrice(game.historicalLow))}</strong></div>${priceChart(game, updatedAt)}${priceHistoryTable(game)}
       <div class="timeline-facts"><span>發售日：${html(formatDate(game.releaseDate))}</span><span>本站開始追蹤：${html(formatDate(trackingStarted))}</span><span>最後更新：${html(formatDate(updatedAt))}</span></div>
       <p class="history-notice">${trackingStarted ? `本頁價格曲線與「本站史低」只統計 ${html(formatDate(trackingStarted))}起由本站保存的資料，不代表遊戲發售至今，也不包含更早的特價。` : "本頁目前尚未有有效價格紀錄；顯示內容不代表遊戲發售至今的價格歷史。"} 每日更新後會持續累積。</p></section>
     <section class="detail-section" aria-labelledby="info-title"><div class="detail-heading"><div><p>GAME INFO</p><h2 id="info-title">遊戲資訊</h2></div></div>
