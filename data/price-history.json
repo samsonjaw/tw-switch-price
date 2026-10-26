@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T22:37:47.506Z",
+  "updatedAt": "2026-10-26T23:57:54.009Z",
   "snapshots": {
     "70010000131657": [
       {
@@ -5899,6 +5899,12 @@
         "regularPrice": 388,
         "salePrice": null,
         "effectivePrice": 388
+      },
+      {
+        "at": "2026-10-26T23:57:54.009Z",
+        "regularPrice": 388,
+        "salePrice": 271,
+        "effectivePrice": 271
       }
     ],
     "70010000118326": [
@@ -5939,6 +5945,12 @@
         "regularPrice": 580,
         "salePrice": null,
         "effectivePrice": 580
+      },
+      {
+        "at": "2026-10-26T23:57:54.009Z",
+        "regularPrice": 580,
+        "salePrice": 406,
+        "effectivePrice": 406
       }
     ],
     "70010000123042": [
@@ -6265,6 +6277,12 @@
         "regularPrice": 319,
         "salePrice": null,
         "effectivePrice": 319
+      },
+      {
+        "at": "2026-10-26T23:57:54.009Z",
+        "regularPrice": 319,
+        "salePrice": 95,
+        "effectivePrice": 95
       }
     ],
     "70010000100096": [
@@ -9925,6 +9943,12 @@
         "regularPrice": 249,
         "salePrice": 93,
         "effectivePrice": 93
+      },
+      {
+        "at": "2026-10-26T23:57:54.009Z",
+        "regularPrice": 249,
+        "salePrice": null,
+        "effectivePrice": 249
       }
     ],
     "70010000107273": [
@@ -11271,6 +11295,12 @@
         "regularPrice": 649,
         "salePrice": 89,
         "effectivePrice": 89
+      },
+      {
+        "at": "2026-10-26T23:57:54.009Z",
+        "regularPrice": 649,
+        "salePrice": null,
+        "effectivePrice": 649
       }
     ],
     "70010000110250": [
@@ -11571,6 +11601,12 @@
         "regularPrice": 259,
         "salePrice": null,
         "effectivePrice": 259
+      },
+      {
+        "at": "2026-10-26T23:57:54.009Z",
+        "regularPrice": 259,
+        "salePrice": 96,
+        "effectivePrice": 96
       }
     ],
     "70010000099938": [
@@ -15495,6 +15531,12 @@
         "regularPrice": 51,
         "salePrice": 45,
         "effectivePrice": 45
+      },
+      {
+        "at": "2026-10-26T23:57:54.009Z",
+        "regularPrice": 51,
+        "salePrice": null,
+        "effectivePrice": 51
       }
     ],
     "70010000110274": [
@@ -17625,6 +17667,12 @@
         "regularPrice": 49,
         "salePrice": 44,
         "effectivePrice": 44
+      },
+      {
+        "at": "2026-10-26T23:57:54.009Z",
+        "regularPrice": 49,
+        "salePrice": null,
+        "effectivePrice": 49
       }
     ],
     "70010000115784": [
@@ -19507,6 +19555,12 @@
         "regularPrice": 48,
         "salePrice": 43,
         "effectivePrice": 43
+      },
+      {
+        "at": "2026-10-26T23:57:54.009Z",
+        "regularPrice": 48,
+        "salePrice": null,
+        "effectivePrice": 48
       }
     ],
     "70010000097209": [
@@ -24825,6 +24879,12 @@
         "regularPrice": 40,
         "salePrice": 36,
         "effectivePrice": 36
+      },
+      {
+        "at": "2026-10-26T23:57:54.009Z",
+        "regularPrice": 40,
+        "salePrice": null,
+        "effectivePrice": 40
       }
     ],
     "70010000103527": [
@@ -26153,6 +26213,12 @@
         "regularPrice": 198,
         "salePrice": null,
         "effectivePrice": 198
+      },
+      {
+        "at": "2026-10-26T23:57:54.009Z",
+        "regularPrice": 198,
+        "salePrice": 39,
+        "effectivePrice": 39
       }
     ],
     "70010000095556": [
@@ -33205,6 +33271,12 @@
         "regularPrice": 1190,
         "salePrice": null,
         "effectivePrice": 1190
+      },
+      {
+        "at": "2026-10-26T23:57:54.009Z",
+        "regularPrice": 1190,
+        "salePrice": 833,
+        "effectivePrice": 833
       }
     ],
     "70010000097936": [
@@ -33621,6 +33693,12 @@
         "regularPrice": 1590,
         "salePrice": null,
         "effectivePrice": 1590
+      },
+      {
+        "at": "2026-10-26T23:57:54.009Z",
+        "regularPrice": 1590,
+        "salePrice": 954,
+        "effectivePrice": 954
       }
     ],
     "70010000056559": [
