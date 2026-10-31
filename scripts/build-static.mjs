@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
+import { createHash } from "node:crypto";
 import { cp, mkdir, readFile, rm, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -147,10 +148,10 @@ const pageSize = 100;
 const directoryCount = Math.ceil(sortedGames.length / pageSize);
 const directoryUrls = Array.from({ length: directoryCount }, (_, i) => `${siteUrl}/browse/${i + 1}/`);
 function discoveryList(games, prefix) {
-  return `<ul class="discovery-links">${games.map(game => `<li><a href="${prefix}games/${encodeURIComponent(game.nsuid)}/"><strong>${html(game.title)}</strong><span>${html(formatPrice(currentPrice(game)))}${game.salePrice !== null ? ` · ${game.discountPercent}% OFF · 優惠至 ${html(formatDate(game.saleEndsAt))}` : ""}</span></a></li>`).join("")}</ul>`;
+  return `<div class="game-grid discovery-grid">${games.map(game => `<article class="game-card"><a class="card-button" href="${prefix}games/${encodeURIComponent(game.nsuid)}/"><div class="cover-wrap">${game.image ? `<img src="${html(game.image)}" alt="" loading="lazy" width="640" height="360" />` : ""}${game.salePrice !== null ? `<span class="discount-badge">-${game.discountPercent}%</span>` : ""}<span class="platform-badge">${game.platform.includes("2") ? "SWITCH 2" : "SWITCH"}</span>${game.criticScore !== null ? `<span class="score-badge">${Math.round(game.criticScore)}</span>` : ""}</div><div class="card-body"><p class="publisher">${html(game.publisher)}</p><h3 class="game-title">${html(game.title)}</h3><div class="price-row"><span class="price-now">${html(formatPrice(currentPrice(game)))}</span>${game.salePrice !== null ? `<span class="price-original">${html(formatPrice(game.regularPrice))}</span>` : ""}</div><p class="sale-end">${game.salePrice !== null ? `優惠至 ${html(formatDate(game.saleEndsAt))}` : `${html(formatDate(game.releaseDate))} 發售`}</p></div></a></article>`).join("")}</div>`;
 }
 const offers = catalog.games.filter(game => game.salePrice !== null).sort((a, b) =>
-  (b.criticScore ?? -1) - (a.criticScore ?? -1) || b.discountPercent - a.discountPercent).slice(0, 12);
+  (b.criticScore ?? -1) - (a.criticScore ?? -1) || b.discountPercent - a.discountPercent).slice(0, 4);
 const collections = [
   { slug: "sale", title: "台灣 eShop 特價遊戲", description: "目前正在優惠的 Switch / Switch 2 遊戲，依折扣高低排列。", games: catalog.games.filter(game => game.salePrice !== null) },
   { slug: "under-300", title: "NT$300 以下特價遊戲", description: "目前特價且售價不超過 NT$300 的台灣 eShop 遊戲。", games: catalog.games.filter(game => game.salePrice !== null && currentPrice(game) <= 300) },
@@ -170,7 +171,7 @@ for (const collection of collections) {
   }
 }
 const collectionLinks = `<nav class="directory-nav" aria-label="特價遊戲分類">${collections.map(item => `<a href="./deals/${item.slug}/1/">${html(item.title)}</a>`).join("")}</nav>`;
-const discovery = `<section class="discovery" aria-labelledby="offers-title"><h2 id="offers-title">高評分特價遊戲</h2>${collectionLinks}<p>依媒體評分優先排列，幫你從當期優惠開始挑選。資料更新：${html(formatDate(catalog.updatedAt))}。</p>${discoveryList(offers, "./")}<a href="./browse/1/">瀏覽完整遊戲目錄</a></section>`;
+const discovery = `<section class="discovery" aria-labelledby="offers-title"><div class="section-heading"><div><p class="discovery-eyebrow">精選優惠</p><h2 id="offers-title">高評分特價遊戲</h2></div><a class="discovery-more" href="./deals/top-rated/1/">查看全部優惠 <span aria-hidden="true">→</span></a></div><p class="discovery-description">從媒體高評分作品開始挑選，優惠與價格每日自動更新。</p>${collectionLinks}${discoveryList(offers, "./")}<div class="discovery-footer"><span>資料更新：${html(formatDate(catalog.updatedAt))}</span><a class="discovery-more" href="./browse/1/">瀏覽完整遊戲目錄 →</a></div></section>`;
 const homepagePath = join(output, "index.html");
 await writeFile(homepagePath, (await readFile(homepagePath, "utf8")).replace("<!-- STATIC_DISCOVERY -->", discovery));
 await Promise.all(directoryUrls.map(async (url, index) => {
@@ -199,4 +200,15 @@ await Promise.all([
   writeFile(join(output, "api", "games.json"), JSON.stringify(catalog)), writeFile(join(output, "sitemap.xml"), sitemap),
   writeFile(join(output, "robots.txt"), robots), writeFile(join(output, ".nojekyll"), ""),
 ]);
+// Version the shared stylesheet so newly deployed markup gets its matching styles.
+const styleVersion = createHash("sha256").update(await readFile(join(output, "styles.css"))).digest("hex").slice(0, 12);
+const generatedHtmlPaths = [homepagePath,
+  ...directoryUrls.map((_, i) => join(output, "browse", String(i + 1), "index.html")),
+  ...collectionUrls.map(url => join(output, url.slice(siteUrl.length + 1), "index.html")),
+  ...catalog.games.map(game => join(output, "games", String(game.nsuid), "index.html")),
+];
+await Promise.all(generatedHtmlPaths.map(async path => {
+  const content = await readFile(path, "utf8");
+  await writeFile(path, content.replaceAll('styles.css"', `styles.css?v=${styleVersion}"`));
+}));
 console.log(`Static site built: ${catalog.games.length.toLocaleString("en-US")} games and detail pages in dist/`);

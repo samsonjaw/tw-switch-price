@@ -964,11 +964,22 @@ html[data-theme="dark"] .score-badge {
 /* Keep navigation and quick preview available as separate controls. */
 a.card-button { display: block; text-decoration: none; }
 .preview-button { margin: 0 16px 16px; padding: 8px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: inherit; cursor: pointer; }
-.discovery { margin-bottom: 32px; }
-.discovery h2 { margin-bottom: 12px; }
-.discovery-links { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; padding: 0; list-style: none; }
-.discovery-links a { display: block; padding: 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; color: inherit; text-decoration: none; }
-.discovery-links strong, .discovery-links span { display: block; }
-.discovery-links span { margin-top: 8px; }
-.directory-nav { display: flex; flex-wrap: wrap; gap: 12px; margin: 20px 0; }
-.discovery a:focus-visible, .card-button:focus-visible { outline: 3px solid currentColor; outline-offset: 3px; }
+/* Discovery uses the same cover cards and responsive grid as search results. */
+.discovery { padding: 28px 0 32px; border-top: 1px solid var(--line); }
+.discovery .section-heading { margin-bottom: 10px; }
+.discovery-eyebrow { margin: 0 0 6px; color: var(--accent); font-size: .68rem; font-weight: 750; letter-spacing: .12em; }
+.discovery-description { margin: 0 0 18px; color: var(--muted); font-size: .84rem; line-height: 1.7; }
+.directory-nav { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 18px 0; }
+.directory-nav a { display: inline-flex; align-items: center; min-height: 36px; padding: 8px 13px; border: 1px solid var(--line); border-radius: 8px; color: var(--text); background: var(--surface); font-size: .76rem; font-weight: 600; text-decoration: none; transition: border-color 150ms ease, background 150ms ease; }
+.directory-nav a:hover { border-color: var(--accent); background: var(--accent-soft); color: var(--accent); }
+.directory-nav > span { color: var(--muted); font-size: .76rem; }
+.discovery-more { color: var(--muted); font-size: .76rem; font-weight: 600; text-decoration: none; }
+.discovery-more:hover { color: var(--accent); }
+.discovery-footer { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 12px; margin-top: 16px; color: var(--muted); font-size: .72rem; }
+.discovery a:focus-visible, .card-button:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+.discovery .game-card { height: 100%; }
+@media (max-width: 600px) {
+  .discovery .section-heading { align-items: flex-start; gap: 12px; }
+  .discovery .section-heading h2 { font-size: 1.2rem; }
+  .discovery .section-heading > a { padding-top: 8px; white-space: nowrap; }
+}
