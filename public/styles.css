@@ -960,3 +960,15 @@ html[data-theme="dark"] .score-badge {
     text-align: right;
   }
 }
+
+/* Keep navigation and quick preview available as separate controls. */
+a.card-button { display: block; text-decoration: none; }
+.preview-button { margin: 0 16px 16px; padding: 8px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: inherit; cursor: pointer; }
+.discovery { margin-bottom: 32px; }
+.discovery h2 { margin-bottom: 12px; }
+.discovery-links { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; padding: 0; list-style: none; }
+.discovery-links a { display: block; padding: 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; color: inherit; text-decoration: none; }
+.discovery-links strong, .discovery-links span { display: block; }
+.discovery-links span { margin-top: 8px; }
+.directory-nav { display: flex; flex-wrap: wrap; gap: 12px; margin: 20px 0; }
+.discovery a:focus-visible, .card-button:focus-visible { outline: 3px solid currentColor; outline-offset: 3px; }

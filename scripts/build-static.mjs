@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import { cp, mkdir, rm, writeFile } from "node:fs/promises";
+import { cp, mkdir, readFile, rm, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { buildCatalog } from "../lib/catalog.mjs";
@@ -141,6 +141,46 @@ await cp(join(root, "public"), output, { recursive: true });
 await mkdir(join(output, "api"), { recursive: true });
 const catalog = await buildCatalog({ gamesPath: join(root, "data", "tw-eshop.json"), ratingsPath: join(root, "data", "igdb-ratings.json"), historyPath: join(root, "data", "price-history.json") });
 
+// Render discovery links at build time, independently of client-side fetching.
+const sortedGames = [...catalog.games].sort((a, b) => a.title.localeCompare(b.title, "zh-Hant"));
+const pageSize = 100;
+const directoryCount = Math.ceil(sortedGames.length / pageSize);
+const directoryUrls = Array.from({ length: directoryCount }, (_, i) => `${siteUrl}/browse/${i + 1}/`);
+function discoveryList(games, prefix) {
+  return `<ul class="discovery-links">${games.map(game => `<li><a href="${prefix}games/${encodeURIComponent(game.nsuid)}/"><strong>${html(game.title)}</strong><span>${html(formatPrice(currentPrice(game)))}${game.salePrice !== null ? ` · ${game.discountPercent}% OFF · 優惠至 ${html(formatDate(game.saleEndsAt))}` : ""}</span></a></li>`).join("")}</ul>`;
+}
+const offers = catalog.games.filter(game => game.salePrice !== null).sort((a, b) =>
+  (b.criticScore ?? -1) - (a.criticScore ?? -1) || b.discountPercent - a.discountPercent).slice(0, 12);
+const collections = [
+  { slug: "sale", title: "台灣 eShop 特價遊戲", description: "目前正在優惠的 Switch / Switch 2 遊戲，依折扣高低排列。", games: catalog.games.filter(game => game.salePrice !== null) },
+  { slug: "under-300", title: "NT$300 以下特價遊戲", description: "目前特價且售價不超過 NT$300 的台灣 eShop 遊戲。", games: catalog.games.filter(game => game.salePrice !== null && currentPrice(game) <= 300) },
+  { slug: "top-rated", title: "媒體評分 80+ 特價遊戲", description: "IGDB 專業媒體綜合評分至少 80 分，目前正在台灣 eShop 特價的遊戲。", games: catalog.games.filter(game => game.salePrice !== null && game.criticScore >= 80) },
+];
+const collectionUrls = [];
+for (const collection of collections) {
+  collection.games.sort((a, b) => b.discountPercent - a.discountPercent || a.title.localeCompare(b.title, "zh-Hant"));
+  const count = Math.max(1, Math.ceil(collection.games.length / pageSize));
+  for (let index = 0; index < count; index++) {
+    const url = `${siteUrl}/deals/${collection.slug}/${index + 1}/`;
+    collectionUrls.push(url);
+    const directory = join(output, "deals", collection.slug, String(index + 1));
+    const nav = `<nav class="directory-nav" aria-label="優惠清單分頁"><a href="../../../">回首頁搜尋</a>${index ? `<a rel="prev" href="../${index}/">上一頁</a>` : ""}${index + 1 < count ? `<a rel="next" href="../${index + 2}/">下一頁</a>` : ""}<span>第 ${index + 1} / ${count} 頁</span></nav>`;
+    await mkdir(directory, { recursive: true });
+    await writeFile(join(directory, "index.html"), `<!doctype html><html lang="zh-Hant"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>${html(collection.title)}・第 ${index + 1} 頁｜台服價格觀測站</title><meta name="description" content="${html(collection.description)}" /><link rel="canonical" href="${html(url)}" /><link rel="stylesheet" href="../../../styles.css" /></head><body><main><section class="discovery"><h1>${html(collection.title)}</h1><p>${html(collection.description)} 共 ${collection.games.length} 款。資料更新：${html(formatDate(catalog.updatedAt))}，價格以 eShop 結帳畫面為準。</p>${nav}${collection.games.length ? discoveryList(collection.games.slice(index * pageSize, (index + 1) * pageSize), "../../../") : "<p>目前沒有符合條件的特價遊戲。</p>"}${nav}</section></main></body></html>`);
+  }
+}
+const collectionLinks = `<nav class="directory-nav" aria-label="特價遊戲分類">${collections.map(item => `<a href="./deals/${item.slug}/1/">${html(item.title)}</a>`).join("")}</nav>`;
+const discovery = `<section class="discovery" aria-labelledby="offers-title"><h2 id="offers-title">高評分特價遊戲</h2>${collectionLinks}<p>依媒體評分優先排列，幫你從當期優惠開始挑選。資料更新：${html(formatDate(catalog.updatedAt))}。</p>${discoveryList(offers, "./")}<a href="./browse/1/">瀏覽完整遊戲目錄</a></section>`;
+const homepagePath = join(output, "index.html");
+await writeFile(homepagePath, (await readFile(homepagePath, "utf8")).replace("<!-- STATIC_DISCOVERY -->", discovery));
+await Promise.all(directoryUrls.map(async (url, index) => {
+  const title = `台灣 eShop 遊戲目錄・第 ${index + 1} 頁`;
+  const navigation = `<nav class="directory-nav" aria-label="遊戲目錄分頁"><a href="../../">回首頁搜尋與篩選</a>${index > 0 ? `<a rel="prev" href="../${index}/">上一頁</a>` : ""}${index + 1 < directoryCount ? `<a rel="next" href="../${index + 2}/">下一頁</a>` : ""}<span>第 ${index + 1} / ${directoryCount} 頁</span></nav>`;
+  const directory = join(output, "browse", String(index + 1));
+  await mkdir(directory, { recursive: true });
+  await writeFile(join(directory, "index.html"), `<!doctype html><html lang="zh-Hant"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>${html(title)}｜台服價格觀測站</title><meta name="description" content="依遊戲名稱瀏覽 Switch / Switch 2 台灣 eShop 價格、折扣與遊戲詳情，第 ${index + 1} 頁。" /><link rel="canonical" href="${html(url)}" /><link rel="stylesheet" href="../../styles.css" /></head><body><main><section class="discovery"><h1>${html(title)}</h1>${navigation}${discoveryList(sortedGames.slice(index * pageSize, (index + 1) * pageSize), "../../")}${navigation}</section></main></body></html>`);
+}));
+
 const publisherIndex = new Map();
 for (const game of catalog.games) {
   if (!publisherIndex.has(game.publisher)) publisherIndex.set(game.publisher, []);
@@ -153,7 +193,7 @@ await Promise.all(catalog.games.map(async (game) => {
   await writeFile(join(directory, "index.html"), gamePage(game, relatedGames(game, publisherIndex), catalog.updatedAt));
 }));
 
-const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${[`${siteUrl}/`, ...catalog.games.map(gameUrl)].map((url) => `  <url><loc>${html(url)}</loc><lastmod>${catalog.updatedAt.slice(0, 10)}</lastmod></url>`).join("\n")}\n</urlset>\n`;
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${[`${siteUrl}/`, ...directoryUrls, ...collectionUrls, ...catalog.games.map(gameUrl)].map((url) => `  <url><loc>${html(url)}</loc><lastmod>${catalog.updatedAt.slice(0, 10)}</lastmod></url>`).join("\n")}\n</urlset>\n`;
 const robots = `User-agent: *\nAllow: /tw-switch-price/\n\nSitemap: ${siteUrl}/sitemap.xml\n`;
 await Promise.all([
   writeFile(join(output, "api", "games.json"), JSON.stringify(catalog)), writeFile(join(output, "sitemap.xml"), sitemap),

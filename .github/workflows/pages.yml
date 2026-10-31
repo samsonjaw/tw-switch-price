@@ -59,8 +59,8 @@ jobs:
             git push
           fi
 
-      - name: 產生靜態網站
-        run: npm run build
+      - name: 產生網站並驗證來源資料未被修改
+        run: npm run verify
 
       - name: 設定 GitHub Pages
         uses: actions/configure-pages@v5

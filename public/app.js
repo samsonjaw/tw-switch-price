@@ -3,7 +3,7 @@ const state = {
   filtered: [],
   filters: new Set(),
   query: "",
-  sort: "rating",
+  sort: "discount",
   visible: 48,
   views: loadViews(),
   favorites: loadFavorites(),
@@ -267,7 +267,7 @@ function cardTemplate(game) {
 
   return `
     <article class="game-card">
-      <button class="card-button" type="button" data-nsuid="${escapeHtml(game.nsuid)}">
+      <a class="card-button" href="./games/${encodeURIComponent(game.nsuid)}/">
         <div class="cover-wrap">
           ${image}
           ${hasSale ? `<span class="discount-badge">-${game.discountPercent}%</span>` : ""}
@@ -286,7 +286,8 @@ function cardTemplate(game) {
             ${viewCount(game) ? `<span class="view-count">查看 ${viewCount(game)} 次</span>` : ""}
           </p>
         </div>
-      </button>
+      </a>
+      <button class="preview-button" type="button" data-nsuid="${escapeHtml(game.nsuid)}">快速預覽</button>
       <button class="favorite-button${isFavorite(game) ? " active" : ""}" type="button" data-favorite="${escapeHtml(game.nsuid)}" aria-label="${isFavorite(game) ? "取消收藏" : "加入收藏"}" aria-pressed="${isFavorite(game)}">★</button>
     </article>`;
 }
