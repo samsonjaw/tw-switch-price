@@ -132,7 +132,7 @@ function gamePage(game, related, updatedAt) {
     <section class="detail-section" aria-labelledby="info-title"><div class="detail-heading"><div><p>GAME INFO</p><h2 id="info-title">遊戲資訊</h2></div></div>
       <dl class="info-grid"><div><dt>發行商</dt><dd>${html(game.publisher)}</dd></div><div><dt>平台</dt><dd>${html(game.platform)}</dd></div><div><dt>發售日期</dt><dd>${html(formatDate(game.releaseDate))}</dd></div><div><dt>分級</dt><dd>${html(game.rating ?? "未提供")}</dd></div><div><dt>類型</dt><dd>${html(game.categories.join("、") || "未提供")}</dd></div><div><dt>NSUID</dt><dd>${html(game.nsuid)}</dd></div></dl>
       ${game.criticScore !== null ? `<p class="rating-note">IGDB 收錄的專業媒體綜合評分為 <strong>${Math.round(game.criticScore)}／100</strong>，共 ${game.criticReviewCount} 篇評論。</p>` : ""}</section>
-    ${related.length ? `<section class="detail-section" aria-labelledby="related-title"><div class="detail-heading"><div><p>MORE GAMES</p><h2 id="related-title">同發行商遊戲</h2></div></div><div class="related-grid">${related.map((item) => `<a href="../${encodeURIComponent(item.nsuid)}/">${item.image ? `<img src="${html(item.image)}" alt="" loading="lazy" />` : ""}<span><small>${html(item.publisher)}</small><strong>${html(item.title)}</strong><em>${html(formatPrice(currentPrice(item)))}</em></span></a>`).join("")}</div></section>` : ""}
+    ${related.length ? `<section class="detail-section" aria-labelledby="related-title"><div class="detail-heading"><div><p>MORE GAMES</p><h2 id="related-title">同發行商遊戲</h2></div></div><div class="related-grid">${related.map((item) => `<a href="../${encodeURIComponent(item.nsuid)}/">${item.image ? `<img src="${html(item.image)}" alt="" loading="lazy" />` : ""}<div class="related-body"><small>${html(item.publisher)}</small><strong>${html(item.title)}</strong><div class="related-price"><span class="price-now">${html(formatPrice(currentPrice(item)))}</span>${item.salePrice !== null ? `<del class="price-original">${html(formatPrice(item.regularPrice))}</del><span class="detail-discount">-${item.discountPercent}%</span>` : ""}</div></div></a>`).join("")}</div></section>` : ""}
   </main><footer><p>非任天堂官方服務。價格以 Nintendo eShop 結帳畫面為準。</p></footer><script type="module" src="../../game.js"></script>
 </body></html>`;
 }
@@ -202,6 +202,7 @@ await Promise.all([
 ]);
 // Version the shared stylesheet so newly deployed markup gets its matching styles.
 const styleVersion = createHash("sha256").update(await readFile(join(output, "styles.css"))).digest("hex").slice(0, 12);
+const gameStyleVersion = createHash("sha256").update(await readFile(join(output, "game.css"))).digest("hex").slice(0, 12);
 const generatedHtmlPaths = [homepagePath,
   ...directoryUrls.map((_, i) => join(output, "browse", String(i + 1), "index.html")),
   ...collectionUrls.map(url => join(output, url.slice(siteUrl.length + 1), "index.html")),
@@ -209,6 +210,6 @@ const generatedHtmlPaths = [homepagePath,
 ];
 await Promise.all(generatedHtmlPaths.map(async path => {
   const content = await readFile(path, "utf8");
-  await writeFile(path, content.replaceAll('styles.css"', `styles.css?v=${styleVersion}"`));
+  await writeFile(path, content.replaceAll('styles.css"', `styles.css?v=${styleVersion}"`).replaceAll('game.css"', `game.css?v=${gameStyleVersion}"`));
 }));
 console.log(`Static site built: ${catalog.games.length.toLocaleString("en-US")} games and detail pages in dist/`);

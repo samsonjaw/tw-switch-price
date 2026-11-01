@@ -81,8 +81,8 @@
 .related-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
 .related-grid a { overflow: hidden; border: 1px solid var(--line); border-radius: 9px; color: var(--text); background: var(--surface); text-decoration: none; }
 .related-grid img { width: 100%; aspect-ratio: 16 / 9; display: block; object-fit: cover; background: var(--surface-2); }
-.related-grid span { display: block; padding: 11px; }
-.related-grid small, .related-grid strong, .related-grid em { display: block; }
+.related-body { padding: 11px; }
+.related-grid small, .related-grid strong { display: block; }
 .related-grid small { overflow: hidden; color: var(--muted); font-size: 0.6rem; text-overflow: ellipsis; white-space: nowrap; }
 .related-grid strong { min-height: 2.6em; margin-top: 4px; font-size: 0.78rem; line-height: 1.3; }
 .related-grid em { margin-top: 9px; color: var(--text); font-size: 0.82rem; font-style: normal; font-weight: 750; }
@@ -100,3 +100,8 @@
   .info-grid { grid-template-columns: 1fr; }
   .related-grid { grid-template-columns: 1fr 1fr; }
 }
+
+.related-price { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px; margin-top: 10px; }
+.related-price .price-now { font-size: .95rem; }
+.related-price .price-original { font-size: .7rem; }
+.related-price .detail-discount { font-size: .65rem; padding: 3px 5px; }
