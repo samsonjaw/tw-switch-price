@@ -983,3 +983,13 @@ a.card-button { display: block; text-decoration: none; }
   .discovery .section-heading h2 { font-size: 1.2rem; }
   .discovery .section-heading > a { padding-top: 8px; white-space: nowrap; }
 }
+
+/* Allow the descriptive site name to wrap on narrow headers. */
+.brand { min-width: 0; }
+.brand-mark { flex-shrink: 0; }
+.brand > span:last-child { min-width: 0; }
+.header-actions { flex-shrink: 0; }
+@media (max-width: 600px) {
+  .brand { gap: 8px; margin-right: 10px; }
+  .brand strong { font-size: .8rem; line-height: 1.4; }
+}

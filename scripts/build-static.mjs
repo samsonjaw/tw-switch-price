@@ -109,14 +109,14 @@ function gamePage(game, related, updatedAt) {
   <title>${html(game.title)}－台灣 eShop 價格、特價與史低</title>
   <meta name="description" content="${html(description)}" /><meta name="robots" content="index, follow" />
   <link rel="canonical" href="${html(canonical)}" />
-  <meta property="og:type" content="website" /><meta property="og:locale" content="zh_TW" /><meta property="og:site_name" content="台服價格觀測站" />
+  <meta property="og:type" content="website" /><meta property="og:locale" content="zh_TW" /><meta property="og:site_name" content="台灣 Switch eShop 價格查詢" />
   <meta property="og:title" content="${html(game.title)}－台灣 eShop 價格與特價" /><meta property="og:description" content="${html(description)}" /><meta property="og:url" content="${html(canonical)}" />
   ${game.image ? `<meta property="og:image" content="${html(game.image)}" />` : ""}
   <script type="application/ld+json">${jsonLd(schema)}</script>
   <script>try{const s=localStorage.getItem("tw-eshop-theme");document.documentElement.dataset.theme=s??(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")}catch{}</script>
   <link rel="stylesheet" href="../../styles.css" /><link rel="stylesheet" href="../../game.css" />
 </head><body data-nsuid="${html(game.nsuid)}">
-  <header class="site-header"><a class="brand" href="../../" aria-label="回到台服價格觀測站首頁"><span class="brand-mark" aria-hidden="true"><i></i><i></i></span><span><strong>台服價格觀測站</strong><small>Nintendo Switch 台灣區</small></span></a><button id="theme-toggle" class="theme-toggle" type="button"><span id="theme-icon" aria-hidden="true">◐</span><span id="theme-label">深色</span></button></header>
+  <header class="site-header"><a class="brand" href="../../" aria-label="回到台灣 Switch eShop 價格查詢首頁"><span class="brand-mark" aria-hidden="true"><i></i><i></i></span><span><strong>台灣 Switch eShop 價格查詢</strong><small>Nintendo Switch 台灣區</small></span></a><button id="theme-toggle" class="theme-toggle" type="button"><span id="theme-icon" aria-hidden="true">◐</span><span id="theme-label">深色</span></button></header>
   <main class="game-page">
     <nav class="breadcrumbs" aria-label="麵包屑"><a href="../../">所有遊戲</a><span>／</span><span>${html(game.title)}</span></nav>
     <article class="game-hero-detail"><div class="game-art">${game.image ? `<img src="${html(game.image)}" alt="${html(game.title)}遊戲圖片" />` : '<div class="image-placeholder">暫無圖片</div>'}</div><div class="game-summary">
@@ -167,7 +167,7 @@ for (const collection of collections) {
     const directory = join(output, "deals", collection.slug, String(index + 1));
     const nav = `<nav class="directory-nav" aria-label="優惠清單分頁"><a href="../../../">回首頁搜尋</a>${index ? `<a rel="prev" href="../${index}/">上一頁</a>` : ""}${index + 1 < count ? `<a rel="next" href="../${index + 2}/">下一頁</a>` : ""}<span>第 ${index + 1} / ${count} 頁</span></nav>`;
     await mkdir(directory, { recursive: true });
-    await writeFile(join(directory, "index.html"), `<!doctype html><html lang="zh-Hant"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>${html(collection.title)}・第 ${index + 1} 頁｜台服價格觀測站</title><meta name="description" content="${html(collection.description)}" /><link rel="canonical" href="${html(url)}" /><link rel="stylesheet" href="../../../styles.css" /></head><body><main><section class="discovery"><h1>${html(collection.title)}</h1><p>${html(collection.description)} 共 ${collection.games.length} 款。資料更新：${html(formatDate(catalog.updatedAt))}，價格以 eShop 結帳畫面為準。</p>${nav}${collection.games.length ? discoveryList(collection.games.slice(index * pageSize, (index + 1) * pageSize), "../../../") : "<p>目前沒有符合條件的特價遊戲。</p>"}${nav}</section></main></body></html>`);
+    await writeFile(join(directory, "index.html"), `<!doctype html><html lang="zh-Hant"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>${html(collection.title)}・第 ${index + 1} 頁｜台灣 Switch eShop 價格查詢</title><meta name="description" content="${html(collection.description)}" /><link rel="canonical" href="${html(url)}" /><link rel="stylesheet" href="../../../styles.css" /></head><body><main><section class="discovery"><h1>${html(collection.title)}</h1><p>${html(collection.description)} 共 ${collection.games.length} 款。資料更新：${html(formatDate(catalog.updatedAt))}，價格以 eShop 結帳畫面為準。</p>${nav}${collection.games.length ? discoveryList(collection.games.slice(index * pageSize, (index + 1) * pageSize), "../../../") : "<p>目前沒有符合條件的特價遊戲。</p>"}${nav}</section></main></body></html>`);
   }
 }
 const collectionLinks = `<nav class="directory-nav" aria-label="特價遊戲分類">${collections.map(item => `<a href="./deals/${item.slug}/1/">${html(item.title)}</a>`).join("")}</nav>`;
@@ -179,7 +179,7 @@ await Promise.all(directoryUrls.map(async (url, index) => {
   const navigation = `<nav class="directory-nav" aria-label="遊戲目錄分頁"><a href="../../">回首頁搜尋與篩選</a>${index > 0 ? `<a rel="prev" href="../${index}/">上一頁</a>` : ""}${index + 1 < directoryCount ? `<a rel="next" href="../${index + 2}/">下一頁</a>` : ""}<span>第 ${index + 1} / ${directoryCount} 頁</span></nav>`;
   const directory = join(output, "browse", String(index + 1));
   await mkdir(directory, { recursive: true });
-  await writeFile(join(directory, "index.html"), `<!doctype html><html lang="zh-Hant"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>${html(title)}｜台服價格觀測站</title><meta name="description" content="依遊戲名稱瀏覽 Switch / Switch 2 台灣 eShop 價格、折扣與遊戲詳情，第 ${index + 1} 頁。" /><link rel="canonical" href="${html(url)}" /><link rel="stylesheet" href="../../styles.css" /></head><body><main><section class="discovery"><h1>${html(title)}</h1>${navigation}${discoveryList(sortedGames.slice(index * pageSize, (index + 1) * pageSize), "../../")}${navigation}</section></main></body></html>`);
+  await writeFile(join(directory, "index.html"), `<!doctype html><html lang="zh-Hant"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>${html(title)}｜台灣 Switch eShop 價格查詢</title><meta name="description" content="依遊戲名稱瀏覽 Switch / Switch 2 台灣 eShop 價格、折扣與遊戲詳情，第 ${index + 1} 頁。" /><link rel="canonical" href="${html(url)}" /><link rel="stylesheet" href="../../styles.css" /></head><body><main><section class="discovery"><h1>${html(title)}</h1>${navigation}${discoveryList(sortedGames.slice(index * pageSize, (index + 1) * pageSize), "../../")}${navigation}</section></main></body></html>`);
 }));
 
 const publisherIndex = new Map();
