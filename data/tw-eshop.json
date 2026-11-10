@@ -1,16 +1,16 @@
 {
   "summary": {
-    "checkedAt": "2026-11-08T23:47:31.172Z",
+    "checkedAt": "2026-11-10T02:47:48.394Z",
     "mode": "all",
     "catalogueReportedTotal": 4508,
     "catalogueRowsReturned": 4508,
     "cataloguePagesChecked": 188,
-    "uniqueGamesChecked": 4101,
+    "uniqueGamesChecked": 4084,
     "catalogueEntriesWithoutNsuid": 0,
-    "duplicateNsuidRows": 407,
-    "pricesReturned": 4101,
+    "duplicateNsuidRows": 424,
+    "pricesReturned": 4084,
     "priceCoveragePercent": 100,
-    "activeDiscountsFound": 835,
+    "activeDiscountsFound": 824,
     "missingPriceCount": 0,
     "missingPrices": []
   },
@@ -6767,19 +6767,19 @@
     },
     {
       "sys": {
-        "id": "5nHR57N6HSGryoCUX4HfKn"
+        "id": "30kwh87TK2y7m7nFnvG5bY"
       },
       "region": "taiwan",
-      "title": "Arcade Archives EXZISUS",
-      "nsuid": "70010000131555",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
+      "title": "MeowPower! Yachiyo",
+      "nsuid": "70010000126793",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
       "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
       "releaseDateUndecided": null,
       "newReleaserHide": null,
       "releaseScheduleHide": null,
       "nintendoSoft": null,
-      "softCode": "bw5ua",
+      "softCode": "bwaaa",
       "hardwareCategory": "Nintendo Switch",
       "category": [
         "下載版"
@@ -6787,16 +6787,14 @@
       "highlightGame": null,
       "pageLink": "リンクなし",
       "pageLinkCustom": null,
-      "publisher": "HAMSTER",
+      "publisher": "Waku Waku Games",
       "developer": null,
-      "rating": "6（taiwan）",
+      "rating": "15（taiwan）",
       "supportedLanguages": [
         "English",
-        "French",
-        "German",
-        "Italian",
         "Japanese",
-        "Spanish"
+        "Simplified Chinese",
+        "Traditional Chinese"
       ],
       "salesFormat": "タイトル",
       "softwarePortal": null,
@@ -6804,16 +6802,23 @@
         "tags": []
       },
       "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000131555ec8d058dd88b11f1a60c21e976b01a68/70687fbd04e982bf47d7cab4128da175/7afa7384c734843e621b1aae46e78bacb700510b95ffe49d94e30a21a76f01df.jpg?w=400&fm=webp",
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/7001000012679344f22407c80b11f1a27de321474831f8/56e182b8127d75f30427a3b1ca019ccc/e5e3db9fd40f50e5d35c122252c96701dd493f64f8ef4822f2b7a5d85e0b6d10.jpg?w=400&fm=webp",
         "description": null
       },
       "price": {
-        "title_id": 70010000131555,
+        "title_id": 70010000126793,
         "sales_status": "onsale",
         "regular_price": {
-          "amount": "TWD 277",
+          "amount": "TWD 238",
           "currency": "TWD",
-          "raw_value": "277"
+          "raw_value": "238"
+        },
+        "discount_price": {
+          "amount": "TWD 190",
+          "currency": "TWD",
+          "raw_value": "190",
+          "start_datetime": "2026-10-28T16:00:00Z",
+          "end_datetime": "2026-11-11T15:59:59Z"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -6827,19 +6832,19 @@
     },
     {
       "sys": {
-        "id": "cHPuZ2heJaxg3p987TYsZ"
+        "id": "3DlEFk0vP46gdsUuy7HYXJ"
       },
       "region": "taiwan",
-      "title": "Mad Cat",
-      "nsuid": "70010000140185",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
+      "title": " Top Down Rally Racing",
+      "nsuid": "70010000138531",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
       "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
       "releaseDateUndecided": null,
       "newReleaserHide": null,
       "releaseScheduleHide": null,
       "nintendoSoft": null,
-      "softCode": "byq6a",
+      "softCode": "byena",
       "hardwareCategory": "Nintendo Switch",
       "category": [
         "下載版"
@@ -6847,11 +6852,73 @@
       "highlightGame": null,
       "pageLink": "リンクなし",
       "pageLinkCustom": null,
-      "publisher": "Upscale Studio",
+      "publisher": "Pix Arts",
       "developer": null,
       "rating": "6（taiwan）",
       "supportedLanguages": [
         "English",
+        "French"
+      ],
+      "salesFormat": "タイトル",
+      "softwarePortal": null,
+      "contentfulMetadata": {
+        "tags": []
+      },
+      "imageHero": {
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/700100001385319a0ab5e8cd8b11f18793e7f90837ec85/430b9c73b07747e014c8b180b049643e/5879b096de4e35c43ff8a858973c49b882395895a230b1f0362e9f4158e78fe3.jpg?w=400&fm=webp",
+        "description": null
+      },
+      "price": {
+        "title_id": 70010000138531,
+        "sales_status": "onsale",
+        "regular_price": {
+          "amount": "TWD 349",
+          "currency": "TWD",
+          "raw_value": "349"
+        },
+        "gold_point": {
+          "basic_gift_gp": "0",
+          "basic_gift_rate": "0",
+          "consume_gp": "0",
+          "extra_gold_points": [],
+          "gift_gp": "0",
+          "gift_rate": "0"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3QvKNk0bRIwFWiu7jfWHcv"
+      },
+      "region": "taiwan",
+      "title": "Bella Umbrella and the mysterious garden",
+      "nsuid": "70010000137182",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "releaseDatePackage": null,
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
+      "releaseDateUndecided": null,
+      "newReleaserHide": null,
+      "releaseScheduleHide": null,
+      "nintendoSoft": null,
+      "softCode": "bjrwa",
+      "hardwareCategory": "Nintendo Switch",
+      "category": [
+        "下載版"
+      ],
+      "highlightGame": null,
+      "pageLink": "リンクなし",
+      "pageLinkCustom": null,
+      "publisher": "Michael Wührer",
+      "developer": null,
+      "rating": "0（taiwan）",
+      "supportedLanguages": [
+        "Dutch",
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Japanese",
+        "Korean",
         "Portuguese",
         "Russian",
         "Spanish"
@@ -6862,16 +6929,16 @@
         "tags": []
       },
       "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000140185cc970807d88b11f18f479d32a173bfb3/1216dd925073bee91c98fc24f41b54e9/1bad46ab5c9281f589d1fdf36c3cafb90c5407d54d38125a79f2eb6c8164b38e.jpg?w=400&fm=webp",
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000137182cba30fc0c80b11f1b93d834ddef0f812/783b82e09a92b23ce224a5e5b7a12415/cfc23ad606a1fcf2907a79d8a29cf0610a34826a18e7c2ea7abc35f00240ea93.jpg?w=400&fm=webp",
         "description": null
       },
       "price": {
-        "title_id": 70010000140185,
+        "title_id": 70010000137182,
         "sales_status": "onsale",
         "regular_price": {
-          "amount": "TWD 226",
+          "amount": "TWD 730",
           "currency": "TWD",
-          "raw_value": "226"
+          "raw_value": "730"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -6885,19 +6952,19 @@
     },
     {
       "sys": {
-        "id": "4NTxrVO4U2ULsG2xJmwe7m"
+        "id": "1Vierc2Euu8GbgpFeUxSaj"
       },
       "region": "taiwan",
-      "title": "Hide & Hue",
-      "nsuid": "70010000139042",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
+      "title": "解謎之扉 — 犯罪現場點擊推理 —",
+      "nsuid": "70010000137189",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
       "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
       "releaseDateUndecided": null,
       "newReleaserHide": null,
       "releaseScheduleHide": null,
       "nintendoSoft": null,
-      "softCode": "byh2a",
+      "softCode": "bx6aa",
       "hardwareCategory": "Nintendo Switch",
       "category": [
         "下載版"
@@ -6905,9 +6972,74 @@
       "highlightGame": null,
       "pageLink": "リンクなし",
       "pageLinkCustom": null,
-      "publisher": "RandomSpin Games",
+      "publisher": "TT",
       "developer": null,
-      "rating": "0（taiwan）",
+      "rating": "18（taiwan）",
+      "supportedLanguages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Traditional Chinese"
+      ],
+      "salesFormat": "タイトル",
+      "softwarePortal": null,
+      "contentfulMetadata": {
+        "tags": []
+      },
+      "imageHero": {
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000137189e75bf66acd8b11f18523bd417bbc80f7/969d725d1e27f8b2135d18c74dd9eb54/3dc5aab90bef18ad5369e849405951c8512327249ec2e0436e8ab32fee14041c.jpg?w=400&fm=webp",
+        "description": null
+      },
+      "price": {
+        "title_id": 70010000137189,
+        "sales_status": "onsale",
+        "regular_price": {
+          "amount": "TWD 110",
+          "currency": "TWD",
+          "raw_value": "110"
+        },
+        "discount_price": {
+          "amount": "TWD 88",
+          "currency": "TWD",
+          "raw_value": "88",
+          "start_datetime": "2026-10-28T16:00:00Z",
+          "end_datetime": "2026-11-22T15:59:59Z"
+        },
+        "gold_point": {
+          "basic_gift_gp": "0",
+          "basic_gift_rate": "0",
+          "consume_gp": "0",
+          "extra_gold_points": [],
+          "gift_gp": "0",
+          "gift_rate": "0"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5gXigd35n1zPlolFks810X"
+      },
+      "region": "taiwan",
+      "title": "Derby.io",
+      "nsuid": "70010000138295",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "releaseDatePackage": null,
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
+      "releaseDateUndecided": null,
+      "newReleaserHide": null,
+      "releaseScheduleHide": null,
+      "nintendoSoft": null,
+      "softCode": "byc3a",
+      "hardwareCategory": "Nintendo Switch",
+      "category": [
+        "下載版"
+      ],
+      "highlightGame": null,
+      "pageLink": "リンクなし",
+      "pageLinkCustom": null,
+      "publisher": "Entity3",
+      "developer": null,
+      "rating": "12（taiwan）",
       "supportedLanguages": [
         "English"
       ],
@@ -6917,16 +7049,16 @@
         "tags": []
       },
       "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000139042d2237339c80b11f1be425127b5a72b42/5ca76a4627e0f52c11235b61ada4f26a/c5acb07fbb1e16306ff38494173aef89f72c056a0f2c9c47ebffe6c4404f1b01.jpg?w=400&fm=webp",
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000138295ca467272d30b11f19650cf7d36919f42/79c6f66db87e31b0d31f3d37f3e04f49/7fba7218023e7729c5428f23a126d95e85792d0c68553ccb1ce7eee4e65c5e0e.jpg?w=400&fm=webp",
         "description": null
       },
       "price": {
-        "title_id": 70010000139042,
+        "title_id": 70010000138295,
         "sales_status": "onsale",
         "regular_price": {
-          "amount": "TWD 160",
+          "amount": "TWD 30",
           "currency": "TWD",
-          "raw_value": "160"
+          "raw_value": "30"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -6940,19 +7072,19 @@
     },
     {
       "sys": {
-        "id": "3EIDOyNQQ9KZiKHx6BjPpQ"
+        "id": "2kRFxKJh1UNZ86jxYFoRKR"
       },
       "region": "taiwan",
-      "title": "Make it! Karaage",
-      "nsuid": "70010000137833",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
+      "title": "異世界公主: 怪獸圍攻行動(Isekai Princess: Monster Siege)",
+      "nsuid": "70010000136074",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
       "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
       "releaseDateUndecided": null,
       "newReleaserHide": null,
       "releaseScheduleHide": null,
       "nintendoSoft": null,
-      "softCode": "byada",
+      "softCode": "bxxya",
       "hardwareCategory": "Nintendo Switch",
       "category": [
         "下載版"
@@ -6960,76 +7092,14 @@
       "highlightGame": null,
       "pageLink": "リンクなし",
       "pageLinkCustom": null,
-      "publisher": "SAT-BOX",
+      "publisher": "TROOOZE",
       "developer": null,
-      "rating": "0（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "Japanese"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000137833a864ba40c80b11f182bfbdfac15eca1d/126cc94d8de784055c0612b354e3c299/c8cdc5c7a4ba22ce626f8d20dcc80c9a07601d8b5f7e26139d7e00d49a86e980.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000137833,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 210",
-          "currency": "TWD",
-          "raw_value": "210"
-        },
-        "discount_price": {
-          "amount": "TWD 151",
-          "currency": "TWD",
-          "raw_value": "151",
-          "start_datetime": "2026-11-04T16:00:00Z",
-          "end_datetime": "2027-01-12T15:59:59Z"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "45Fs2CapZaL2nXQFPBHlUF"
-      },
-      "region": "taiwan",
-      "title": "Weak Zombie: Rescue Friends",
-      "nsuid": "70010000122512",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bveva",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "GaniTani",
-      "developer": null,
-      "rating": "15（taiwan）",
+      "rating": "18（taiwan）",
       "supportedLanguages": [
         "English",
         "French",
         "German",
+        "Italian",
         "Japanese",
         "Korean",
         "Simplified Chinese",
@@ -7042,16 +7112,16 @@
         "tags": []
       },
       "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000122512c6bc8048d88b11f1950287d557137676/584d29add66d405d43094dfb6773ae23/28fe172954697c173cd51dd60fc0d1f5a1cd675a3d30c71880938a112b6d096a.jpg?w=400&fm=webp",
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000136074dc9f44bcd30b11f18fff932e58aeb6b7/11a9d101a7775fa7887a04e59589b5ef/821fe00f8442fc18b92b9ad4d11ed5257b71b8e4cba72cf599110fba71dd9f09.jpg?w=400&fm=webp",
         "description": null
       },
       "price": {
-        "title_id": 70010000122512,
+        "title_id": 70010000136074,
         "sales_status": "onsale",
         "regular_price": {
-          "amount": "TWD 450",
+          "amount": "TWD 490",
           "currency": "TWD",
-          "raw_value": "450"
+          "raw_value": "490"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -7065,19 +7135,19 @@
     },
     {
       "sys": {
-        "id": "RDHXngTZLd80w24G7v2CL"
+        "id": "2bDCrhB5IkqyIYQgE8Bpwc"
       },
       "region": "taiwan",
-      "title": "Smithsonian: Planets and the Solar System ",
-      "nsuid": "70010000137397",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
+      "title": "Fallen City Brawl",
+      "nsuid": "70010000045847",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
       "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
       "releaseDateUndecided": null,
       "newReleaserHide": null,
       "releaseScheduleHide": null,
       "nintendoSoft": null,
-      "softCode": "bx7ja",
+      "softCode": "a6c6a",
       "hardwareCategory": "Nintendo Switch",
       "category": [
         "下載版"
@@ -7085,124 +7155,18 @@
       "highlightGame": null,
       "pageLink": "リンクなし",
       "pageLinkCustom": null,
-      "publisher": "PlayDate Digital LLC",
-      "developer": null,
-      "rating": "0（taiwan）",
-      "supportedLanguages": [
-        "English"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000137397fa0d7fa4d88b11f1bd3721e976b01a68/620a98be7d4a1139bf4bea4d2ae5fb72/15a469987e1f668c2425286b9eb22fd676c392b0f80f32b48d39cf08a97c6d6f.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000137397,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 318",
-          "currency": "TWD",
-          "raw_value": "318"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "7LIEmNoXFqgUko7D7gY3Nu"
-      },
-      "region": "taiwan",
-      "title": "MECCHA Hide And Seek",
-      "nsuid": "70010000139742",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bynpa",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "Ethan FRoom",
-      "developer": null,
-      "rating": "6（taiwan）",
-      "supportedLanguages": [
-        "English"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000139742457b2249d88c11f194a865cf221d137f/72836cd44729b7bc5572a53af2a6600d/76b31864858fc85e866b5faf995e154e309046f3cf8a2c009d1df59b9d8376cf.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000139742,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 259",
-          "currency": "TWD",
-          "raw_value": "259"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "1IzGnmOyF6Awpg7BOob63S"
-      },
-      "region": "taiwan",
-      "title": "夢幻櫻樓閣",
-      "nsuid": "70010000123916",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bue5a",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版",
-        "體驗版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "Shochiku",
+      "publisher": "eastasiasoft",
       "developer": null,
       "rating": "15（taiwan）",
       "supportedLanguages": [
         "English",
+        "French",
+        "German",
         "Japanese",
+        "Korean",
+        "Portuguese",
         "Simplified Chinese",
+        "Spanish",
         "Traditional Chinese"
       ],
       "salesFormat": "タイトル",
@@ -7211,22 +7175,22 @@
         "tags": []
       },
       "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000123916df2f4f93d88b11f1856b277d9a6d7eac/5b76a2dbf6538e54bec27dee45c099dd/9844a359a36b52accb5c0d89aa7b399a7fd42953ea6b1bc2face2238ba84d7b9.jpg?w=400&fm=webp",
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000045847d200c3f0c80a11f192c65127b5a72b42/de2c8edb394b19c435f6969468d333de/512441eec258aa5d395361a8a3f5baa9dca229690a712dbaa03e4174a81ca620.jpg?w=400&fm=webp",
         "description": null
       },
       "price": {
-        "title_id": 70010000123916,
+        "title_id": 70010000045847,
         "sales_status": "onsale",
         "regular_price": {
-          "amount": "TWD 260",
+          "amount": "TWD 478",
           "currency": "TWD",
-          "raw_value": "260"
+          "raw_value": "478"
         },
         "discount_price": {
-          "amount": "TWD 208",
+          "amount": "TWD 430",
           "currency": "TWD",
-          "raw_value": "208",
-          "start_datetime": "2026-11-04T16:00:00Z",
+          "raw_value": "430",
+          "start_datetime": "2026-10-28T16:00:00Z",
           "end_datetime": "2026-11-18T15:59:59Z"
         },
         "gold_point": {
@@ -7241,19 +7205,19 @@
     },
     {
       "sys": {
-        "id": "4NW84cr8jXSQ348zsy33xk"
+        "id": "6nr2mKU3JnnZuIXxQLdpO3"
       },
       "region": "taiwan",
-      "title": "超人（Cho-Jin）",
-      "nsuid": "70010000140740",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
+      "title": "一隻奇怪的長頸鹿的奇怪跳躍 (The Strange Giraffe's Strange Jump)",
+      "nsuid": "70010000139282",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
       "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
       "releaseDateUndecided": null,
       "newReleaserHide": null,
       "releaseScheduleHide": null,
       "nintendoSoft": null,
-      "softCode": "byueb",
+      "softCode": "byj9a",
       "hardwareCategory": "Nintendo Switch",
       "category": [
         "下載版"
@@ -7261,10 +7225,11 @@
       "highlightGame": null,
       "pageLink": "リンクなし",
       "pageLinkCustom": null,
-      "publisher": "AM Factory",
+      "publisher": "tarakyoZGamesDevelopmentLab",
       "developer": null,
-      "rating": "15（taiwan）",
+      "rating": "0（taiwan）",
       "supportedLanguages": [
+        "English",
         "Japanese"
       ],
       "salesFormat": "タイトル",
@@ -7273,16 +7238,16 @@
         "tags": []
       },
       "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/700100001407404f035acad88c11f18f89d395d6c5bc35/b843f69185ca5d6305475b9741b55b1b/16be8801d3989756f16a4a6062132c116346fa3d1eb159f17bb679ae59862106.jpg?w=400&fm=webp",
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/700100001392821d120caed30c11f1bd7f3539255001b9/5fb037e966754cd5648cf9c85d2b0064/672eac3429a306fd8fda0d11b94c85e9c237cd9c7c2cec5df350ca662eb01744.jpg?w=400&fm=webp",
         "description": null
       },
       "price": {
-        "title_id": 70010000140740,
+        "title_id": 70010000139282,
         "sales_status": "onsale",
         "regular_price": {
-          "amount": "TWD 145",
+          "amount": "TWD 130",
           "currency": "TWD",
-          "raw_value": "145"
+          "raw_value": "130"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -7296,19 +7261,19 @@
     },
     {
       "sys": {
-        "id": "1ZSYMgd9o0G9q3D7Vb6dB4"
+        "id": "7nrH4Uq8ZGwUIkfv98IeZv"
       },
       "region": "taiwan",
-      "title": "寶石工坊",
-      "nsuid": "70010000125364",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
+      "title": "Hundred Fires: OPEN VECTOR -Episode 1-",
+      "nsuid": "70010000138526",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
       "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
       "releaseDateUndecided": null,
       "newReleaserHide": null,
       "releaseScheduleHide": null,
       "nintendoSoft": null,
-      "softCode": "bvz6a",
+      "softCode": "byeka",
       "hardwareCategory": "Nintendo Switch",
       "category": [
         "下載版"
@@ -7316,20 +7281,16 @@
       "highlightGame": null,
       "pageLink": "リンクなし",
       "pageLinkCustom": null,
-      "publisher": "Merge Conflict Studio",
+      "publisher": "David Amado Fernández",
       "developer": null,
-      "rating": "0（taiwan）",
+      "rating": "15（taiwan）",
       "supportedLanguages": [
+        "Dutch",
         "English",
         "French",
-        "German",
+        "Italian",
         "Japanese",
-        "Korean",
-        "Portuguese",
-        "Russian",
-        "Simplified Chinese",
-        "Spanish",
-        "Traditional Chinese"
+        "Spanish"
       ],
       "salesFormat": "タイトル",
       "softwarePortal": null,
@@ -7337,16 +7298,16 @@
         "tags": []
       },
       "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/7001000012536495aed543d88b11f19e67cd4a2f3369bd/7b596008f24bc5e27c36f5d273a509f3/5bbf5244927ff94df96cf974e4527f038b9a2e33d6086b071d47e2d8892584b0.jpg?w=400&fm=webp",
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/700100001385262221c1a9d30c11f193797b0b2de30087/04baefb6f7e8924e938b608909f6be7d/857d51f944d2d1d4d7950a0e695b536a74c78bc78e68b25a8b37bb53fc304abf.jpeg?w=400&fm=webp",
         "description": null
       },
       "price": {
-        "title_id": 70010000125364,
+        "title_id": 70010000138526,
         "sales_status": "onsale",
         "regular_price": {
-          "amount": "TWD 339",
+          "amount": "TWD 219",
           "currency": "TWD",
-          "raw_value": "339"
+          "raw_value": "219"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -7360,19 +7321,19 @@
     },
     {
       "sys": {
-        "id": "2kF7AWRu8iyjLAWtAbvF2V"
+        "id": "6DpnpYdcd9Bz6L0biC6cOU"
       },
       "region": "taiwan",
-      "title": "BACKROOMS TOGETHER: SURVIVAL ESCAPE",
-      "nsuid": "70010000139857",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
+      "title": "Puzzle X: Premium Girls",
+      "nsuid": "70010000135582",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
       "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
       "releaseDateUndecided": null,
       "newReleaserHide": null,
       "releaseScheduleHide": null,
       "nintendoSoft": null,
-      "softCode": "byn5a",
+      "softCode": "bxuya",
       "hardwareCategory": "Nintendo Switch",
       "category": [
         "下載版"
@@ -7380,9 +7341,66 @@
       "highlightGame": null,
       "pageLink": "リンクなし",
       "pageLinkCustom": null,
-      "publisher": "Ethan FRoom",
+      "publisher": "17Studio",
       "developer": null,
-      "rating": "18（taiwan）",
+      "rating": "15（taiwan）",
+      "supportedLanguages": [
+        "English",
+        "Japanese",
+        "Russian"
+      ],
+      "salesFormat": "タイトル",
+      "softwarePortal": null,
+      "contentfulMetadata": {
+        "tags": []
+      },
+      "imageHero": {
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000135582add31e7cd30b11f18b4447b5bfab7354/475fb381b28ded099776db2b4666dff3/beb36eff5875c08351cb4c80f7d260b35737c3e3f63f54ba7d3ac6c7985578e3.jpg?w=400&fm=webp",
+        "description": null
+      },
+      "price": {
+        "title_id": 70010000135582,
+        "sales_status": "onsale",
+        "regular_price": {
+          "amount": "TWD 30",
+          "currency": "TWD",
+          "raw_value": "30"
+        },
+        "gold_point": {
+          "basic_gift_gp": "0",
+          "basic_gift_rate": "0",
+          "consume_gp": "0",
+          "extra_gold_points": [],
+          "gift_gp": "0",
+          "gift_rate": "0"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "74E2Q4nDIsB6ALTuGBJeO6"
+      },
+      "region": "taiwan",
+      "title": "Number Logic",
+      "nsuid": "70010000139553",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "releaseDatePackage": null,
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
+      "releaseDateUndecided": null,
+      "newReleaserHide": null,
+      "releaseScheduleHide": null,
+      "nintendoSoft": null,
+      "softCode": "bymba",
+      "hardwareCategory": "Nintendo Switch",
+      "category": [
+        "下載版"
+      ],
+      "highlightGame": null,
+      "pageLink": "リンクなし",
+      "pageLinkCustom": null,
+      "publisher": "Eathrabaria",
+      "developer": null,
+      "rating": "0（taiwan）",
       "supportedLanguages": [
         "English"
       ],
@@ -7392,16 +7410,16 @@
         "tags": []
       },
       "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/7001000013985725e5e275d88c11f1afcfcf036e6a224c/108fdcc5bd63ed649974ee01a16c3c38/071569c24c102cab61b96ecb30513f53c6d8cfe92b27935d323e285e57b28f08.jpg?w=400&fm=webp",
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000139553d8caa1abd30b11f1aa733539255001b9/7408725eb0907fe21cbc2b829c2b7835/edd6858225458790bf0d09170d751bbcd584711f08273ff38a9cd3366a057250.jpeg?w=400&fm=webp",
         "description": null
       },
       "price": {
-        "title_id": 70010000139857,
+        "title_id": 70010000139553,
         "sales_status": "onsale",
         "regular_price": {
-          "amount": "TWD 329",
+          "amount": "TWD 158",
           "currency": "TWD",
-          "raw_value": "329"
+          "raw_value": "158"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -7415,19 +7433,19 @@
     },
     {
       "sys": {
-        "id": "1aoX9NAUZPam14JaWYP0JY"
+        "id": "tC87KMXU0u9V1BKGhGZmZ"
       },
       "region": "taiwan",
-      "title": "Dominus Gladiatus",
-      "nsuid": "70010000107199",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
+      "title": "Parking Quest",
+      "nsuid": "70010000139612",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
       "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
       "releaseDateUndecided": null,
       "newReleaserHide": null,
       "releaseScheduleHide": null,
       "nintendoSoft": null,
-      "softCode": "bsm2a",
+      "softCode": "bymla",
       "hardwareCategory": "Nintendo Switch",
       "category": [
         "下載版"
@@ -7435,19 +7453,189 @@
       "highlightGame": null,
       "pageLink": "リンクなし",
       "pageLinkCustom": null,
-      "publisher": "Brain Seal Entertainment",
+      "publisher": "Eathrabaria",
       "developer": null,
-      "rating": "18（taiwan）",
+      "rating": "0（taiwan）",
       "supportedLanguages": [
-        "Dutch",
+        "English"
+      ],
+      "salesFormat": "タイトル",
+      "softwarePortal": null,
+      "contentfulMetadata": {
+        "tags": []
+      },
+      "imageHero": {
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000139612f585e571d30b11f1adee7b0b2de30087/06e7e4a4c9a0332cc5137503909a2afe/4dfdd83255a2852427dac9d9ec7818ada2fd21242079ac59852e350d059b8145.jpeg?w=400&fm=webp",
+        "description": null
+      },
+      "price": {
+        "title_id": 70010000139612,
+        "sales_status": "onsale",
+        "regular_price": {
+          "amount": "TWD 157",
+          "currency": "TWD",
+          "raw_value": "157"
+        },
+        "gold_point": {
+          "basic_gift_gp": "0",
+          "basic_gift_rate": "0",
+          "consume_gp": "0",
+          "extra_gold_points": [],
+          "gift_gp": "0",
+          "gift_rate": "0"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "JiBRK58ag4NsYhKPkbXnY"
+      },
+      "region": "taiwan",
+      "title": "Catgirls: Secret Operation",
+      "nsuid": "70010000137005",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "releaseDatePackage": null,
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
+      "releaseDateUndecided": null,
+      "newReleaserHide": null,
+      "releaseScheduleHide": null,
+      "nintendoSoft": null,
+      "softCode": "bx45a",
+      "hardwareCategory": "Nintendo Switch",
+      "category": [
+        "下載版"
+      ],
+      "highlightGame": null,
+      "pageLink": "リンクなし",
+      "pageLinkCustom": null,
+      "publisher": "17Studio",
+      "developer": null,
+      "rating": "15（taiwan）",
+      "supportedLanguages": [
+        "English",
+        "Japanese",
+        "Russian"
+      ],
+      "salesFormat": "タイトル",
+      "softwarePortal": null,
+      "contentfulMetadata": {
+        "tags": []
+      },
+      "imageHero": {
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/700100001370051ab9556dd30c11f19b48ffc36d673ded/f2b2768f5ff9532d545314fd5e879596/2ab8b19066dc34355acf0028938c1efd4941b213df7f2e422921cebe394db8bb.jpg?w=400&fm=webp",
+        "description": null
+      },
+      "price": {
+        "title_id": 70010000137005,
+        "sales_status": "onsale",
+        "regular_price": {
+          "amount": "TWD 599",
+          "currency": "TWD",
+          "raw_value": "599"
+        },
+        "discount_price": {
+          "amount": "TWD 30",
+          "currency": "TWD",
+          "raw_value": "30",
+          "start_datetime": "2026-10-28T16:00:00Z",
+          "end_datetime": "2026-11-19T15:59:59Z"
+        },
+        "gold_point": {
+          "basic_gift_gp": "0",
+          "basic_gift_rate": "0",
+          "consume_gp": "0",
+          "extra_gold_points": [],
+          "gift_gp": "0",
+          "gift_rate": "0"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1ozwuWsfun0cESb4fpsfUg"
+      },
+      "region": "taiwan",
+      "title": "Retro Video Store Simulator",
+      "nsuid": "70010000131932",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "releaseDatePackage": null,
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
+      "releaseDateUndecided": null,
+      "newReleaserHide": null,
+      "releaseScheduleHide": null,
+      "nintendoSoft": null,
+      "softCode": "bw7xa",
+      "hardwareCategory": "Nintendo Switch",
+      "category": [
+        "下載版"
+      ],
+      "highlightGame": null,
+      "pageLink": "リンクなし",
+      "pageLinkCustom": null,
+      "publisher": "Burgeq Media Games",
+      "developer": null,
+      "rating": "0（taiwan）",
+      "supportedLanguages": [
+        "English"
+      ],
+      "salesFormat": "タイトル",
+      "softwarePortal": null,
+      "contentfulMetadata": {
+        "tags": []
+      },
+      "imageHero": {
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000131932625354e4d30b11f1a022932e58aeb6b7/652e9c4757e8d0082eb6fde30e700663/0626e5df742085b61020b014d92050d8c01b2ace885f7a046b0f40f5b6a6758c.jpg?w=400&fm=webp",
+        "description": null
+      },
+      "price": {
+        "title_id": 70010000131932,
+        "sales_status": "onsale",
+        "regular_price": {
+          "amount": "TWD 319",
+          "currency": "TWD",
+          "raw_value": "319"
+        },
+        "gold_point": {
+          "basic_gift_gp": "0",
+          "basic_gift_rate": "0",
+          "consume_gp": "0",
+          "extra_gold_points": [],
+          "gift_gp": "0",
+          "gift_rate": "0"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2m7RTzRZcRUb8LAQO4ab9P"
+      },
+      "region": "taiwan",
+      "title": "Love Love Mystery Club",
+      "nsuid": "70010000138723",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "releaseDatePackage": null,
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
+      "releaseDateUndecided": null,
+      "newReleaserHide": null,
+      "releaseScheduleHide": null,
+      "nintendoSoft": null,
+      "softCode": "bxpqb",
+      "hardwareCategory": "Nintendo Switch",
+      "category": [
+        "下載版"
+      ],
+      "highlightGame": null,
+      "pageLink": "リンクなし",
+      "pageLinkCustom": null,
+      "publisher": "COSEN",
+      "developer": null,
+      "rating": "12（taiwan）",
+      "supportedLanguages": [
         "English",
         "French",
-        "German",
         "Italian",
         "Japanese",
-        "Korean",
         "Portuguese",
-        "Russian",
         "Simplified Chinese",
         "Spanish",
         "Traditional Chinese"
@@ -7458,16 +7646,16 @@
         "tags": []
       },
       "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000107199b691cbb0d88b11f1b1ff277d9a6d7eac/f8a8956342e81387161cdd30341961ce/f8e0c5a6af720031ef5f4b5cb315fbde9bab94849eff0d04e87b5b7fcd182be9.jpg?w=400&fm=webp",
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000138723e31896c9d30b11f190e9932e58aeb6b7/867b76579967d6ca507cf52b36de10ef/0bf08608d2ecc71691dd4e88acb42738e4cf0952a808db0b161420e66184a0d5.jpg?w=400&fm=webp",
         "description": null
       },
       "price": {
-        "title_id": 70010000107199,
+        "title_id": 70010000138723,
         "sales_status": "onsale",
         "regular_price": {
-          "amount": "TWD 377",
+          "amount": "TWD 638",
           "currency": "TWD",
-          "raw_value": "377"
+          "raw_value": "638"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -7481,19 +7669,74 @@
     },
     {
       "sys": {
-        "id": "23ibi3lRBbvWQozR3TkZCw"
+        "id": "7M6quf7TdP4tUVXu7u4eDH"
       },
       "region": "taiwan",
-      "title": "Horror Love",
-      "nsuid": "70010000141189",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
+      "title": "SUPER ARROW SHOT",
+      "nsuid": "70010000131461",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
       "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
       "releaseDateUndecided": null,
       "newReleaserHide": null,
       "releaseScheduleHide": null,
       "nintendoSoft": null,
-      "softCode": "bywma",
+      "softCode": "bw45a",
+      "hardwareCategory": "Nintendo Switch",
+      "category": [
+        "下載版"
+      ],
+      "highlightGame": null,
+      "pageLink": "リンクなし",
+      "pageLinkCustom": null,
+      "publisher": "St Pow Games",
+      "developer": null,
+      "rating": "12（taiwan）",
+      "supportedLanguages": [
+        "English"
+      ],
+      "salesFormat": "タイトル",
+      "softwarePortal": null,
+      "contentfulMetadata": {
+        "tags": []
+      },
+      "imageHero": {
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/700100001314611a9f2dced30c11f19c2f7b0b2de30087/7bf6070fe66fa17fb11a5b538f8f1507/56b9bc4294d01255f8a54f43ad5db5554e5bf75570f19c49aa531b6777f5da18.jpg?w=400&fm=webp",
+        "description": null
+      },
+      "price": {
+        "title_id": 70010000131461,
+        "sales_status": "onsale",
+        "regular_price": {
+          "amount": "TWD 159",
+          "currency": "TWD",
+          "raw_value": "159"
+        },
+        "gold_point": {
+          "basic_gift_gp": "0",
+          "basic_gift_rate": "0",
+          "consume_gp": "0",
+          "extra_gold_points": [],
+          "gift_gp": "0",
+          "gift_rate": "0"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "53I5EBwecmaewKU9GMhazh"
+      },
+      "region": "taiwan",
+      "title": "In Love with My First Victim",
+      "nsuid": "70010000141227",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "releaseDatePackage": null,
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
+      "releaseDateUndecided": null,
+      "newReleaserHide": null,
+      "releaseScheduleHide": null,
+      "nintendoSoft": null,
+      "softCode": "bywsa",
       "hardwareCategory": "Nintendo Switch",
       "category": [
         "下載版"
@@ -7522,23 +7765,23 @@
         "tags": []
       },
       "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000141189ea1ff969d88b11f1b285277d9a6d7eac/9ea33daac526bb2ffb33af27047c8b37/f43f3375e07d9ecd57e8c06f500ca72d4551012e668c9d5944b4f064c7131963.jpg?w=400&fm=webp",
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000141227352f3f2cd30c11f1989f7b0b2de30087/4b9e5e68be3d73835e9050fec3bea346/bf1a8983a4a7d38e8f0cd227715ed7366f474b20e25e17cab13914f686353b92.jpg?w=400&fm=webp",
         "description": null
       },
       "price": {
-        "title_id": 70010000141189,
+        "title_id": 70010000141227,
         "sales_status": "onsale",
         "regular_price": {
-          "amount": "TWD 899",
+          "amount": "TWD 890",
           "currency": "TWD",
-          "raw_value": "899"
+          "raw_value": "890"
         },
         "discount_price": {
-          "amount": "TWD 359",
+          "amount": "TWD 356",
           "currency": "TWD",
-          "raw_value": "359",
-          "start_datetime": "2026-11-04T16:00:00Z",
-          "end_datetime": "2027-01-03T15:59:59Z"
+          "raw_value": "356",
+          "start_datetime": "2026-10-28T16:00:00Z",
+          "end_datetime": "2026-12-27T15:59:59Z"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -7552,19 +7795,19 @@
     },
     {
       "sys": {
-        "id": "5JBzGIoFuEXLf0d3UllDNQ"
+        "id": "3fBPaOr37IZwmO9YxJb8dr"
       },
       "region": "taiwan",
-      "title": "Clea 2",
-      "nsuid": "70010000040048",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
+      "title": "Schoolboy Escape 2: Granny House",
+      "nsuid": "70010000137527",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
       "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
       "releaseDateUndecided": null,
       "newReleaserHide": null,
       "releaseScheduleHide": null,
       "nintendoSoft": null,
-      "softCode": "a3f6a",
+      "softCode": "bx76a",
       "hardwareCategory": "Nintendo Switch",
       "category": [
         "下載版"
@@ -7572,7 +7815,384 @@
       "highlightGame": null,
       "pageLink": "リンクなし",
       "pageLinkCustom": null,
-      "publisher": "Sekai Games",
+      "publisher": "PRIME",
+      "developer": null,
+      "rating": "0（taiwan）",
+      "supportedLanguages": [
+        "Dutch",
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Japanese",
+        "Korean",
+        "Portuguese",
+        "Russian",
+        "Spanish",
+        "Traditional Chinese"
+      ],
+      "salesFormat": "タイトル",
+      "softwarePortal": null,
+      "contentfulMetadata": {
+        "tags": []
+      },
+      "imageHero": {
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000137527bc572702d30b11f1a11f932e58aeb6b7/bc8a619d7dc9b407e64d208cf48cfc45/5ba37aa6f97515a0d5ad748c8759805ec01bb805a3cb738ebd66b97b7005b6b1.jpg?w=400&fm=webp",
+        "description": null
+      },
+      "price": {
+        "title_id": 70010000137527,
+        "sales_status": "onsale",
+        "regular_price": {
+          "amount": "TWD 320",
+          "currency": "TWD",
+          "raw_value": "320"
+        },
+        "gold_point": {
+          "basic_gift_gp": "0",
+          "basic_gift_rate": "0",
+          "consume_gp": "0",
+          "extra_gold_points": [],
+          "gift_gp": "0",
+          "gift_rate": "0"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5ucfrP73F1tAEEY45CHAY9"
+      },
+      "region": "taiwan",
+      "title": "Apache Heli Strike: Desert Gunship Air Warfare",
+      "nsuid": "70010000139235",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "releaseDatePackage": null,
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
+      "releaseDateUndecided": null,
+      "newReleaserHide": null,
+      "releaseScheduleHide": null,
+      "nintendoSoft": null,
+      "softCode": "bygaa",
+      "hardwareCategory": "Nintendo Switch",
+      "category": [
+        "下載版"
+      ],
+      "highlightGame": null,
+      "pageLink": "リンクなし",
+      "pageLinkCustom": null,
+      "publisher": "PRIME",
+      "developer": null,
+      "rating": "12（taiwan）",
+      "supportedLanguages": [
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Japanese",
+        "Korean",
+        "Portuguese",
+        "Russian",
+        "Spanish",
+        "Traditional Chinese"
+      ],
+      "salesFormat": "タイトル",
+      "softwarePortal": null,
+      "contentfulMetadata": {
+        "tags": []
+      },
+      "imageHero": {
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000139235300d43c7d30c11f1a606133a6649aa3a/f610060c1846ffda8f6a9205e28c4da2/12ff067666c699759756e0bd7fa004c036049d4465b1feb9ba877fd4ddecb6ca.jpg?w=400&fm=webp",
+        "description": null
+      },
+      "price": {
+        "title_id": 70010000139235,
+        "sales_status": "onsale",
+        "regular_price": {
+          "amount": "TWD 480",
+          "currency": "TWD",
+          "raw_value": "480"
+        },
+        "gold_point": {
+          "basic_gift_gp": "0",
+          "basic_gift_rate": "0",
+          "consume_gp": "0",
+          "extra_gold_points": [],
+          "gift_gp": "0",
+          "gift_rate": "0"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4hLZaOzQean75Byxug0vVw"
+      },
+      "region": "taiwan",
+      "title": "戰地戰士(Warfighter)",
+      "nsuid": "70010000128995",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "releaseDatePackage": null,
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
+      "releaseDateUndecided": null,
+      "newReleaserHide": null,
+      "releaseScheduleHide": null,
+      "nintendoSoft": null,
+      "softCode": "bwnba",
+      "hardwareCategory": "Nintendo Switch",
+      "category": [
+        "下載版"
+      ],
+      "highlightGame": null,
+      "pageLink": "リンクなし",
+      "pageLinkCustom": null,
+      "publisher": "FORZA GAMES",
+      "developer": null,
+      "rating": "15（taiwan）",
+      "supportedLanguages": [
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Japanese",
+        "Korean",
+        "Simplified Chinese",
+        "Spanish",
+        "Traditional Chinese"
+      ],
+      "salesFormat": "タイトル",
+      "softwarePortal": null,
+      "contentfulMetadata": {
+        "tags": []
+      },
+      "imageHero": {
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000128995aa059064d30b11f18b5c932e58aeb6b7/78e9a84d08023ea27950e2fb5532e786/61489cfec4c5eb52e3a2d4a6d73eea612e1934def573cebdd3660a2235204aae.jpg?w=400&fm=webp",
+        "description": null
+      },
+      "price": {
+        "title_id": 70010000128995,
+        "sales_status": "onsale",
+        "regular_price": {
+          "amount": "TWD 750",
+          "currency": "TWD",
+          "raw_value": "750"
+        },
+        "gold_point": {
+          "basic_gift_gp": "0",
+          "basic_gift_rate": "0",
+          "consume_gp": "0",
+          "extra_gold_points": [],
+          "gift_gp": "0",
+          "gift_rate": "0"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "J8rd1VB2sdbFwWQrSXZHq"
+      },
+      "region": "taiwan",
+      "title": "提早綻放的黑百合",
+      "nsuid": "70010000133441",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "releaseDatePackage": null,
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
+      "releaseDateUndecided": null,
+      "newReleaserHide": null,
+      "releaseScheduleHide": null,
+      "nintendoSoft": null,
+      "softCode": "bhqha",
+      "hardwareCategory": "Nintendo Switch",
+      "category": [
+        "下載版"
+      ],
+      "highlightGame": null,
+      "pageLink": "リンクなし",
+      "pageLinkCustom": null,
+      "publisher": "1000-REKA",
+      "developer": null,
+      "rating": "15（taiwan）",
+      "supportedLanguages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Simplified Chinese",
+        "Traditional Chinese"
+      ],
+      "salesFormat": "タイトル",
+      "softwarePortal": null,
+      "contentfulMetadata": {
+        "tags": []
+      },
+      "imageHero": {
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000133441a952cbfed30b11f19fdb3539255001b9/efc1b56e299fecff853518ab549db123/9a9827c9aec437d47df62169a3ac2deb4ee4422342aa6cb45c8a1fba5ea9092f.jpg?w=400&fm=webp",
+        "description": null
+      },
+      "price": {
+        "title_id": 70010000133441,
+        "sales_status": "onsale",
+        "regular_price": {
+          "amount": "TWD 701",
+          "currency": "TWD",
+          "raw_value": "701"
+        },
+        "gold_point": {
+          "basic_gift_gp": "0",
+          "basic_gift_rate": "0",
+          "consume_gp": "0",
+          "extra_gold_points": [],
+          "gift_gp": "0",
+          "gift_rate": "0"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6WKXZMmMY8N01ZtjfrN2xF"
+      },
+      "region": "taiwan",
+      "title": "Arcade Archives PREHISTORIC ISLE",
+      "nsuid": "70010000127602",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "releaseDatePackage": null,
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
+      "releaseDateUndecided": null,
+      "newReleaserHide": null,
+      "releaseScheduleHide": null,
+      "nintendoSoft": null,
+      "softCode": "bweua",
+      "hardwareCategory": "Nintendo Switch",
+      "category": [
+        "下載版"
+      ],
+      "highlightGame": null,
+      "pageLink": "リンクなし",
+      "pageLinkCustom": null,
+      "publisher": "HAMSTER",
+      "developer": null,
+      "rating": "12（taiwan）",
+      "supportedLanguages": [
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Japanese",
+        "Spanish"
+      ],
+      "salesFormat": "タイトル",
+      "softwarePortal": null,
+      "contentfulMetadata": {
+        "tags": []
+      },
+      "imageHero": {
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000127602a1d875ecd30b11f1a0bb3539255001b9/80cdcef863eee3d0af1e37f494e7fc03/c445b4b8ca8b1f5450898b7ce0e3acadfc5398c5c73dc7e982fcee76dec6c74b.jpg?w=400&fm=webp",
+        "description": null
+      },
+      "price": {
+        "title_id": 70010000127602,
+        "sales_status": "onsale",
+        "regular_price": {
+          "amount": "TWD 277",
+          "currency": "TWD",
+          "raw_value": "277"
+        },
+        "gold_point": {
+          "basic_gift_gp": "0",
+          "basic_gift_rate": "0",
+          "consume_gp": "0",
+          "extra_gold_points": [],
+          "gift_gp": "0",
+          "gift_rate": "0"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2fmdldlW5DZhnMbRi0CxM7"
+      },
+      "region": "taiwan",
+      "title": "White Box Quiz",
+      "nsuid": "70010000140946",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "releaseDatePackage": null,
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
+      "releaseDateUndecided": null,
+      "newReleaserHide": null,
+      "releaseScheduleHide": null,
+      "nintendoSoft": null,
+      "softCode": "ajala",
+      "hardwareCategory": "Nintendo Switch",
+      "category": [
+        "下載版"
+      ],
+      "highlightGame": null,
+      "pageLink": "リンクなし",
+      "pageLinkCustom": null,
+      "publisher": "Joindots",
+      "developer": null,
+      "rating": "0（taiwan）",
+      "supportedLanguages": [
+        "English",
+        "French",
+        "German",
+        "Italian",
+        "Spanish"
+      ],
+      "salesFormat": "タイトル",
+      "softwarePortal": null,
+      "contentfulMetadata": {
+        "tags": []
+      },
+      "imageHero": {
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/700100001409463b493366d30c11f1b45f7b0b2de30087/cb8115729e2e59109919ce1dbfba4497/7a53d8b3f845b2fa3e984f7fa499af78ecb9679f80728086102086b3dc7ed08d.jpg?w=400&fm=webp",
+        "description": null
+      },
+      "price": {
+        "title_id": 70010000140946,
+        "sales_status": "onsale",
+        "regular_price": {
+          "amount": "TWD 890",
+          "currency": "TWD",
+          "raw_value": "890"
+        },
+        "discount_price": {
+          "amount": "TWD 801",
+          "currency": "TWD",
+          "raw_value": "801",
+          "start_datetime": "2026-10-28T16:00:00Z",
+          "end_datetime": "2026-11-18T15:59:59Z"
+        },
+        "gold_point": {
+          "basic_gift_gp": "0",
+          "basic_gift_rate": "0",
+          "consume_gp": "0",
+          "extra_gold_points": [],
+          "gift_gp": "0",
+          "gift_rate": "0"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3tyxhSY6b7FFGKDi6aLIRy"
+      },
+      "region": "taiwan",
+      "title": "Space Rock Breaker",
+      "nsuid": "70010000140028",
+      "releaseDate": "2026-10-29T00:00:00.000Z",
+      "releaseDatePackage": null,
+      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
+      "releaseDateUndecided": null,
+      "newReleaserHide": null,
+      "releaseScheduleHide": null,
+      "nintendoSoft": null,
+      "softCode": "bypqa",
+      "hardwareCategory": "Nintendo Switch",
+      "category": [
+        "下載版"
+      ],
+      "highlightGame": null,
+      "pageLink": "リンクなし",
+      "pageLinkCustom": null,
+      "publisher": "Games Harbor",
       "developer": null,
       "rating": "15（taiwan）",
       "supportedLanguages": [
@@ -7594,404 +8214,16 @@
         "tags": []
       },
       "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000040048586ac4ccd88b11f1be43cd4a2f3369bd/4f8717edbca63b3539cb4f7d09177ab6/d75fb24e5fd485efb49c1452e2129840ae76b9fe1805cd4df37f488bc24e6c45.jpg?w=400&fm=webp",
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/7001000014002890de6359d30c11f1a2f87b0b2de30087/1274380f385c872fa987b0ffeb39e2c1/dd6fa0f61a026a67fb03207d8e7d38cd817b5fdaec55368d48b2371b07057609.jpg?w=400&fm=webp",
         "description": null
       },
       "price": {
-        "title_id": 70010000040048,
+        "title_id": 70010000140028,
         "sales_status": "onsale",
         "regular_price": {
-          "amount": "TWD 400",
+          "amount": "TWD 190",
           "currency": "TWD",
-          "raw_value": "400"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "t07DJeYV2WpRxFG7Z6IfQ"
-      },
-      "region": "taiwan",
-      "title": "Godzilla: Destroy All Monsters Melee Remastered",
-      "nsuid": "70010000116346",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bt8qa",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "Atari",
-      "developer": null,
-      "rating": "12（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "French",
-        "German",
-        "Italian",
-        "Japanese",
-        "Korean",
-        "Simplified Chinese",
-        "Spanish",
-        "Traditional Chinese"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/700100001163469cc24aaad88b11f1abe9cd4a2f3369bd/32f1071d96965bf6ec924df4e3bedc76/ae95e0f4075c88c6926d2730f58ba5bede755463375f65a95020857735d3af12.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000116346,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 561",
-          "currency": "TWD",
-          "raw_value": "561"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "4x84uw6Wugwg21BJzGp9yo"
-      },
-      "region": "taiwan",
-      "title": "菜市場模擬器：美食滿屋",
-      "nsuid": "70010000139796",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bydxa",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "ALCEDO GAMES",
-      "developer": null,
-      "rating": "15（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "Japanese",
-        "Korean",
-        "Simplified Chinese",
-        "Traditional Chinese"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000139796bdeab9c4d88b11f1b60687d557137676/7c8279d5839cb9483017ef9aa801ea16/e6a303b8271378c5a3545e9f19a6edf6ee391833534085bb2a76762373dea2f7.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000139796,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 151",
-          "currency": "TWD",
-          "raw_value": "151"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "2G5BKrLolZA0wMjXty8cHo"
-      },
-      "region": "taiwan",
-      "title": "崩落之國 (Where the Seeds Fall)",
-      "nsuid": "70010000129704",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "acgza",
-      "hardwareCategory": "Nintendo Switch 2",
-      "category": [
-        "下載版",
-        "體驗版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "Cygames",
-      "developer": null,
-      "rating": "12（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "Japanese",
-        "Korean",
-        "Simplified Chinese",
-        "Traditional Chinese"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/7001000012970443a71781d88c11f18590d395d6c5bc35/863a764d2aa813bc9f7270bf56e180a3/bf01304aa2af91530c0be4682b4b2378cd8336807fdd8274d7a4463574c1c00a.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000129704,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 198",
-          "currency": "TWD",
-          "raw_value": "198"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "2AELF1CNtr2rO3GOsSmHiO"
-      },
-      "region": "taiwan",
-      "title": "Needle In A Haystack 2026",
-      "nsuid": "70010000141021",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "byvqa",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "DEV 666",
-      "developer": null,
-      "rating": "0（taiwan）",
-      "supportedLanguages": [
-        "English"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000141021db88b627d88b11f18faacd4a2f3369bd/aebf57bda814ae81d45b6400e8ec65c6/dea29a268899f5e9f80ef4f5fa3d422fa67afbc8aa3ee93be8d7bce58af0f48d.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000141021,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 199",
-          "currency": "TWD",
-          "raw_value": "199"
-        },
-        "discount_price": {
-          "amount": "TWD 129",
-          "currency": "TWD",
-          "raw_value": "129",
-          "start_datetime": "2026-11-04T16:00:00Z",
-          "end_datetime": "2026-11-19T15:59:59Z"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "4myTi6fbiO4fYbQhLO5SoA"
-      },
-      "region": "taiwan",
-      "title": "Faraway",
-      "nsuid": "70010000099313",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bqmda",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "Annapurna Interactive",
-      "developer": null,
-      "rating": "0（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "French",
-        "German",
-        "Italian",
-        "Japanese",
-        "Korean",
-        "Portuguese",
-        "Russian",
-        "Simplified Chinese",
-        "Spanish",
-        "Traditional Chinese"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000099313438bfe90ce5411f1b1eee92a40a0edc1/1a862c203c224db224457d20fd317e05/d703f69bf8c7362c245dcd9c9885084123b270fee0eca1bc9184dcc88bcf2ba3.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000099313,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 199",
-          "currency": "TWD",
-          "raw_value": "199"
-        },
-        "discount_price": {
-          "amount": "TWD 159",
-          "currency": "TWD",
-          "raw_value": "159",
-          "start_datetime": "2026-11-05T14:00:00Z",
-          "end_datetime": "2026-11-19T15:59:59Z"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "57cHHRQWRx3c9QqDksbpyF"
-      },
-      "region": "taiwan",
-      "title": "Faraway",
-      "nsuid": "70010000131184",
-      "releaseDate": "2026-11-05T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "acqba",
-      "hardwareCategory": "Nintendo Switch 2",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "Annapurna Interactive",
-      "developer": null,
-      "rating": "0（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "French",
-        "German",
-        "Italian",
-        "Japanese",
-        "Korean",
-        "Portuguese",
-        "Russian",
-        "Simplified Chinese",
-        "Spanish",
-        "Traditional Chinese"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000131184edb26a6bce5411f19ebc67389ee1d11a/14bb9e94619054d6aaab6bec9b26fc35/d703f69bf8c7362c245dcd9c9885084123b270fee0eca1bc9184dcc88bcf2ba3.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000131184,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 199",
-          "currency": "TWD",
-          "raw_value": "199"
-        },
-        "discount_price": {
-          "amount": "TWD 159",
-          "currency": "TWD",
-          "raw_value": "159",
-          "start_datetime": "2026-11-05T14:00:00Z",
-          "end_datetime": "2026-11-19T15:59:59Z"
+          "raw_value": "190"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -8477,6 +8709,180 @@
           "raw_value": "111",
           "start_datetime": "2026-11-04T16:00:00Z",
           "end_datetime": "2026-11-19T15:59:59Z"
+        },
+        "gold_point": {
+          "basic_gift_gp": "0",
+          "basic_gift_rate": "0",
+          "consume_gp": "0",
+          "extra_gold_points": [],
+          "gift_gp": "0",
+          "gift_rate": "0"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1ZSYMgd9o0G9q3D7Vb6dB4"
+      },
+      "region": "taiwan",
+      "title": "寶石工坊",
+      "nsuid": "70010000125364",
+      "releaseDate": "2026-11-05T00:00:00.000Z",
+      "releaseDatePackage": null,
+      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
+      "releaseDateUndecided": null,
+      "newReleaserHide": null,
+      "releaseScheduleHide": null,
+      "nintendoSoft": null,
+      "softCode": "bvz6a",
+      "hardwareCategory": "Nintendo Switch",
+      "category": [
+        "下載版"
+      ],
+      "highlightGame": null,
+      "pageLink": "リンクなし",
+      "pageLinkCustom": null,
+      "publisher": "Merge Conflict Studio",
+      "developer": null,
+      "rating": "0（taiwan）",
+      "supportedLanguages": [
+        "English",
+        "French",
+        "German",
+        "Japanese",
+        "Korean",
+        "Portuguese",
+        "Russian",
+        "Simplified Chinese",
+        "Spanish",
+        "Traditional Chinese"
+      ],
+      "salesFormat": "タイトル",
+      "softwarePortal": null,
+      "contentfulMetadata": {
+        "tags": []
+      },
+      "imageHero": {
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/7001000012536495aed543d88b11f19e67cd4a2f3369bd/7b596008f24bc5e27c36f5d273a509f3/5bbf5244927ff94df96cf974e4527f038b9a2e33d6086b071d47e2d8892584b0.jpg?w=400&fm=webp",
+        "description": null
+      },
+      "price": {
+        "title_id": 70010000125364,
+        "sales_status": "onsale",
+        "regular_price": {
+          "amount": "TWD 339",
+          "currency": "TWD",
+          "raw_value": "339"
+        },
+        "gold_point": {
+          "basic_gift_gp": "0",
+          "basic_gift_rate": "0",
+          "consume_gp": "0",
+          "extra_gold_points": [],
+          "gift_gp": "0",
+          "gift_rate": "0"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2kF7AWRu8iyjLAWtAbvF2V"
+      },
+      "region": "taiwan",
+      "title": "BACKROOMS TOGETHER: SURVIVAL ESCAPE",
+      "nsuid": "70010000139857",
+      "releaseDate": "2026-11-05T00:00:00.000Z",
+      "releaseDatePackage": null,
+      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
+      "releaseDateUndecided": null,
+      "newReleaserHide": null,
+      "releaseScheduleHide": null,
+      "nintendoSoft": null,
+      "softCode": "byn5a",
+      "hardwareCategory": "Nintendo Switch",
+      "category": [
+        "下載版"
+      ],
+      "highlightGame": null,
+      "pageLink": "リンクなし",
+      "pageLinkCustom": null,
+      "publisher": "Ethan FRoom",
+      "developer": null,
+      "rating": "18（taiwan）",
+      "supportedLanguages": [
+        "English"
+      ],
+      "salesFormat": "タイトル",
+      "softwarePortal": null,
+      "contentfulMetadata": {
+        "tags": []
+      },
+      "imageHero": {
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/7001000013985725e5e275d88c11f1afcfcf036e6a224c/108fdcc5bd63ed649974ee01a16c3c38/071569c24c102cab61b96ecb30513f53c6d8cfe92b27935d323e285e57b28f08.jpg?w=400&fm=webp",
+        "description": null
+      },
+      "price": {
+        "title_id": 70010000139857,
+        "sales_status": "onsale",
+        "regular_price": {
+          "amount": "TWD 329",
+          "currency": "TWD",
+          "raw_value": "329"
+        },
+        "gold_point": {
+          "basic_gift_gp": "0",
+          "basic_gift_rate": "0",
+          "consume_gp": "0",
+          "extra_gold_points": [],
+          "gift_gp": "0",
+          "gift_rate": "0"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4NTxrVO4U2ULsG2xJmwe7m"
+      },
+      "region": "taiwan",
+      "title": "Hide & Hue",
+      "nsuid": "70010000139042",
+      "releaseDate": "2026-11-05T00:00:00.000Z",
+      "releaseDatePackage": null,
+      "releaseDateDownload": "2026-11-05T00:00:00.000Z",
+      "releaseDateUndecided": null,
+      "newReleaserHide": null,
+      "releaseScheduleHide": null,
+      "nintendoSoft": null,
+      "softCode": "byh2a",
+      "hardwareCategory": "Nintendo Switch",
+      "category": [
+        "下載版"
+      ],
+      "highlightGame": null,
+      "pageLink": "リンクなし",
+      "pageLinkCustom": null,
+      "publisher": "RandomSpin Games",
+      "developer": null,
+      "rating": "0（taiwan）",
+      "supportedLanguages": [
+        "English"
+      ],
+      "salesFormat": "タイトル",
+      "softwarePortal": null,
+      "contentfulMetadata": {
+        "tags": []
+      },
+      "imageHero": {
+        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000139042d2237339c80b11f1be425127b5a72b42/5ca76a4627e0f52c11235b61ada4f26a/c5acb07fbb1e16306ff38494173aef89f72c056a0f2c9c47ebffe6c4404f1b01.jpg?w=400&fm=webp",
+        "description": null
+      },
+      "price": {
+        "title_id": 70010000139042,
+        "sales_status": "onsale",
+        "regular_price": {
+          "amount": "TWD 160",
+          "currency": "TWD",
+          "raw_value": "160"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -9046,754 +9452,6 @@
           "raw_value": "151",
           "start_datetime": "2026-10-29T17:00:00Z",
           "end_datetime": "2026-11-12T15:59:59Z"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "1ozwuWsfun0cESb4fpsfUg"
-      },
-      "region": "taiwan",
-      "title": "Retro Video Store Simulator",
-      "nsuid": "70010000131932",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bw7xa",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "Burgeq Media Games",
-      "developer": null,
-      "rating": "0（taiwan）",
-      "supportedLanguages": [
-        "English"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000131932625354e4d30b11f1a022932e58aeb6b7/652e9c4757e8d0082eb6fde30e700663/0626e5df742085b61020b014d92050d8c01b2ace885f7a046b0f40f5b6a6758c.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000131932,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 319",
-          "currency": "TWD",
-          "raw_value": "319"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "2m7RTzRZcRUb8LAQO4ab9P"
-      },
-      "region": "taiwan",
-      "title": "Love Love Mystery Club",
-      "nsuid": "70010000138723",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bxpqb",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "COSEN",
-      "developer": null,
-      "rating": "12（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "French",
-        "Italian",
-        "Japanese",
-        "Portuguese",
-        "Simplified Chinese",
-        "Spanish",
-        "Traditional Chinese"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000138723e31896c9d30b11f190e9932e58aeb6b7/867b76579967d6ca507cf52b36de10ef/0bf08608d2ecc71691dd4e88acb42738e4cf0952a808db0b161420e66184a0d5.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000138723,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 638",
-          "currency": "TWD",
-          "raw_value": "638"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "7M6quf7TdP4tUVXu7u4eDH"
-      },
-      "region": "taiwan",
-      "title": "SUPER ARROW SHOT",
-      "nsuid": "70010000131461",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bw45a",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "St Pow Games",
-      "developer": null,
-      "rating": "12（taiwan）",
-      "supportedLanguages": [
-        "English"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/700100001314611a9f2dced30c11f19c2f7b0b2de30087/7bf6070fe66fa17fb11a5b538f8f1507/56b9bc4294d01255f8a54f43ad5db5554e5bf75570f19c49aa531b6777f5da18.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000131461,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 159",
-          "currency": "TWD",
-          "raw_value": "159"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "2kRFxKJh1UNZ86jxYFoRKR"
-      },
-      "region": "taiwan",
-      "title": "異世界公主: 怪獸圍攻行動(Isekai Princess: Monster Siege)",
-      "nsuid": "70010000136074",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bxxya",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "TROOOZE",
-      "developer": null,
-      "rating": "18（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "French",
-        "German",
-        "Italian",
-        "Japanese",
-        "Korean",
-        "Simplified Chinese",
-        "Spanish",
-        "Traditional Chinese"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000136074dc9f44bcd30b11f18fff932e58aeb6b7/11a9d101a7775fa7887a04e59589b5ef/821fe00f8442fc18b92b9ad4d11ed5257b71b8e4cba72cf599110fba71dd9f09.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000136074,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 490",
-          "currency": "TWD",
-          "raw_value": "490"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "53I5EBwecmaewKU9GMhazh"
-      },
-      "region": "taiwan",
-      "title": "In Love with My First Victim",
-      "nsuid": "70010000141227",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bywsa",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "Lunaria Games",
-      "developer": null,
-      "rating": "15（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "French",
-        "German",
-        "Japanese",
-        "Korean",
-        "Portuguese",
-        "Russian",
-        "Simplified Chinese",
-        "Spanish",
-        "Traditional Chinese"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000141227352f3f2cd30c11f1989f7b0b2de30087/4b9e5e68be3d73835e9050fec3bea346/bf1a8983a4a7d38e8f0cd227715ed7366f474b20e25e17cab13914f686353b92.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000141227,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 890",
-          "currency": "TWD",
-          "raw_value": "890"
-        },
-        "discount_price": {
-          "amount": "TWD 356",
-          "currency": "TWD",
-          "raw_value": "356",
-          "start_datetime": "2026-10-28T16:00:00Z",
-          "end_datetime": "2026-12-27T15:59:59Z"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "3fBPaOr37IZwmO9YxJb8dr"
-      },
-      "region": "taiwan",
-      "title": "Schoolboy Escape 2: Granny House",
-      "nsuid": "70010000137527",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bx76a",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "PRIME",
-      "developer": null,
-      "rating": "0（taiwan）",
-      "supportedLanguages": [
-        "Dutch",
-        "English",
-        "French",
-        "German",
-        "Italian",
-        "Japanese",
-        "Korean",
-        "Portuguese",
-        "Russian",
-        "Spanish",
-        "Traditional Chinese"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000137527bc572702d30b11f1a11f932e58aeb6b7/bc8a619d7dc9b407e64d208cf48cfc45/5ba37aa6f97515a0d5ad748c8759805ec01bb805a3cb738ebd66b97b7005b6b1.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000137527,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 320",
-          "currency": "TWD",
-          "raw_value": "320"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "5ucfrP73F1tAEEY45CHAY9"
-      },
-      "region": "taiwan",
-      "title": "Apache Heli Strike: Desert Gunship Air Warfare",
-      "nsuid": "70010000139235",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bygaa",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "PRIME",
-      "developer": null,
-      "rating": "12（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "French",
-        "German",
-        "Italian",
-        "Japanese",
-        "Korean",
-        "Portuguese",
-        "Russian",
-        "Spanish",
-        "Traditional Chinese"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000139235300d43c7d30c11f1a606133a6649aa3a/f610060c1846ffda8f6a9205e28c4da2/12ff067666c699759756e0bd7fa004c036049d4465b1feb9ba877fd4ddecb6ca.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000139235,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 480",
-          "currency": "TWD",
-          "raw_value": "480"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "4hLZaOzQean75Byxug0vVw"
-      },
-      "region": "taiwan",
-      "title": "戰地戰士(Warfighter)",
-      "nsuid": "70010000128995",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bwnba",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "FORZA GAMES",
-      "developer": null,
-      "rating": "15（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "French",
-        "German",
-        "Italian",
-        "Japanese",
-        "Korean",
-        "Simplified Chinese",
-        "Spanish",
-        "Traditional Chinese"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000128995aa059064d30b11f18b5c932e58aeb6b7/78e9a84d08023ea27950e2fb5532e786/61489cfec4c5eb52e3a2d4a6d73eea612e1934def573cebdd3660a2235204aae.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000128995,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 750",
-          "currency": "TWD",
-          "raw_value": "750"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "J8rd1VB2sdbFwWQrSXZHq"
-      },
-      "region": "taiwan",
-      "title": "提早綻放的黑百合",
-      "nsuid": "70010000133441",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bhqha",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "1000-REKA",
-      "developer": null,
-      "rating": "15（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "Japanese",
-        "Korean",
-        "Simplified Chinese",
-        "Traditional Chinese"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000133441a952cbfed30b11f19fdb3539255001b9/efc1b56e299fecff853518ab549db123/9a9827c9aec437d47df62169a3ac2deb4ee4422342aa6cb45c8a1fba5ea9092f.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000133441,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 701",
-          "currency": "TWD",
-          "raw_value": "701"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "6WKXZMmMY8N01ZtjfrN2xF"
-      },
-      "region": "taiwan",
-      "title": "Arcade Archives PREHISTORIC ISLE",
-      "nsuid": "70010000127602",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bweua",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "HAMSTER",
-      "developer": null,
-      "rating": "12（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "French",
-        "German",
-        "Italian",
-        "Japanese",
-        "Spanish"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000127602a1d875ecd30b11f1a0bb3539255001b9/80cdcef863eee3d0af1e37f494e7fc03/c445b4b8ca8b1f5450898b7ce0e3acadfc5398c5c73dc7e982fcee76dec6c74b.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000127602,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 277",
-          "currency": "TWD",
-          "raw_value": "277"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "2fmdldlW5DZhnMbRi0CxM7"
-      },
-      "region": "taiwan",
-      "title": "White Box Quiz",
-      "nsuid": "70010000140946",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "ajala",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "Joindots",
-      "developer": null,
-      "rating": "0（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "French",
-        "German",
-        "Italian",
-        "Spanish"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/700100001409463b493366d30c11f1b45f7b0b2de30087/cb8115729e2e59109919ce1dbfba4497/7a53d8b3f845b2fa3e984f7fa499af78ecb9679f80728086102086b3dc7ed08d.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000140946,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 890",
-          "currency": "TWD",
-          "raw_value": "890"
-        },
-        "discount_price": {
-          "amount": "TWD 801",
-          "currency": "TWD",
-          "raw_value": "801",
-          "start_datetime": "2026-10-28T16:00:00Z",
-          "end_datetime": "2026-11-18T15:59:59Z"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "3tyxhSY6b7FFGKDi6aLIRy"
-      },
-      "region": "taiwan",
-      "title": "Space Rock Breaker",
-      "nsuid": "70010000140028",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bypqa",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "Games Harbor",
-      "developer": null,
-      "rating": "15（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "French",
-        "German",
-        "Italian",
-        "Japanese",
-        "Korean",
-        "Portuguese",
-        "Russian",
-        "Simplified Chinese",
-        "Spanish",
-        "Traditional Chinese"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/7001000014002890de6359d30c11f1a2f87b0b2de30087/1274380f385c872fa987b0ffeb39e2c1/dd6fa0f61a026a67fb03207d8e7d38cd817b5fdaec55368d48b2371b07057609.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000140028,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 190",
-          "currency": "TWD",
-          "raw_value": "190"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -10968,70 +10626,6 @@
     },
     {
       "sys": {
-        "id": "3QvKNk0bRIwFWiu7jfWHcv"
-      },
-      "region": "taiwan",
-      "title": "Bella Umbrella and the mysterious garden",
-      "nsuid": "70010000137182",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bjrwa",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "Michael Wührer",
-      "developer": null,
-      "rating": "0（taiwan）",
-      "supportedLanguages": [
-        "Dutch",
-        "English",
-        "French",
-        "German",
-        "Italian",
-        "Japanese",
-        "Korean",
-        "Portuguese",
-        "Russian",
-        "Spanish"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000137182cba30fc0c80b11f1b93d834ddef0f812/783b82e09a92b23ce224a5e5b7a12415/cfc23ad606a1fcf2907a79d8a29cf0610a34826a18e7c2ea7abc35f00240ea93.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000137182,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 730",
-          "currency": "TWD",
-          "raw_value": "730"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
         "id": "7lw6D0vBqqxyIH03dXMKmp"
       },
       "region": "taiwan",
@@ -11083,76 +10677,6 @@
           "amount": "TWD 588",
           "currency": "TWD",
           "raw_value": "588"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "2bDCrhB5IkqyIYQgE8Bpwc"
-      },
-      "region": "taiwan",
-      "title": "Fallen City Brawl",
-      "nsuid": "70010000045847",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "a6c6a",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "eastasiasoft",
-      "developer": null,
-      "rating": "15（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "French",
-        "German",
-        "Japanese",
-        "Korean",
-        "Portuguese",
-        "Simplified Chinese",
-        "Spanish",
-        "Traditional Chinese"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000045847d200c3f0c80a11f192c65127b5a72b42/de2c8edb394b19c435f6969468d333de/512441eec258aa5d395361a8a3f5baa9dca229690a712dbaa03e4174a81ca620.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000045847,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 478",
-          "currency": "TWD",
-          "raw_value": "478"
-        },
-        "discount_price": {
-          "amount": "TWD 430",
-          "currency": "TWD",
-          "raw_value": "430",
-          "start_datetime": "2026-10-28T16:00:00Z",
-          "end_datetime": "2026-11-18T15:59:59Z"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -11218,594 +10742,6 @@
           "raw_value": "88",
           "start_datetime": "2026-10-28T16:00:00Z",
           "end_datetime": "2026-11-22T15:59:59Z"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "3DlEFk0vP46gdsUuy7HYXJ"
-      },
-      "region": "taiwan",
-      "title": " Top Down Rally Racing",
-      "nsuid": "70010000138531",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "byena",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "Pix Arts",
-      "developer": null,
-      "rating": "6（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "French"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/700100001385319a0ab5e8cd8b11f18793e7f90837ec85/430b9c73b07747e014c8b180b049643e/5879b096de4e35c43ff8a858973c49b882395895a230b1f0362e9f4158e78fe3.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000138531,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 349",
-          "currency": "TWD",
-          "raw_value": "349"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "30kwh87TK2y7m7nFnvG5bY"
-      },
-      "region": "taiwan",
-      "title": "MeowPower! Yachiyo",
-      "nsuid": "70010000126793",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bwaaa",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "Waku Waku Games",
-      "developer": null,
-      "rating": "15（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "Japanese",
-        "Simplified Chinese",
-        "Traditional Chinese"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/7001000012679344f22407c80b11f1a27de321474831f8/56e182b8127d75f30427a3b1ca019ccc/e5e3db9fd40f50e5d35c122252c96701dd493f64f8ef4822f2b7a5d85e0b6d10.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000126793,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 238",
-          "currency": "TWD",
-          "raw_value": "238"
-        },
-        "discount_price": {
-          "amount": "TWD 190",
-          "currency": "TWD",
-          "raw_value": "190",
-          "start_datetime": "2026-10-28T16:00:00Z",
-          "end_datetime": "2026-11-11T15:59:59Z"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "1Vierc2Euu8GbgpFeUxSaj"
-      },
-      "region": "taiwan",
-      "title": "解謎之扉 — 犯罪現場點擊推理 —",
-      "nsuid": "70010000137189",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bx6aa",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "TT",
-      "developer": null,
-      "rating": "18（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "Japanese",
-        "Korean",
-        "Traditional Chinese"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000137189e75bf66acd8b11f18523bd417bbc80f7/969d725d1e27f8b2135d18c74dd9eb54/3dc5aab90bef18ad5369e849405951c8512327249ec2e0436e8ab32fee14041c.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000137189,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 110",
-          "currency": "TWD",
-          "raw_value": "110"
-        },
-        "discount_price": {
-          "amount": "TWD 88",
-          "currency": "TWD",
-          "raw_value": "88",
-          "start_datetime": "2026-10-28T16:00:00Z",
-          "end_datetime": "2026-11-22T15:59:59Z"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "5gXigd35n1zPlolFks810X"
-      },
-      "region": "taiwan",
-      "title": "Derby.io",
-      "nsuid": "70010000138295",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "byc3a",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "Entity3",
-      "developer": null,
-      "rating": "12（taiwan）",
-      "supportedLanguages": [
-        "English"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000138295ca467272d30b11f19650cf7d36919f42/79c6f66db87e31b0d31f3d37f3e04f49/7fba7218023e7729c5428f23a126d95e85792d0c68553ccb1ce7eee4e65c5e0e.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000138295,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 30",
-          "currency": "TWD",
-          "raw_value": "30"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "6nr2mKU3JnnZuIXxQLdpO3"
-      },
-      "region": "taiwan",
-      "title": "一隻奇怪的長頸鹿的奇怪跳躍 (The Strange Giraffe's Strange Jump)",
-      "nsuid": "70010000139282",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "byj9a",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "tarakyoZGamesDevelopmentLab",
-      "developer": null,
-      "rating": "0（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "Japanese"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/700100001392821d120caed30c11f1bd7f3539255001b9/5fb037e966754cd5648cf9c85d2b0064/672eac3429a306fd8fda0d11b94c85e9c237cd9c7c2cec5df350ca662eb01744.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000139282,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 130",
-          "currency": "TWD",
-          "raw_value": "130"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "7nrH4Uq8ZGwUIkfv98IeZv"
-      },
-      "region": "taiwan",
-      "title": "Hundred Fires: OPEN VECTOR -Episode 1-",
-      "nsuid": "70010000138526",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "byeka",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "David Amado Fernández",
-      "developer": null,
-      "rating": "15（taiwan）",
-      "supportedLanguages": [
-        "Dutch",
-        "English",
-        "French",
-        "Italian",
-        "Japanese",
-        "Spanish"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/700100001385262221c1a9d30c11f193797b0b2de30087/04baefb6f7e8924e938b608909f6be7d/857d51f944d2d1d4d7950a0e695b536a74c78bc78e68b25a8b37bb53fc304abf.jpeg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000138526,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 219",
-          "currency": "TWD",
-          "raw_value": "219"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "6DpnpYdcd9Bz6L0biC6cOU"
-      },
-      "region": "taiwan",
-      "title": "Puzzle X: Premium Girls",
-      "nsuid": "70010000135582",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bxuya",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "17Studio",
-      "developer": null,
-      "rating": "15（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "Japanese",
-        "Russian"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000135582add31e7cd30b11f18b4447b5bfab7354/475fb381b28ded099776db2b4666dff3/beb36eff5875c08351cb4c80f7d260b35737c3e3f63f54ba7d3ac6c7985578e3.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000135582,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 30",
-          "currency": "TWD",
-          "raw_value": "30"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "74E2Q4nDIsB6ALTuGBJeO6"
-      },
-      "region": "taiwan",
-      "title": "Number Logic",
-      "nsuid": "70010000139553",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bymba",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "Eathrabaria",
-      "developer": null,
-      "rating": "0（taiwan）",
-      "supportedLanguages": [
-        "English"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000139553d8caa1abd30b11f1aa733539255001b9/7408725eb0907fe21cbc2b829c2b7835/edd6858225458790bf0d09170d751bbcd584711f08273ff38a9cd3366a057250.jpeg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000139553,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 158",
-          "currency": "TWD",
-          "raw_value": "158"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "tC87KMXU0u9V1BKGhGZmZ"
-      },
-      "region": "taiwan",
-      "title": "Parking Quest",
-      "nsuid": "70010000139612",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bymla",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "Eathrabaria",
-      "developer": null,
-      "rating": "0（taiwan）",
-      "supportedLanguages": [
-        "English"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/70010000139612f585e571d30b11f1adee7b0b2de30087/06e7e4a4c9a0332cc5137503909a2afe/4dfdd83255a2852427dac9d9ec7818ada2fd21242079ac59852e350d059b8145.jpeg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000139612,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 157",
-          "currency": "TWD",
-          "raw_value": "157"
-        },
-        "gold_point": {
-          "basic_gift_gp": "0",
-          "basic_gift_rate": "0",
-          "consume_gp": "0",
-          "extra_gold_points": [],
-          "gift_gp": "0",
-          "gift_rate": "0"
-        }
-      }
-    },
-    {
-      "sys": {
-        "id": "JiBRK58ag4NsYhKPkbXnY"
-      },
-      "region": "taiwan",
-      "title": "Catgirls: Secret Operation",
-      "nsuid": "70010000137005",
-      "releaseDate": "2026-10-29T00:00:00.000Z",
-      "releaseDatePackage": null,
-      "releaseDateDownload": "2026-10-29T00:00:00.000Z",
-      "releaseDateUndecided": null,
-      "newReleaserHide": null,
-      "releaseScheduleHide": null,
-      "nintendoSoft": null,
-      "softCode": "bx45a",
-      "hardwareCategory": "Nintendo Switch",
-      "category": [
-        "下載版"
-      ],
-      "highlightGame": null,
-      "pageLink": "リンクなし",
-      "pageLinkCustom": null,
-      "publisher": "17Studio",
-      "developer": null,
-      "rating": "15（taiwan）",
-      "supportedLanguages": [
-        "English",
-        "Japanese",
-        "Russian"
-      ],
-      "salesFormat": "タイトル",
-      "softwarePortal": null,
-      "contentfulMetadata": {
-        "tags": []
-      },
-      "imageHero": {
-        "url": "https://images.ctfassets.net/o5v89n4kg6h4/700100001370051ab9556dd30c11f19b48ffc36d673ded/f2b2768f5ff9532d545314fd5e879596/2ab8b19066dc34355acf0028938c1efd4941b213df7f2e422921cebe394db8bb.jpg?w=400&fm=webp",
-        "description": null
-      },
-      "price": {
-        "title_id": 70010000137005,
-        "sales_status": "onsale",
-        "regular_price": {
-          "amount": "TWD 599",
-          "currency": "TWD",
-          "raw_value": "599"
-        },
-        "discount_price": {
-          "amount": "TWD 30",
-          "currency": "TWD",
-          "raw_value": "30",
-          "start_datetime": "2026-10-28T16:00:00Z",
-          "end_datetime": "2026-11-19T15:59:59Z"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -28724,6 +27660,13 @@
           "currency": "TWD",
           "raw_value": "216"
         },
+        "discount_price": {
+          "amount": "TWD 151",
+          "currency": "TWD",
+          "raw_value": "151",
+          "start_datetime": "2026-11-09T16:00:00Z",
+          "end_datetime": "2026-11-16T15:59:59Z"
+        },
         "gold_point": {
           "basic_gift_gp": "0",
           "basic_gift_rate": "0",
@@ -33861,13 +32804,6 @@
           "currency": "TWD",
           "raw_value": "377"
         },
-        "discount_price": {
-          "amount": "TWD 320",
-          "currency": "TWD",
-          "raw_value": "320",
-          "start_datetime": "2026-10-25T16:00:00Z",
-          "end_datetime": "2026-11-09T15:59:59Z"
-        },
         "gold_point": {
           "basic_gift_gp": "0",
           "basic_gift_rate": "0",
@@ -33931,13 +32867,6 @@
           "amount": "TWD 377",
           "currency": "TWD",
           "raw_value": "377"
-        },
-        "discount_price": {
-          "amount": "TWD 320",
-          "currency": "TWD",
-          "raw_value": "320",
-          "start_datetime": "2026-10-25T16:00:00Z",
-          "end_datetime": "2026-11-09T15:59:59Z"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -52688,13 +51617,6 @@
           "currency": "TWD",
           "raw_value": "319"
         },
-        "discount_price": {
-          "amount": "TWD 95",
-          "currency": "TWD",
-          "raw_value": "95",
-          "start_datetime": "2026-10-26T16:00:00Z",
-          "end_datetime": "2026-11-09T15:59:59Z"
-        },
         "gold_point": {
           "basic_gift_gp": "0",
           "basic_gift_rate": "0",
@@ -58684,6 +57606,13 @@
           "amount": "TWD 328",
           "currency": "TWD",
           "raw_value": "328"
+        },
+        "discount_price": {
+          "amount": "TWD 180",
+          "currency": "TWD",
+          "raw_value": "180",
+          "start_datetime": "2026-11-09T16:00:00Z",
+          "end_datetime": "2026-11-17T15:59:59Z"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -66909,6 +65838,13 @@
           "amount": "TWD 419",
           "currency": "TWD",
           "raw_value": "419"
+        },
+        "discount_price": {
+          "amount": "TWD 100",
+          "currency": "TWD",
+          "raw_value": "100",
+          "start_datetime": "2026-11-09T16:00:00Z",
+          "end_datetime": "2026-11-23T15:59:59Z"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -80951,6 +79887,13 @@
           "currency": "TWD",
           "raw_value": "314"
         },
+        "discount_price": {
+          "amount": "TWD 94",
+          "currency": "TWD",
+          "raw_value": "94",
+          "start_datetime": "2026-11-09T16:00:00Z",
+          "end_datetime": "2026-11-23T15:59:59Z"
+        },
         "gold_point": {
           "basic_gift_gp": "0",
           "basic_gift_rate": "0",
@@ -83820,6 +82763,13 @@
           "amount": "TWD 409",
           "currency": "TWD",
           "raw_value": "409"
+        },
+        "discount_price": {
+          "amount": "TWD 98",
+          "currency": "TWD",
+          "raw_value": "98",
+          "start_datetime": "2026-11-09T16:00:00Z",
+          "end_datetime": "2026-11-23T15:59:59Z"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -87671,13 +86621,6 @@
           "amount": "TWD 259",
           "currency": "TWD",
           "raw_value": "259"
-        },
-        "discount_price": {
-          "amount": "TWD 96",
-          "currency": "TWD",
-          "raw_value": "96",
-          "start_datetime": "2026-10-26T16:00:00Z",
-          "end_datetime": "2026-11-09T15:59:59Z"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -101919,6 +100862,13 @@
           "currency": "TWD",
           "raw_value": "315"
         },
+        "discount_price": {
+          "amount": "TWD 94",
+          "currency": "TWD",
+          "raw_value": "94",
+          "start_datetime": "2026-11-09T16:00:00Z",
+          "end_datetime": "2026-11-23T15:59:59Z"
+        },
         "gold_point": {
           "basic_gift_gp": "0",
           "basic_gift_rate": "0",
@@ -103409,13 +102359,6 @@
           "amount": "TWD 1,190",
           "currency": "TWD",
           "raw_value": "1190"
-        },
-        "discount_price": {
-          "amount": "TWD 892",
-          "currency": "TWD",
-          "raw_value": "892",
-          "start_datetime": "2026-10-30T16:00:00Z",
-          "end_datetime": "2026-11-09T15:59:59Z"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -119255,6 +118198,13 @@
           "currency": "TWD",
           "raw_value": "252"
         },
+        "discount_price": {
+          "amount": "TWD 94",
+          "currency": "TWD",
+          "raw_value": "94",
+          "start_datetime": "2026-11-09T16:00:00Z",
+          "end_datetime": "2026-11-23T15:59:59Z"
+        },
         "gold_point": {
           "basic_gift_gp": "0",
           "basic_gift_rate": "0",
@@ -132795,6 +131745,13 @@
           "amount": "TWD 299",
           "currency": "TWD",
           "raw_value": "299"
+        },
+        "discount_price": {
+          "amount": "TWD 89",
+          "currency": "TWD",
+          "raw_value": "89",
+          "start_datetime": "2026-11-09T16:00:00Z",
+          "end_datetime": "2026-11-23T15:59:59Z"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -158121,6 +157078,13 @@
           "currency": "TWD",
           "raw_value": "799"
         },
+        "discount_price": {
+          "amount": "TWD 319",
+          "currency": "TWD",
+          "raw_value": "319",
+          "start_datetime": "2026-11-09T16:00:00Z",
+          "end_datetime": "2026-12-06T15:59:59Z"
+        },
         "gold_point": {
           "basic_gift_gp": "0",
           "basic_gift_rate": "0",
@@ -181446,13 +180410,6 @@
           "currency": "TWD",
           "raw_value": "860"
         },
-        "discount_price": {
-          "amount": "TWD 292",
-          "currency": "TWD",
-          "raw_value": "292",
-          "start_datetime": "2026-10-30T16:00:00Z",
-          "end_datetime": "2026-11-09T15:59:59Z"
-        },
         "gold_point": {
           "basic_gift_gp": "0",
           "basic_gift_rate": "0",
@@ -181514,13 +180471,6 @@
           "amount": "TWD 860",
           "currency": "TWD",
           "raw_value": "860"
-        },
-        "discount_price": {
-          "amount": "TWD 283",
-          "currency": "TWD",
-          "raw_value": "283",
-          "start_datetime": "2026-10-30T16:00:00Z",
-          "end_datetime": "2026-11-09T15:59:59Z"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -186673,13 +185623,6 @@
           "currency": "TWD",
           "raw_value": "198"
         },
-        "discount_price": {
-          "amount": "TWD 39",
-          "currency": "TWD",
-          "raw_value": "39",
-          "start_datetime": "2026-10-26T16:00:00Z",
-          "end_datetime": "2026-11-09T15:59:59Z"
-        },
         "gold_point": {
           "basic_gift_gp": "0",
           "basic_gift_rate": "0",
@@ -187694,13 +186637,6 @@
           "currency": "TWD",
           "raw_value": "560"
         },
-        "discount_price": {
-          "amount": "TWD 224",
-          "currency": "TWD",
-          "raw_value": "224",
-          "start_datetime": "2026-10-30T16:00:00Z",
-          "end_datetime": "2026-11-09T15:59:59Z"
-        },
         "gold_point": {
           "basic_gift_gp": "0",
           "basic_gift_rate": "0",
@@ -187761,13 +186697,6 @@
           "amount": "TWD 560",
           "currency": "TWD",
           "raw_value": "560"
-        },
-        "discount_price": {
-          "amount": "TWD 224",
-          "currency": "TWD",
-          "raw_value": "224",
-          "start_datetime": "2026-10-30T16:00:00Z",
-          "end_datetime": "2026-11-09T15:59:59Z"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -204340,6 +203269,13 @@
           "currency": "TWD",
           "raw_value": "1090"
         },
+        "discount_price": {
+          "amount": "TWD 218",
+          "currency": "TWD",
+          "raw_value": "218",
+          "start_datetime": "2026-11-09T16:00:00Z",
+          "end_datetime": "2026-11-16T15:59:59Z"
+        },
         "gold_point": {
           "basic_gift_gp": "0",
           "basic_gift_rate": "0",
@@ -207194,13 +206130,6 @@
           "currency": "TWD",
           "raw_value": "1190"
         },
-        "discount_price": {
-          "amount": "TWD 380",
-          "currency": "TWD",
-          "raw_value": "380",
-          "start_datetime": "2026-10-30T16:00:00Z",
-          "end_datetime": "2026-11-09T15:59:59Z"
-        },
         "gold_point": {
           "basic_gift_gp": "0",
           "basic_gift_rate": "0",
@@ -207981,13 +206910,6 @@
           "amount": "TWD 1,190",
           "currency": "TWD",
           "raw_value": "1190"
-        },
-        "discount_price": {
-          "amount": "TWD 380",
-          "currency": "TWD",
-          "raw_value": "380",
-          "start_datetime": "2026-10-30T16:00:00Z",
-          "end_datetime": "2026-11-09T15:59:59Z"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -209733,13 +208655,6 @@
           "currency": "TWD",
           "raw_value": "919"
         },
-        "discount_price": {
-          "amount": "TWD 459",
-          "currency": "TWD",
-          "raw_value": "459",
-          "start_datetime": "2026-10-29T16:00:00Z",
-          "end_datetime": "2026-11-09T15:59:59Z"
-        },
         "gold_point": {
           "basic_gift_gp": "0",
           "basic_gift_rate": "0",
@@ -210277,13 +209192,6 @@
           "amount": "TWD 919",
           "currency": "TWD",
           "raw_value": "919"
-        },
-        "discount_price": {
-          "amount": "TWD 459",
-          "currency": "TWD",
-          "raw_value": "459",
-          "start_datetime": "2026-10-29T16:00:00Z",
-          "end_datetime": "2026-11-09T15:59:59Z"
         },
         "gold_point": {
           "basic_gift_gp": "0",
@@ -212869,13 +211777,6 @@
           "amount": "TWD 919",
           "currency": "TWD",
           "raw_value": "919"
-        },
-        "discount_price": {
-          "amount": "TWD 551",
-          "currency": "TWD",
-          "raw_value": "551",
-          "start_datetime": "2026-10-29T16:00:00Z",
-          "end_datetime": "2026-11-09T15:59:59Z"
         },
         "gold_point": {
           "basic_gift_gp": "0",
