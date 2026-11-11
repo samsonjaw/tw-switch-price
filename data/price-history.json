@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T02:47:48.394Z",
+  "updatedAt": "2026-11-11T00:42:37.985Z",
   "snapshots": {
     "70010000131657": [
       {
@@ -589,6 +589,12 @@
         "regularPrice": 255,
         "salePrice": 191,
         "effectivePrice": 191
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 255,
+        "salePrice": null,
+        "effectivePrice": 255
       }
     ],
     "70010000122302": [
@@ -971,6 +977,12 @@
         "regularPrice": 746,
         "salePrice": 373,
         "effectivePrice": 373
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 746,
+        "salePrice": null,
+        "effectivePrice": 746
       }
     ],
     "70010000129854": [
@@ -1015,6 +1027,12 @@
         "regularPrice": 222,
         "salePrice": 79,
         "effectivePrice": 79
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 222,
+        "salePrice": null,
+        "effectivePrice": 222
       }
     ],
     "70010000121851": [
@@ -4203,6 +4221,12 @@
         "regularPrice": 780,
         "salePrice": null,
         "effectivePrice": 780
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 780,
+        "salePrice": 265,
+        "effectivePrice": 265
       }
     ],
     "70010000080906": [
@@ -4257,6 +4281,12 @@
         "regularPrice": 1490,
         "salePrice": null,
         "effectivePrice": 1490
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 1490,
+        "salePrice": 290,
+        "effectivePrice": 290
       }
     ],
     "70010000064543": [
@@ -4355,6 +4385,12 @@
         "regularPrice": 1490,
         "salePrice": null,
         "effectivePrice": 1490
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 1490,
+        "salePrice": 178,
+        "effectivePrice": 178
       }
     ],
     "70010000128590": [
@@ -6113,6 +6149,12 @@
         "regularPrice": 110,
         "salePrice": 88,
         "effectivePrice": 88
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 110,
+        "salePrice": null,
+        "effectivePrice": 110
       }
     ],
     "70010000130511": [
@@ -6129,6 +6171,12 @@
         "regularPrice": 110,
         "salePrice": 55,
         "effectivePrice": 55
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 110,
+        "salePrice": null,
+        "effectivePrice": 110
       }
     ],
     "70010000132080": [
@@ -6137,6 +6185,12 @@
         "regularPrice": 110,
         "salePrice": 55,
         "effectivePrice": 55
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 110,
+        "salePrice": null,
+        "effectivePrice": 110
       }
     ],
     "70010000132977": [
@@ -6175,6 +6229,12 @@
         "regularPrice": 110,
         "salePrice": 55,
         "effectivePrice": 55
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 110,
+        "salePrice": null,
+        "effectivePrice": 110
       }
     ],
     "70010000132201": [
@@ -7039,6 +7099,12 @@
         "regularPrice": 259,
         "salePrice": null,
         "effectivePrice": 259
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 259,
+        "salePrice": 96,
+        "effectivePrice": 96
       }
     ],
     "70010000127231": [
@@ -7299,6 +7365,12 @@
         "regularPrice": 329,
         "salePrice": 98,
         "effectivePrice": 98
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 329,
+        "salePrice": null,
+        "effectivePrice": 329
       }
     ],
     "70010000132490": [
@@ -10049,6 +10121,12 @@
         "regularPrice": 799,
         "salePrice": 319,
         "effectivePrice": 319
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 799,
+        "salePrice": null,
+        "effectivePrice": 799
       }
     ],
     "70010000083074": [
@@ -10243,6 +10321,12 @@
         "regularPrice": 799,
         "salePrice": 319,
         "effectivePrice": 319
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 799,
+        "salePrice": null,
+        "effectivePrice": 799
       }
     ],
     "70010000121386": [
@@ -10777,6 +10861,12 @@
         "regularPrice": 799,
         "salePrice": 319,
         "effectivePrice": 319
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 799,
+        "salePrice": null,
+        "effectivePrice": 799
       }
     ],
     "70010000117944": [
@@ -11373,6 +11463,12 @@
         "regularPrice": 188,
         "salePrice": null,
         "effectivePrice": 188
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 188,
+        "salePrice": 131,
+        "effectivePrice": 131
       }
     ],
     "70010000123203": [
@@ -12193,6 +12289,12 @@
         "regularPrice": 259,
         "salePrice": 181,
         "effectivePrice": 181
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 259,
+        "salePrice": null,
+        "effectivePrice": 259
       }
     ],
     "70010000117201": [
@@ -14165,6 +14267,12 @@
         "regularPrice": 990,
         "salePrice": 495,
         "effectivePrice": 495
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 990,
+        "salePrice": null,
+        "effectivePrice": 990
       }
     ],
     "70010000042453": [
@@ -14689,6 +14797,12 @@
         "regularPrice": 190,
         "salePrice": 95,
         "effectivePrice": 95
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 190,
+        "salePrice": null,
+        "effectivePrice": 190
       }
     ],
     "70010000119258": [
@@ -15159,6 +15273,12 @@
         "regularPrice": 482,
         "salePrice": 289,
         "effectivePrice": 289
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 482,
+        "salePrice": null,
+        "effectivePrice": 482
       }
     ],
     "70010000122515": [
@@ -15295,6 +15415,12 @@
         "regularPrice": 414,
         "salePrice": null,
         "effectivePrice": 414
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 414,
+        "salePrice": 124,
+        "effectivePrice": 124
       }
     ],
     "70010000116666": [
@@ -17693,6 +17819,12 @@
         "regularPrice": 319,
         "salePrice": null,
         "effectivePrice": 319
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 319,
+        "salePrice": 95,
+        "effectivePrice": 95
       }
     ],
     "70010000111499": [
@@ -18165,6 +18297,12 @@
         "regularPrice": 138,
         "salePrice": null,
         "effectivePrice": 138
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 138,
+        "salePrice": 69,
+        "effectivePrice": 69
       }
     ],
     "70010000061351": [
@@ -18575,6 +18713,12 @@
         "regularPrice": 320,
         "salePrice": null,
         "effectivePrice": 320
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 320,
+        "salePrice": 160,
+        "effectivePrice": 160
       }
     ],
     "70010000083571": [
@@ -18583,6 +18727,12 @@
         "regularPrice": 166,
         "salePrice": null,
         "effectivePrice": 166
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 166,
+        "salePrice": 83,
+        "effectivePrice": 83
       }
     ],
     "70010000089977": [
@@ -18591,6 +18741,12 @@
         "regularPrice": 282,
         "salePrice": null,
         "effectivePrice": 282
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 282,
+        "salePrice": 169,
+        "effectivePrice": 169
       }
     ],
     "70010000050407": [
@@ -19055,6 +19211,12 @@
         "regularPrice": 1190,
         "salePrice": null,
         "effectivePrice": 1190
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 1190,
+        "salePrice": 708,
+        "effectivePrice": 708
       }
     ],
     "70010000112234": [
@@ -19813,6 +19975,12 @@
         "regularPrice": 642,
         "salePrice": null,
         "effectivePrice": 642
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 642,
+        "salePrice": 385,
+        "effectivePrice": 385
       }
     ],
     "70010000111728": [
@@ -20473,6 +20641,12 @@
         "regularPrice": 315,
         "salePrice": 94,
         "effectivePrice": 94
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 315,
+        "salePrice": null,
+        "effectivePrice": 315
       }
     ],
     "70010000098540": [
@@ -22457,6 +22631,12 @@
         "regularPrice": 259,
         "salePrice": 97,
         "effectivePrice": 97
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 259,
+        "salePrice": null,
+        "effectivePrice": 259
       }
     ],
     "70010000112660": [
@@ -22705,6 +22885,12 @@
         "regularPrice": 110,
         "salePrice": 55,
         "effectivePrice": 55
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 110,
+        "salePrice": null,
+        "effectivePrice": 110
       }
     ],
     "70010000111074": [
@@ -23853,6 +24039,12 @@
         "regularPrice": 535,
         "salePrice": null,
         "effectivePrice": 535
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 535,
+        "salePrice": 353,
+        "effectivePrice": 353
       }
     ],
     "70010000033607": [
@@ -24371,6 +24563,12 @@
         "regularPrice": 590,
         "salePrice": null,
         "effectivePrice": 590
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 590,
+        "salePrice": 118,
+        "effectivePrice": 118
       }
     ],
     "70010000046341": [
@@ -27569,6 +27767,12 @@
         "regularPrice": 249,
         "salePrice": 93,
         "effectivePrice": 93
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 249,
+        "salePrice": null,
+        "effectivePrice": 249
       }
     ],
     "70010000105960": [
@@ -31703,6 +31907,12 @@
         "regularPrice": 990,
         "salePrice": null,
         "effectivePrice": 990
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 990,
+        "salePrice": 590,
+        "effectivePrice": 590
       }
     ],
     "70010000105404": [
@@ -31871,6 +32081,12 @@
         "regularPrice": 990,
         "salePrice": null,
         "effectivePrice": 990
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 990,
+        "salePrice": 590,
+        "effectivePrice": 590
       }
     ],
     "70010000092259": [
@@ -31999,6 +32215,12 @@
         "regularPrice": 990,
         "salePrice": null,
         "effectivePrice": 990
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 990,
+        "salePrice": 490,
+        "effectivePrice": 490
       }
     ],
     "70010000104979": [
@@ -32257,6 +32479,12 @@
         "regularPrice": 1090,
         "salePrice": null,
         "effectivePrice": 1090
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 1090,
+        "salePrice": 545,
+        "effectivePrice": 545
       }
     ],
     "70010000089062": [
@@ -34529,6 +34757,12 @@
         "regularPrice": 1690,
         "salePrice": null,
         "effectivePrice": 1690
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 1690,
+        "salePrice": 338,
+        "effectivePrice": 338
       }
     ],
     "70010000024291": [
@@ -34687,6 +34921,12 @@
         "regularPrice": 480,
         "salePrice": null,
         "effectivePrice": 480
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 480,
+        "salePrice": 240,
+        "effectivePrice": 240
       }
     ],
     "70010000104016": [
@@ -34817,6 +35057,12 @@
         "regularPrice": 468,
         "salePrice": null,
         "effectivePrice": 468
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 468,
+        "salePrice": 47,
+        "effectivePrice": 47
       }
     ],
     "70010000040405": [
@@ -34885,6 +35131,12 @@
         "regularPrice": 697,
         "salePrice": null,
         "effectivePrice": 697
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 697,
+        "salePrice": 167,
+        "effectivePrice": 167
       }
     ],
     "70010000048898": [
@@ -35035,6 +35287,12 @@
         "regularPrice": 1390,
         "salePrice": null,
         "effectivePrice": 1390
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 1390,
+        "salePrice": 556,
+        "effectivePrice": 556
       }
     ],
     "70010000051457": [
@@ -35183,6 +35441,12 @@
         "regularPrice": 890,
         "salePrice": null,
         "effectivePrice": 890
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 890,
+        "salePrice": 267,
+        "effectivePrice": 267
       }
     ],
     "70010000057886": [
@@ -37909,6 +38173,12 @@
         "regularPrice": 179,
         "salePrice": 89,
         "effectivePrice": 89
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 179,
+        "salePrice": null,
+        "effectivePrice": 179
       }
     ],
     "70010000058664": [
@@ -38177,6 +38447,12 @@
         "regularPrice": 1090,
         "salePrice": null,
         "effectivePrice": 1090
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 1090,
+        "salePrice": 545,
+        "effectivePrice": 545
       }
     ],
     "70010000086636": [
@@ -38597,6 +38873,12 @@
         "regularPrice": 299,
         "salePrice": null,
         "effectivePrice": 299
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 299,
+        "salePrice": 89,
+        "effectivePrice": 89
       }
     ],
     "70010000104338": [
@@ -40049,6 +40331,12 @@
         "regularPrice": 468,
         "salePrice": null,
         "effectivePrice": 468
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 468,
+        "salePrice": 234,
+        "effectivePrice": 234
       }
     ],
     "70010000101801": [
@@ -40397,6 +40685,12 @@
         "regularPrice": 468,
         "salePrice": null,
         "effectivePrice": 468
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 468,
+        "salePrice": 234,
+        "effectivePrice": 234
       }
     ],
     "70010000044377": [
@@ -42361,6 +42655,12 @@
         "regularPrice": 704,
         "salePrice": null,
         "effectivePrice": 704
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 704,
+        "salePrice": 422,
+        "effectivePrice": 422
       }
     ],
     "70010000127494": [
@@ -42857,6 +43157,12 @@
         "regularPrice": 473,
         "salePrice": null,
         "effectivePrice": 473
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 473,
+        "salePrice": 156,
+        "effectivePrice": 156
       }
     ],
     "70010000123163": [
@@ -43701,6 +44007,12 @@
         "regularPrice": 377,
         "salePrice": 297,
         "effectivePrice": 297
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 377,
+        "salePrice": null,
+        "effectivePrice": 377
       }
     ],
     "70010000127075": [
@@ -43709,6 +44021,12 @@
         "regularPrice": 799,
         "salePrice": 319,
         "effectivePrice": 319
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 799,
+        "salePrice": null,
+        "effectivePrice": 799
       }
     ],
     "70010000125636": [
@@ -43829,6 +44147,12 @@
         "regularPrice": 189,
         "salePrice": null,
         "effectivePrice": 189
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 189,
+        "salePrice": 65,
+        "effectivePrice": 65
       }
     ],
     "70010000096137": [
@@ -44831,6 +45155,12 @@
         "regularPrice": 95,
         "salePrice": null,
         "effectivePrice": 95
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 95,
+        "salePrice": 76,
+        "effectivePrice": 76
       }
     ],
     "70010000129164": [
@@ -44877,6 +45207,12 @@
         "regularPrice": 799,
         "salePrice": 319,
         "effectivePrice": 319
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 799,
+        "salePrice": null,
+        "effectivePrice": 799
       }
     ],
     "70010000128353": [
@@ -45429,6 +45765,12 @@
         "regularPrice": 799,
         "salePrice": 319,
         "effectivePrice": 319
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 799,
+        "salePrice": null,
+        "effectivePrice": 799
       }
     ],
     "70010000117239": [
@@ -46113,6 +46455,12 @@
         "regularPrice": 316,
         "salePrice": null,
         "effectivePrice": 316
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 316,
+        "salePrice": 94,
+        "effectivePrice": 94
       }
     ],
     "70010000104944": [
@@ -46341,6 +46689,12 @@
         "regularPrice": 259,
         "salePrice": null,
         "effectivePrice": 259
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 259,
+        "salePrice": 96,
+        "effectivePrice": 96
       }
     ],
     "70010000117487": [
@@ -46493,6 +46847,12 @@
         "regularPrice": 280,
         "salePrice": null,
         "effectivePrice": 280
+      },
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 280,
+        "salePrice": 140,
+        "effectivePrice": 140
       }
     ],
     "70010000104586": [
@@ -47171,6 +47531,38 @@
         "regularPrice": 358,
         "salePrice": 179,
         "effectivePrice": 179
+      }
+    ],
+    "70010000115536": [
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 590,
+        "salePrice": null,
+        "effectivePrice": 590
+      }
+    ],
+    "70010000138175": [
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 399,
+        "salePrice": 199,
+        "effectivePrice": 199
+      }
+    ],
+    "70010000105001": [
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 378,
+        "salePrice": null,
+        "effectivePrice": 378
+      }
+    ],
+    "70010000122386": [
+      {
+        "at": "2026-11-11T00:42:37.985Z",
+        "regularPrice": 1490,
+        "salePrice": null,
+        "effectivePrice": 1490
       }
     ]
   }
